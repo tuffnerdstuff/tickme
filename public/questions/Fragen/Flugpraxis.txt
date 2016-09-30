@@ -1,0 +1,1207 @@
+001. Wo kann man sich über ein unbekanntes Fluggelände informieren?
+Im Luftfahrerhandbuch
+Bei der nächstgelegenen Polizeidienststelle
+Bei der zuständigen Luftfahrtbehörde
+x Bei der Bergbahn, der örtlichen Flugschule und einheimischen Piloten
+
+002. Wichtige Informationen, die der Pilot vor dem ersten Flug in einem ihm unbekannten Gelände einholensollte sind u.a.
+Name des Geländehalter und Luftraumstatus
+x örtliche Flugregeln, Wetter- und Geländebesonderheiten
+besondere Vorflugregeln im Gelände
+Alle sind richtig
+
+003. Eine gründliche Geländeeinweisung durch einen örtlich erfahrenen Fluglehrer
+ist in Deutschland durch LuftPersV § 97 a vorgeschrieben
+ist in Österreich durch die Luftverkehrsregeln (LVR) vorgeschrieben
+x ist dringend zu empfehlen
+ist sowohl in Deutschland (LuftPersV §97) als auch in Österreich (LVR) vorgeschrieben
+
+004. Der Pilot macht sich mit einem ihm unbekannten Gelände am besten vertraut indem er
+zunächst einen Doppelsitzerflug mit einem Fluglehrer macht
+x zunächst einige Flüge in den ruhigen Morgenstunden macht
+einen Flug bei starker Thermik macht um die Turbulenzbereiche des Geländes kennen zulernen
+eine topografische Karte des Gebietes gründlich studiert
+
+005. Worauf ist bei der Beurteilung eines unbekannten Landeplatzes besonders zu achten?
+Auf Stromleitungen, Zäune und die Position des Windsacks
+Auf Informationsschilder
+Auf die Hauptwindrichtung, Geländegefälle, Hindernisse, mögliche Leegebiete bei stärkerem Windsowie die Möglichkeit der Landeeinteilung bei unterschiedlichen Windrichtungen
+x Alle sind richtig
+
+006. <Abbildung8.jpg> Die Abbildung zeigt einen Gleitschirmstartplatz. Startrichtung 180 Grad. Bei einemSüdwind von 5-10 km/h
+herrscht Rückenwind
+ist mit gefährlichen Turbulenzen über der Baumreihe zu rechnen
+ist der Aufwind zu schwach um sicher über die Baumreihe zu kommen
+x herrschen ideale Startbedingungen
+
+007. <Abbildung8.jpg> Die Abbildung zeigt einen Gleitschirmstartplatz. Startrichtung 180 Grad. Bei 20 km/h Südwind
+x ist mit Turbulenzen im Lee der Baumreihe zu rechnen
+kann hier nur mit einem Rückwärtsstart sicher gestartet werden
+ist das Startgelände zu flach um sicher über die Baumreihe zu kommen
+herrscht starker Rückenwind, ein Start ist unmöglich
+
+008. <Abbildung8.jpg> Die Abbildung zeigt einen Gleitschirmstartplatz, Startrichtung 180 Grad. Bei einemNordwind mit 5 km/h am Startplatz
+herrschen ideale Startbedingungen
+ist der Aufwind zu schwach um sicher über die Bäume zu fliegen
+darf nicht gestartet werden, weil Rückenwind herrscht
+x ist ein sicherer Start nicht möglich, weil Rückenwind die Startstrecke verlängert und der Aufwind zuschwach ist, um über die Bäume zu fliegen
+
+009. <Abbildung8.jpg> Die Abbildung zeigt einen Gleitschirmstartplatz, Startrichtung 180 Grad. Bei einem Wind mit 15 km/h aus 230 Grad am Startplatz
+darf nicht gestartet werden, weil Rückenwind herrscht
+herrschen ideale Startbedingungen
+x ist ein Start gefährlich, weil sich Anlauf- und Abflugstrecke im Lee der hohen Bäume rechts des Startplatzes befinden
+herrscht Startverbot, weil der Seitenwind zu stark von links (Südost) kommt
+
+010. Beim Aufziehen in einem steilen Startgelände
+x steigt die Kappe schnell über den Piloten und muss ggf. mit kräftigem Anbremsen stabilisiert werden
+steigt die Kappe langsam über den Piloten und muss zum Stabilisieren nur wenig angebremst werden
+muss stets mit einem Einklapper gerechnet werden
+kann der Pilot auf die Kontrollphase verzichten
+
+011. <Abbildung10.jpg> Die Abbildung zeigt einen Startplatz in einer Waldschneise. Welche Aussagen sindrichtig?
+Startplätze in Waldschneisen sind bei Seitenwind unkritisch, weil der Wind durch die Schneise kanalisiert wird und dadurch immer von vorne kommt
+Startplätze in Waldschneisen sind bei Rückenwind unkritisch, weil sie besonders gut gegenLeebereiche abgeschirmt sind
+x Bereits leichte Seitenwindtendenz macht das Starten, wegen der entstehenden Windverwirbelungen,kritisch
+Startplätze in Waldschneisen sind nur bei Windstille zum Starten mit dem Gleitschirm geeignet
+
+012. <Abbildung10.jpg> Bei Windstille am Startplatz in der Abbildung
+herrschen ideale Startbedingungen
+sollte nicht gestartet werden, weil der Aufwind zu gering ist, um das Flusstal sicher zu überfliegen.
+x ist die Startstrecke für ein sicheres Überfliegen der Bäume, die den Startplatz nach unten begrenzen, voraussichtlich zu kurz
+kann gestartet werden, der Schirm sollte aber unterhalb der Geländestufe ausgelegt werden
+
+013. <Abbildung10.jpg> Bei einem Wind am Startplatz in der Abbildung, der mit 15 km/h 45 Grad von linkskommt,
+x darf nicht gestartet werden, weil sich hinter der linken Baumreihe Turbulenzen bilden, die Startlaufund Abflug gefährden
+muss der Schirm am äußersten rechten Rand des Startplatzes ausgelegt werden und Startlauf undAbflug nach links erfolgen
+muss der Schirm am äußersten linken Rand des Startplatzes ausgelegt werden und Startlauf und Abflugnach rechts erfolgen
+darf nicht gestartet werden, weil die Seitenwindkomponente zu groß ist, um das Flusstal sicher zu überfliegen
+
+014. <Abbildung10.jpg> Bei welchen Windbedingungen herrschen am Startplatz auf der Abbildung ideale Startbedingungen?
+Bei Windstille
+Bei 2-4 km/h Wind direkt von vorne
+x Bei 8 - 15 km/h Wind direkt von vorne
+Bei 25 - 30 km/h Wind direkt von vorne
+
+015. Im steilen Startgelände zieht der Pilot seinen Schirm
+mit einem kräftigen Impuls bei durchhängenden A-Leinen auf
+x mit geringem Impuls bei gespannten A-Leinen auf
+am besten nur rückwärts auf
+mit der gleichen Technik wie im flachen Startgelände auf
+
+016. Beim Vorflugcheck
+wird die Wetterentwicklung beurteilt
+werden die Splinte des Rettungsgerätes kontrolliert
+werden die Leinen sortiert und kontrolliert
+x Alle sind richtig
+
+017. Wann erfolgt die Kontrolle der A- und Bremsleinen?
+Nur beim Vorflugcheck
+Nur beim Startcheck
+x Beim Vorflugcheck und beim Startcheck
+Nur beim Kontrollblick
+
+018. Was kann passieren, wen die Splinte des Rettungsgeräte-Außencontainers nicht ordnungsgemäß geschlossen sind?
+x Der Innencontainer kann während des Startlaufs oder im Flug herausfallen
+Der Außencontainer kann während des Startlaufs oder im Flug herausfallen
+Der Auslösegriff kann sich vom Innencontainer lösen
+Der Auslösegriff kann sich vom Außencontainer lösen
+
+019. Zu welchem Zeitpunkt ist der Startcheck durchzuführen?
+Wenn der Gleitschirm fertig ausgelegt ist und die Leinen kontrolliert sind
+x Unmittelbar vor dem Start, wenn der Pilot startbereit ist
+In der Aufziehphase und während der Kontrollphase
+Bevor der Pilot das Gurtzeug anlegt
+
+020. Beim Startcheck werden folgende Punkte einer letzten Kontrolle unterzogen:
+x Pilot, Leinen, Kappe, Luftraum, Wind
+Startplatz, Pilot, Kappe, Luftraum, Wind
+Pilot, Gurtzeug, Leinen, Luftraum, Wind
+Tragegurte, Eintrittskante, Rettungsgerät, Hindernisfreiheit, Wind
+
+021. In welcher Reihenfolge werden die Verschlüsse bei Anlegen des Gurtzeuges geschlossen?
+Brustgurt, linker Beingurt, rechter Beingurt
+Brustgurt, Beingurte
+x Beingurte, Brustgurt
+Brustgurt, rechter Beingurt, linker Beingurt
+
+022. Sehr locker eingestellte Beingurte
+erleichtern das Hineinsetzen ins Gurtzeug nach dem Start, weit der Pilot mehr Bewegungsfreiheit hat
+können zum vollständigen Herausrutschen aus dem Gurtzeug führen
+x können das Hineinsetzen ins Gurtzeug erschweren, weil sich das Sitzbrett schräg stellen kann
+erlauben ein besonders komfortables Fliegen
+
+023. Der Brustgurt sollte
+stets sehr eng eingestellt werden, um dem Piloten mehr Stabilität im Gurtzeug zu geben
+stets sehr weit eingestellt sein, um die Bewegungen der Kappe unmittelbar auf den Piloten zu übertragen
+x gerade so locker eingestellt sein, dass der Startlauf mit Vorlage möglich ist und im Flug gut mit Körpergewichtseinsatz gesteuert werden kann
+so eingestellt werden, wie der Pilot dies bevorzugt
+
+024. Ein sehr eng eingestellter Brustgurt
+erschwert das Beschleunigen mit Vorlage
+erschwert den Körpergewichtseinsatz beim Steuern
+kann das Verhalten des Schirmes in der Steilspirale negativ beeinflussen
+x Alle sind richtig
+
+025. Die Seitenverstellung des Gurtzeugs sollte so eingestellt sein, dass der Pilot
+x mühelos eine aufrechte und laufbereite Abflug- und Anflughaltung einnehmen kann und in entspannter, sitzender Position fliegt
+mühelos eine aufrechte und laufbereite Abflug- und Anflughaltung einnehmen kann in entspannter weitgehend liegender Sitzposition fliegt
+unmittelbar nach dem Abheben möglichst schnell seine Flugposition einnehmen kann
+während des Fluges ständig seine Kappe beobachten kann ohne den Kopf nach hinten biegen zu müssen
+
+026. Ein für den Piloten zu großes Gurtzeug kann folgende Auswirkungen auf das Flugverhalten haben:
+Keine Auswirkungen, eine exakte Anpassung ist mittels der Verstellmöglichkeiten auch auf einen kleineren Piloten gegeben.
+Kippeliges, unruhiges Fluggefühl, unpräzise Gewichtssteuerung, bedingt durch das zu breite Sitzbrett
+Der Aufhängepunkt verschiebt sich nach oben, Start- und Steuerverhalten können dadurch negativ beeinflusst werden
+x Kippeliges, unruhiges Fluggefühl, unpräzise Gewichtssteuerung, bedingt durch das zu breite Sitzbrett, der Aufhängepunkt verschiebt sich nach oben, Start- und Steuerverhalten können dadurch negativ beeinflusst werden 
+
+027. Bestes Gleiten - geringstes Sinken. Welcher Steuerleinenstellung am Gleitschirm ist für diese Geschwindigkeitsbereiche, in der angegebenen Reihenfolge, richtig ?
+Voll Beschleunigt - ca. 10 cm Steuerweg
+x Bremse ganz gelöst - ca. 20 - 40 cm Steuerweg
+Ca. 20 cm Steuerweg - ca. 50 - 60 cm Steuerweg
+Ca. 40 cm Steuerweg - ca. 80 cm Steuerweg
+
+028. Bei einem Gegenwind von 17 km/h und einer Fluggeschwindigkeit des Gleitschirmes von 34 km/h
+verdoppelt sich die Gleitzahl annähernd
+halbiert sich die Gleitzahl annähernd
+verdoppelt sich der Gleitwinkel annähernd
+x sowohl die Gleitzahl halbiert sich annähernd als auch der Gleitwinkel verdoppelt sich annähernd
+
+029. Bei einem Rückenwind von 20 km/h und einer Fluggeschwindigkeit des Gleitschirmes von 35 km/h
+x fliegt der Gleitschirm mit 55 km/h über Grund
+fliegt der Gleitschirm mit 15 km/h über Grund
+fliegt der Gleitschirm mit 20 km/h über Grund
+fliegt der Gleitschirm mit 35 km/h über Grund
+
+030. <Abbildung11.jpg> Welche Geschwindigkeitsbereiche werden in der Bildreihe - in der Reihenfolge der Bilder - demonstriert?
+Geringstes Sinken - bestes Gleiten - Minimalfahrt
+Minimalfahrt - bestes Gleiten - Geringstes Sinken
+x Bestes Gleiten - Geringstes Sinken - Minimalfahrt bzw. Strömungsabriss
+Geringstes Sinken - bestes Gleiten - Strömungsabriss
+
+031. Beim Aufziehen im steilen Startgelände merkt der Pilot, dass die Kappe dynamisch vorschießt. Er muss
+schneller laufen um die Kappe \"einzuholen\"
+den Start mit einseitigem Steuerzug sofort abbrechen
+leicht anbremsen um die Kappe zu stabilisieren
+x energisch beidseitig anbremsen bis der Schirm stabilisiert ist
+
+032. Mit der Geschwindigkeit des besten Gleitens
+x legt der Schirm die weiteste Strecke zurück
+hat der Schirm den geringsten Höhenverlust
+fliegt man aus Sicherheitsgründen in Turbulenzen
+ist am wenigsten mit Einklappern zu rechnen
+
+033. Im flachen Startgelände und bei schwachem Gegenwind
+steigt der Schirm rasch über den Piloten, die Startstrecke ist kurz
+steigt der Schirm rasch über den Piloten, die Startstrecke ist lang
+steigt der Schirm verzögert über den Piloten, die Startstrecke ist kurz
+x steigt der Schirm verzögert über den Piloten, die Startstrecke ist lang 
+
+034. Flacher Startplatz und Windstille. Der Pilot zieht seinen Schirm
+x mit einem deutlichen Impuls bei durchhängenden A-Leinen auf
+mit geringem Impuls bei gespannten A-Leinen auf
+am besten nur rückwärts auf
+mit der gleichen Technik wie im steilen Startgelände auf
+
+035. Flacher Startplatz und Windstille. Der Pilot hat sich darauf einzustellen,
+x dass die Abhebegeschwindigkeit erst nach langer Startstrecke und mit hoher Laufgeschwindigkeit erreicht wird
+dass er die Abhebegeschwindigkeit nicht erreicht
+dass die Abhebegeschwindigkeit bereits nach kurzer Startstrecke und niedriger Laufgeschwindigkeit erreicht wird
+dass er die Abhebegeschwindigkeit durch beidseitiges starkes Anbremsen reduzieren muss
+
+036. Am Startplatz wechselt mäßiger Rückenwind mit deutlichen thermischen Ablösungen von vorne. Wie sollte sich der Pilot verhalten?
+In einer Aufwindphase starten
+In einer Rückenwindphase starten
+x Nicht starten, die Verhältnisse deuten auf eine Leesituation hin
+Nur starten, wenn der Rückenwind nicht stärker als 10 km/h ist
+
+037. Am Startplatz herrschen böige Windbedingungen mit Geschwindigkeiten zwischen 5 und 20 km/h und Windrichtungsabweichungen bis 45 Grad von der Startrichtung. Der Pilot
+muss sich auf turbulente Flugbedingungen einstellen
+sollte nicht starten, wenn er einen ruhigen Genussflug geplant hat
+muss besonders auf Turbulenzen im Lee möglicher Hindernisse im Start- und Abflugbereich achten
+x Alle sind richtig
+
+038. Welche Aussagen sind hinsichtlich Starts in Waldschneisen richtig?
+Waldschneisen sind ideale Startplätze
+In Waldschneisen darf generell nicht gestartet werden
+x Bei Seitenwind bilden sich gefährliche Turbulenzen
+Bei Wind von vorne bilden sich gefährliche Turbulenzen
+
+039. In welcher Flugsituation ist das Fliegen mit Minimalfahrt empfehlenswert?
+x In keiner, Fliegen mit Minimalfahrt ist sehr gefährlich
+In schwacher Thermik, um möglichst lange im Aufwind zu bleiben
+In starker Thermik, um die Schirmkappe stabil zu halten
+Im Endanflug, um eine niedrige Landegeschwindigkeit zu erreichen
+
+040. In welcher Flugsituation ist das Fliegen mit der Geschwindigkeit des geringsten Sinkens empfehlenswert?
+In keiner, Fliegen mit geringstem Sinken ist sehr gefährlich
+x In schwacher bis mäßig starker Thermik und beim Hangsoaring
+Bei Talquerungen auf Streckenflügen
+Um einen weit entfernten Landeplatz zu erreichen 
+
+041. In welcher Flugsituation ist das Fliegen mit der Geschwindigkeit des besten Gleitens empfehlenswert?
+In schwacher bis mäßig starker Thermik
+Beim Hangsoaring
+x Um einen weit entfernten Landeplatz zu erreichen
+Generell auf Streckenflügen
+
+042. <Abbildung13.jpg> Die Abbildung zeigt einen Gleitschirm beim Einflug in die Thermik. Wie sollte sich der Pilot in dieser Situation verhalten?
+Den Schirm sofort deutlich anbremsen um die Sinkgeschwindigkeit zu verringern und die Kappe zu stabilisieren
+Mit gleicher Steuerleinenstellung weiterfliegen
+Sofort Einkreisen um im Thermikzentrum zu bleiben
+x Beide Steuerleinen soweit freigeben, dass der Schirm wieder von hinten über den Piloten kommt
+
+043. <Abbildung14.jpg> Die Abbildung zeigt einen Gleitschirm beim Ausflug aus einer Thermik. Wie sollte sich der Pilot in dieser Situation verhalten?
+x Die Nickbewegung nach vorne durch beidseitiges Anbremsen stoppen
+Beide Bremsen freigeben um keinen Sackflug zu provozieren
+Betätigung des Beschleunigungssystems um schnell aus dem Abwindbereich der Thermik zu kommen
+Die Rollbewegung nach vorne stoppen
+
+044. Welche Aussagen zur Peilmethode beim Überfliegen von Hindernissen sind richtig?
+Wandert das angepeilte Hindernis deutlich Richtung Hintergrund, ist ein Überfliegen nicht möglich
+Wandert das angepeilte Hindernis deutlich Richtung Vordergrund, ist ein Überfliegen möglich
+Behält das angepeilte Hindernis seine Position ohne wesentliche Änderung bei, ist ein sicherer Überflug nicht möglich
+x Alle sind richtig
+
+045. Wie soll sich der Pilot beim Ausfall einer Steuerleine verhalten?
+Sofort das Rettungsgerät auslösen
+Der Schirm bleibt in diesem Fall durch Steuerung mit Gewichtsverlagerung voll steuerbar
+x Der Schirm bleibt über die hinteren Tragegurte, bei deutlich kürzeren Steuerwegen, steuerbar
+Der Schirm bleibt über die A- Tragegurte, bei deutlich längeren Steuerwegen, steuerbar
+
+046. Eine Hanglandung mit dem Gleitschirm
+erfolgt gegen den Wind
+erfolgt hangaufwärts
+erfolgt hangabwärts
+x erfolgt quer zum Hang
+
+047. Ist eine Landung im Wald unvermeidbar, muss der Pilot
+versuchen, in einer Lichtung zu landen, auch wenn diese sehr klein ist
+x gezielt und frontal in einen Baum hinein fliegen
+gezielt mit einer Flügelseite in einen Baum fliegen um die Verletzungsgefahr durch Stamm und Äste für den Piloten minimieren
+unmittelbar vor der Baumberührung das Rettungsgerät auslösen 
+
+048. Mit was muss der Pilot an Berghängen unterhalb von Almen, Berghütten und größeren Holzeinschlägen stets rechnen?
+Mit niedrig über dem Boden verlaufenden, schlecht sichtbaren Telefonleitungen
+Mit heftigen Turbulenzen
+x Mit schlecht sichtbaren Kabeln von Materialseilbahnen
+Alle sind richtig
+
+049. Ein Pilot wird beim Fliegen von einem Regenschauer überrascht. Welche Aussagen zum richtigen Pilotenverhalten sind korrekt?
+Sofort eine Steilspirale einleiten um schnellstmöglich Höhe abzubauen und rasch landen zu können
+Wegen großer Einklappgefahr sofort die Ohren anlegen und das Niederschlagsgebiet schnellstmöglich verlassen
+x Niederschlagsgebiet schnellstmöglich verlassen. Wegen Sackflug- bzw. Trudelgefahr keine Abstiegshilfen mit nassem Schirm durchführen und nicht stark anbremsen
+Niederschlagsgebiet schnellstmöglich verlassen. Schirm durch starkes Anbremsen stabilisieren
+
+050. Ein Pilot fliegt mit einer Geschwindigkeit zwischen bestem Gleiten und geringsten Sinken in turbulenten Flugbedingungen. Lässt der Steuerdruck auf den Bremsen beidseitig deutlich nach,
+will die Kappe nach hinten nicken, der Pilot muss in diesem Fall die Bremsen sofort freigeben um einen Strömungsabriss zu vermeiden
+will die Kappe nach hinten nicken, der Pilot muss in diesem Fall sofort beidseitig anbremsen um einen Einklapper zu verhindern
+x will die Kappe nach vorne nicken, der Pilot muss bis zum Erreichen des ursprünglichen Steuerdrucks anbremsen um ein Einklappen zu verhindern
+will die Kappe nach vorne nicken, der Pilot muss in diesem Fall beide Bremsen vollständig freigeben um einen Einklapper zu verhindern
+
+051. Ein Pilot fliegt mit einer Geschwindigkeit zwischen bestem Gleiten und geringstem Sinken. Steigt der Steuerdruck auf den Bremsen bei gleich bleibender Bremsstellung beidseitig deutlich an,
+x will die Kappe nach hinten nicken, der Pilot muss die Bremsen bis zum Erreichen des ursprünglichen Steuerdrucks freigeben
+will die Kappe nach hinten nicken, der Pilot muss in diesem Fall sofort beidseitig anbremsen um einen Einklapper zu verhindern
+will die Kappe nach vorne nicken, der Pilot muss beidseitig bis zum Erreichen des ursprünglichen Steuerdrucks anbremsen um ein Einklappen zu verhindern
+will die Kappe nach vorne nicken, der Pilot muss in diesem Fall beide Bremsen vollständig freigeben um einen Einklapper zu verhindern
+
+052. Ein Pilot fliegt mit einer Geschwindigkeit zwischen bestem Gleiten und geringstem Sinken. Schlagartig lässt der Steuerdruck auf einer Bremse vollständig nach. Der Schirm
+x beginnt einseitig zu entlasten. Mit Nachbremsen bis zum gewohnten Steuerdruck kann ein seitliches Einklappen verhindert werden
+ist am Beginn einer Trudelbewegung (Negativdrehung). Die betroffene Steuerleine muss sofort vollständig freigegeben werden
+gerät vermutlich sofort in eine Steilspirale. Kräftiges Anbremsen auf der Gegenseite ist hier die richtige Pilotenreaktion
+Alle sind möglich 
+
+053. Die optische Kontrolle der Fluglage in turbulenten Bedingungen erfolgt
+durch das Beobachten der Kappe um Störungen wie Einklapper oder Strömungsabrisse bereits im Ansatz zu erkennen
+x durch Blick in Flugrichtung, um Abweichungen wie Vor- oder Zurücknicken, Abkippen etc. zu erkennen
+durch Beobachten des Variometers, um gefährlich starkes Steigen oder Sinken zu erkennen
+durch Blick zum Boden, um eine möglicherweise gefährliche Annäherung rechtzeitig zu erkennen
+
+054. <Abbildung15.jpg> Der Pilot in der Abbildung fliegt von West nach Ost über dem Grat. In Grathöhe herrscht ein laminarer Nordwind mit 15 km/h. Im Moment befindet sich der Pilot
+auf der Leeseite im Abwindbereich
+auf der Leeseite im Aufwindband
+x auf der Luvseite im Aufwindband
+auf der Luvseite im Abwindbereich
+
+055. <Abbildung15.jpg> Der Pilot in der Abbildung fliegt von West nach Ost über dem Grat. 25 km/h laminarer Nordwind in Grathöhe. Welche Aussagen zu möglichen Gefahren für den Piloten in seiner Flugposition sind richtig ?
+Der Pilot befindet sich bereits deutlich im Lee und muss mit schweren Turbulenzen rechnen
+x Mit zunehmendem Höhengewinn wird die Aufwindkomponente schwächer und die horizontale Windgeschwindigkeit größer. Es besteht die Gefahr ins Lee abgetrieben zu werden
+Die hohe Windgeschwindigkeit verschlechtert den Gleitwinkel des Schirmes so stark, dass ein Erreichen des Landeplatzes in diesem flachen Gelände nicht mehr möglich ist
+Antwortmöglichkeiten \"mit zunehmendem Höhengewinn...\" und \"Die hohe Windgeschwindigkeit...\" sind richtig.
+
+056. In turbulenten Flugbedingungen muss der Pilot zur Stabilisierung seines Schirmes
+ständig mit der Steuerleinenstellung für geringstes Sinken fliegen um den Staudruck in der Kappe zu erhöhen
+beschleunigt fliegen, denn "Geschwindigkeit ist Sicherheit"
+x über die Bremsen auf ansteigenden oder nachlassenden Steuerdruck reagieren
+die Ohren anlegen, um der Kappe eine höhere Stabilität gegen Einklapper zu geben
+
+057. Ein drohender seitlicher Einklapper kündigt sich meist an durch
+schlagartig ansteigenden Steuerdruck an der Bremsleine der betreffenden Seite
+x deutlich nachlassenden Steuerdruck an der Bremsleine der betreffenden Seite
+deutlich nachlassender Steuerdruck an der Bremsleine der Gegenseite
+ein laut raschelndes Geräusch der Kappe
+
+058. Wie muss sich der Pilot verhalten, wenn der Schirm nach einem Einklapper wegzudrehen beginnt?
+Zunächst die eingeklappte Seite durchbremsen um den Klapper zu öffnen, anschließend Richtungskorrektur mit Gegenbremse und Gewichtsverlagerung
+Beide Bremsen müssen vollständig freigegeben werden, damit kein Strömungsabriss provoziert wird
+Richtungskorrektur und Wiederöffnung des Einklappers erfolgen gleichzeitig durch beidseitiges kräftiges Durchbremsen mit den Steuerleinen
+x Zunächst Richtungskorrektur mit Gegenbremse und Gewichtsverlagerung, anschließend die eingeklappte Seite durchbremsen und Klapper öffnen 
+
+059. Bei großen seitlichen Einklappern (mehr als die Hälfte der Fläche)
+wird der Schirm am besten mit einem Fullstall unter Kontrolle gebracht
+x besteht bei starkem Gegenbremsen die akute Gefahr eines einseitigen Strömungsabrisses
+dreht der Schirm meist ansatzlos negativ weg
+Alle sind richtig
+
+060. Wohin sollte der Pilot bei einem Einklapper blicken um Drehgeschwindigkeit, Höhenverlust, Hindernisannäherung und Flugrichtung zu kontrollieren?
+Zum Boden
+In die Schirmkappe
+Nur zur eingeklappten Flügelseite
+x In Flugrichtung
+
+061. Der dem Piloten zur Verfügung stehende Steuerweg der Bremsen,
+x ist im stationären Geradeausflug stets gleich, er vergrößert sich beim Nicken nach vorne und verringert sich bei Nicken nach hinten
+ist im stationären Geradeausflug stets gleich, er verringert sich beim Nicken nach vorne und vergrößert sich bei Nicken nach hinten
+ist in allen Fluglagen gleich
+kann nur durch Wickeln der Bremsen um die Hände reduziert werden
+
+062. Welche Aussagen zur Änderung des Steuerdruckes über den Verlauf des Steuerweges sind richtig?
+Hoher Druck im oberen Steuerbereich, mäßiger Druck im mittleren Bereich, geringer Druck im unteren Bereich
+Gleichbleibender Steuerdruck über den gesamten Steuerweg
+x Der Steuerdruck nimmt nach unten hin deutlich zu und ist im Bereich der Minimalgeschwindigkeit, kurz vor dem Strömungsabriss am höchsten
+Der Steuerdruck nimmt nach unten hin deutlich ab und ist im Bereich der Minimalgeschwindigkeit am niedrigsten
+
+063. Wie verhält sich der Steuerdruck beim beginnenden Strömungsabriss?
+Der Steuerdruck steigt schlagartig an
+x Der Steuerdruck lässt markant nach
+Der beginnende Strömungsabriss ist an einer Veränderung des Steuerdrucks nicht zu erkennen
+Beim beginnenden Strömungsabriss ist keinerlei Druck auf der Bremse
+
+064. <Abbildung16.jpg> Die Abbildung zeigt
+Verknotete Leinen, die wegen schlampiger Startvorbereitung nicht bemerkt worden sind
+\"Angelegte Ohren\"
+x Einen Einklapper, der sich seitlich in den Fangleinen verhangen hat, einen sog. \"Verhänger\"
+Einen einseitigen Strömungsabriss 
+
+065. Warum kann ein Verhänger den Gleitschirm innerhalb kürzester Zeit in extreme Rotation bringen, wenn der Pilot keine Gegenmaßnahmen trifft?
+Weil die Strömung, aufgrund des hohen Anstellwinkels an der verhängten Seite des Gleitschirmes, vollständig abgerissen ist
+x Wegen des hohen und anhaltenden Widerstands an dem verhängten Flügelteil
+Weil die verknoteten Leinen den Schirm einseitig stark abbremsen
+Weil der in den Fangleinen verfangene Rettungsschirm den Gleitschirm einseitig stark abbremst
+
+066. Welches Schirmverhalten ist bei Verhängern ohne Pilotenreaktion typisch?
+Sofortiges schlagartiges Wegdrehen in Richtung des verhängten Flügels
+Ansatzloses Trudeln (Negativdrehen)
+Langsames, über mehrere Umdrehungen allmählich schneller werdendes Drehen in Richtung des verhängten Flügels
+x Anfangs kurzzeitig mäßig schnelles, anschließend sehr schnelles Drehen in Richtung des verhängten Flügels mit weiterer Beschleunigung
+
+067. Nach dem Start zieht der Schirm ohne Piloteneinfluss deutlich zu einer Seite. Der Pilot bemerkt, dass mehrere Leinen der C - und D - Ebene einer Flügelseite miteinander verknotet sind. Wie sollte er reagieren?
+Richtungskorrektur mit der Gegenbremse, anschließend durch leicht ruckartiges Ziehen der betroffenen Leinen versuchen, den Leinenknoten sofort zu lösen
+Sofort notlanden, falls erforderlich auch in einem Baum
+Einen Fullstall einleiten um den Leinenknoten zu lösen
+x Richtungskorrektur mit Gewicht und Gegenbremse, anschließend Hangabstand gewinnen, Lösungsversuche erst mit großem Bodenabstand
+ 
+068. Trotz mehrfacher Versuche ist einem Piloten das Lösen miteinander verknoteter C - und D-Leinen einer Flügelseite während des Fluges nicht gelungen. Wie sollte er sich nun verhalten?
+Drehtendenz des Schirmes durch Gewichtsverlagerung zur Gegenseite kompensieren, abrupte Steuerbewegungen unterlassen, großräumiger Landeanflug, ggf. Außenlandung auf weiträumiger Fläche
+Bei ausreichender Höhe empfiehlt sich das Erfliegen eines Fullstalls. Durch den starken Zug auf die Fangleinen werden die verknoteten Leinen zuverlässig gelöst
+Ist die Drehtendenz des Schirmes durch Gewichtsverlagerung und Gegenbremsen nicht ohne Strömungsabriss unter Kontrolle zu bringen, muss der Rettungsschirm ausgelöst werden
+x Die Antworten "Drehtendenz des..." und "Ist die Drehtendenz..." sind richtig
+
+069. Die Köperhaltung des Piloten im Abflug
+x sollte aufrecht und laufbereit sein
+ist ideal mit starker Körpervorlage
+ist ideal mit ausgeprägter Schrittstellung
+ist von seiner Körpergröße abhängig 
+
+070. Wie sollte sich der Pilot verhalten, wenn er bemerkt, dass die Strömung am Flügel einseitig abzureißen beginnt, weil eine Bremsleine zu weit heruntergezogen ist?
+Die Bremse unten halten um eine Drehbewegung zu verhindern
+Beide Bremsen sofort ganz durchziehen
+x Heruntergezogene Bremse sofort ganz freigeben
+In dieser Situation nichts tun, der Schirm stabilisiert sich von selbst
+
+071. Eine beginnende Trudelbewegung wird gestoppt
+durch Anbremsen der Gegenseite
+durch gefühlvolles Gegensteuern
+x durch sofortiges vollständiges Lösen der heruntergezogenen Bremse
+durch Aufpumpen und Gegensteuern
+
+072. Als Twist bezeichnet man
+x das Eindrehen der Tragegurte oberhalb der Aufhängung
+eine Überkreuzung der Beine im Abflug
+die Ausleitung einer Extremflugsituation
+das verdrehte Einhängen eines Tragegurtes in den Gurtzeugkarabiner bei den Startvorbereitungen
+
+073. Gefahren des Twists sind:
+Orientierungsverlust
+Blockierender Bremsen
+Der Pilot kann auf extreme Flugsituationen nicht mehr aktiv reagieren
+x Alle sind richtig
+
+074. Wie bezeichnet man die drei Phasen einer Steilspirale?
+Einleitphase, Überleitphase, Ausleitphase
+x Einleitphase, Spiralphase, Ausleitphase
+Eingangsphase, Spiralphase, Ausgangsphase
+Eintrittsphase, Spiralphase, Austrittsphase
+
+075. Welche Sinkgeschwindigkeit sollte eine kontrollierte Steilspirale aufweisen?
+x 8 -12 m pro Sek.
+6 - 8 m pro Sek.
+12 - 15 m pro Sek.
+15 - 20 m pro Sek.
+
+076. Der Übergang von der Einleitphase in die Spiralphase ist
+x durch markant anwachsende Fliehkräfte gekennzeichnet. Durch Anbremsen der Kurvenaußenseite und Nachlassen der kurveninneren Bremse werden jetzt Schräglage und Sinkgeschwindigkeit kontrolliert
+durch langsam sich steigernde Fliehkräfte gekennzeichnet. Der Pilot darf die kurvenäußere Bremse nicht betätigen um die beginnende Spirale nicht zu verlangsamen
+gefährlich und muss in jedem Fall verhindert werden
+vom Piloten durch energisches Durchziehen der kurveninneren Steuerleine zu unterstützen 
+
+077. In welcher Höhe über Grund muss der Schirm spätestens aus der Steilspirale ausgeleitet und in den Normalflug übergegangen sein?
+500 m
+100 m
+50 m
+x 200 m
+
+078. Welche Faktoren verlängern die Startstrecke?
+x Hohe Temperaturen bzw. hoch gelegene Startplätze
+Tiefe Temperaturen an hoch gelegenen Startplätzen
+Tiefe Temperaturen bzw. tief gelegene Startplätze
+Weder die Temperatur noch die Starthöhe hat einen Einfluss auf die Länge der Startstrecke
+
+079. Bei Rückenwind
+muss die Laufgeschwindigkeit leicht erhöht werden
+ist ein Rückwärtsstart sinnvoll
+x kein Start !
+muss die Laufgeschwindigkeit stark erhöht werden
+
+080. <Abbildung17.jpg> Die Abbildung zeigt einen großflächigen seitlichen Einklapper im Moment des Einklappens. Welche Aussagen zum voraussichtlichen Wegdreh-Verhalten des Schirmes sind korrekt?
+Der Schirm wird voraussichtlich ansatzlos und schnell zu eingeklappten Seite wegdrehen
+x Das Wegdrehen zur eingeklappten Seite wird verzögert beginnen, da der Schirm erst wegdrehen kann, wenn die Kappe nach vorne nickt
+Das Wegdrehen zur eingeklappten Seite wird verzögert beginnen, da der Schirm erst wegdrehen kann, wenn die Kappe nach hinten nickt
+Bei seitlichen Einklappern dieser Größe ist nicht mit markantem Wegdrehen zu rechnen
+
+081. <Abbildung17.jpg> Die Abbildung zeigt einen großflächigen seitlichen Einklapper im Moment des Einklappens. Was sollte der Pilot als nächstes tun um die Kontrolle über das Gerät zu behalten?
+Beide Steuerleinen ca. 60 - 80 cm durchziehen, dadurch wird das Wegdrehen verhindert und die Öffnung des Einklappers unterstützt
+Auf der offenen, nicht eingeklappten Seite energisch und tief bremsen um die Drehbewegung im Ansatz zu verhindern
+Drehbewegung zulassen, erst nach einer vollständigen Umdrehung auf der offenen Seite stark anbremsen
+x Erst bei Beginn der Nick- und Drehbewegung auf der offenen Seite ca. 20 - 40 cm anbremsen, zusätzlich Gewichtsverlagerung nach rechts.
+
+082. <Abbildung17.jpg> Bei einem seitlichen Einklapper wie auf der Abbildung, ist der Steuerweg bis zum Strömungsabriss auf der offenen Seite
+x wegen des vergleichsweise hohen Anstellwinkels besonders gering
+wegen des vergleichsweise kleinen Anstellwinkels besonders groß
+gleich groß wie mit nicht eingeklappter Fläche
+wegen der Größe der eingeklappten Fläche besonders groß 
+
+083. <Abbildung21.jpg> Abbildung: Der Schirm ist bei beginnender Nickbewegung nach vorne eingeklappt. Welche Aussagen zum voraussichtlichen Verhalten des Schirmes sind korrekt?
+x Der Schirm wird ansatzlos und schnell zu eingeklappten Seite wegdrehen, weil die Kappe bereits deutlich vor den Piloten nickt
+Das Wegdrehen zur eingeklappten Seite wird verzögert beginnen, da der Schirm erst wegdrehen kann, wenn die Kappe nach vorne nickt
+Das Wegdrehen zur eingeklappten Seite wird verzögert beginnen, da der Schirm erst wegdrehen kann, wenn die Kappe nach hinten nickt
+Dieser Einklapper ist zu klein, als dass mit markantem Wegdrehen gerechnet werden muss
+
+084. <Abbildung21.jpg> Abbildung: Der Schirm ist bei beginnender Nickbewegung nach vorne eingeklappt. Was sollte der Pilot als nächstes tun um die Kontrolle über das Gerät zu behalten?
+Beide Steuerleinen ca. 60 - 80 cm durchziehen, dadurch wird das Wegdrehen verhindert und die Öffnung des Einklappers unterstützt
+x Auf der offenen, nicht eingeklappten Seite energisch und tief bremsen um eine starke Drehbewegung zu verhindern
+Drehbewegung zulassen, erst nach einer vollständigen Umdrehung auf der offenen Seite stark anbremsen
+Erst bei Beginn der Nick- und Drehbewegung auf der offenen Seite ca. 20 - 40 cm anbremsen, zusätzlich Gewichtsverlagerung nach links
+
+085. <Abbildung21.jpg> Bei einem seitlichen Einklapper wie auf der Abbildung, ist der Steuerweg bis zum Strömungsabriss auf der offenen Seite
+wegen des vergleichsweise hohen Anstellwinkels besonders gering
+x wegen des vergleichsweise kleinen Anstellwinkels besonders groß
+wegen der Größe der eingeklappten Fläche besonders gering
+wegen der Größe der eingeklappten Fläche besonders groß
+
+086. <Abbildung18.jpg> Die Abbildung zeigt einen Einklapper, der vom Piloten durch Gegenbremsen stabilisiert worden ist. Was ist die nächste richtige Pilotenaktion?
+Die Auslösung des Rettungsgerätes
+Gegensteuern mit der Steuerleine der offenen Seite
+x Wiederöffnen des Flügels mit der Steuerleine der eingeklappten Seite
+Gewichtsverlagerung zur eingeklappten Seite
+
+087. <Abbildung18.jpg> Die Abbildung zeigt einen Einklapper, der vom Piloten durch Gegenbremsen stabilisiert worden ist. Welche Gefahrensituation ist am wahrscheinlichsten?
+Keine, der Pilot hat das Gerät vollständig unter Kontrolle
+x Der Anstellwinkel an der offenen Seite ist bereits relativ hoch, bei weiterem Gegenbremsen kann die Strömung abreißen
+Der Anstellwinkel der offenen Seite ist gering, der Schirm kann in eine dynamische Drehbewegung zur eingeklappten Seite geraten
+Der Pilot kann sich in Tragegurte und Fangleinen eintwisten 
+
+088. <Abbildung19.jpg> Der Gleitschirmpilot auf der Abbildung befindet sich mit Trimmgeschwindigkeit auf dem Flug zum Landeplatz, der genau südlich seiner Position liegt. Während des Fluges weht ein beständiger Wind von 20 km/h aus Westen. Welchen Flugweg beschreibt der Gleitschirm, wenn der Pilot das Gerät immer genau Richtung Landeplatz ausrichtet?
+A
+B
+x C
+D
+
+089. <Abbildung19.jpg> Der Gleitschirmpilot auf der Abbildung befindet sich mit Trimmgeschwindigkeit auf dem Flug zum Landeplatz, der genau südlich seiner Position liegt. Während des Fluges weht ein beständiger Wind von 20 km/h aus Westen. Welchen Flugweg beschreibt der Gleitschirm, wenn der Pilot das Gerät immer genau Richtung Süden ausrichtet?
+A
+B
+C
+x D
+
+090. <Abbildung19.jpg> Der Gleitschirmpilot auf der Abbildung befindet sich mit Trimmgeschwindigkeit auf dem Flug zum Landeplatz, der genau südlich seiner Position liegt. Während des Fluges weht ein beständiger Wind von 20 km/h aus Westen. Welchen Flugweg beschreibt der Gleitschirm, wenn der Pilot das Gerät immer Richtung Südwesten ausrichtet?
+A
+x B
+C
+D
+
+091. Der Vorhaltewinkel
+wird durch die Richtung, nicht durch die Stärke des Seitenwindes beeinflusst
+wird durch die Stärke, nicht durch die Richtung des Seitenwindes beeinflusst
+muss bei zunehmenden Seitenwind verkleinert werden
+x muss bei zunehmenden Seitenwind vergrößert werden
+
+092. Der Vorhaltewinkel
+muss bei höherer Fluggeschwindigkeit vergrößert werden
+x muss bei höherer Fluggeschwindigkeit verkleinert werden
+ist unabhängig von der Fluggeschwindigkeit
+entspricht immer der Winkelhalbierenden zwischen Flugweg und Seitenwind
+
+093. Ein Thermikbart wird von einem Ostwind mit 20 km/h deutlich Richtung Westen versetzt. Welche Aussagen sind korrekt?
+Bei dieser Windgeschwindigkeit kann sich kein Thermikbart bilden. Die Thermik wird vom Wind horizontal verblasen
+Bei diesen Windgeschwindigkeiten wird die Thermik in der Regel unfliegbar turbulent
+x Der Pilot muss beim Aufdrehen deutlich gegen Osten vorhalten um nicht leeseitig aus dem Bart zu fallen
+Der Pilot muss beim Aufdrehen deutlich gegen Westen vorhalten um nicht luvseitig aus dem Bart zu fallen 
+
+094. Wann sollte der Pilot mit dem Kreisen in der Thermik beginnen?
+x Wenn das Variometer nach dem stärksten Steigen wieder nachlassende Steigwerte signalisiert
+Sofort beim Einfliegen in den Aufwind
+Im Moment des stärksten Steigens
+Unmittelbar vor dem Ausfliegen aus dem Aufwind, wenn das Variometer bereits wieder Sinken signalisiert
+
+095. Scherungsturbulenzen
+sind besonders an der Luvseite windversetzter Thermik zu erwarten
+sind besonders in großflächigen Leegebieten (hinter Geländekanten, Graten etc.) zu erwarten
+sind für den Bereich typisch, an welchem Blauthermik in die Inversion stößt
+x sind besonders an der Leeseite windversetzter Thermik zu erwarten
+
+096. Was ist die richtige Flugtechnik bei windversetzter Thermik?
+Enges, steiles Kreisen mit hoher Schräglage
+Achtern (aufsoaren) an der Luvseite des Aufwindes
+x Kreis ausweiten im Gegenwindteil, Kreis enger fliegen im Rückenwindteil
+Weites, flaches Kreisen mit geringer Schräglage
+
+097. Was signalisiert dem Piloten, dass er sich einem thermischen Aufwind annähert?
+Allmählich beginnendes Steigen
+x Erhöhtes Sinken, unruhige Luft
+Nachlassen der Fahrgeräusche
+Vermindertes Sinken, turbulenzfreie Luft
+
+098. <Abbildung30.jpg> Welchen Flugzustand zeigt die Abbildung?
+Einen seitlichen Einklapper
+x Einen frontalen Einklapper
+Einen Verhänger
+Einen einseitigen Strömungsabriss
+
+099. <Abbildung30.jpg> Welche Aussagen zum Pilotenverhalten bei einem frontalen Einklapper sind richtig?
+Nach dem Einklappen sofort beidseitig deutlich anbremsen um die Öffnung zu unterstützen
+Sofort das Rettungsgerät auslösen
+Mit beiden Händen an den vorderen Tragegurten festhalten um ein Abkippen nach hinten zu vermeiden
+x Nach dem Einklappen nicht die Bremsen betätigen, anbremsen nur, wenn die Kappe von hinten zu weit nach vorne schießt
+
+100. Welche Gefahr besteht bei einem Frontklapper, wenn der Pilot unmittelbar nach dem Einklappen beidseitig anbremst?
+Keine Gefahr, dies ist die korrekte Pilotenreaktion
+Es besteht die Gefahr eines so genannten stabilen Frontklappers
+x Wegen des hohen Anstellwinkels nach dem frontalen Einklappen, besteht die Gefahr des Strömungsabrisses
+Es besteht die Gefahr einer zu impulsiven Wiederöffnung des Frontklappers, was zu Leinenrissen führen kann 
+
+101. Welches Schirmverhalten charakterisiert einen stabilen Frontklapper?
+x Die Wiederöffnung der eingeklappten Vorderkante erfolgt nicht selbständig und muss durch Anbremsen erreicht werden
+Nach der Wiederöffnung der eingeklappten Vorderkante verbleibt der Schirm im stabilen Sackflug
+Nach der Wiederöffnung der eingeklappten Vorderkante geht der Schirm in ein stabile Steilspirale über
+"Stabiler Frontklapper" wird das Schirmverhalten genannt, wenn nach einem Frontklapper keine Abweichung vom stabilen Flug erfolgt
+
+102. Die bei einer Steilspirale auftretenden Beschleunigungskräfte
+liegen weit unter dem für den menschlichen Organismus kritischen Bereich
+x können u.U. zu Schwindel, Black Out oder Bewusstlosigkeit führen
+liegen weit über dem für den menschlichen Organismus kritischen Bereich
+sind allenfalls in der Einleitphase kritisch
+
+103. Wohin sollte der Pilot während einer Steilspirale blicken?
+In die Schirmkappe
+Senkrecht hinunter zum Boden
+x In Drehrichtung schräg zum Boden
+Während der Steilspirale sollten die Augen geschlossen sein
+
+104. Wie erfolgt die korrekte Ausleitung aus der Steilspirale?
+Innen- und Außenbremse zügig freigeben und auf Verlangsamung des Spiralfluges warten
+x Innenbremse langsam freigeben, gleichzeitig stärkeres Anbremsen der Außenbremse, nach Verlangsamung Innenbremse noch einmal dosiert herunterziehen um die Spirale mit flachem Kreisen zu beenden
+Körpergewicht deutlich zur Kurvenaußenseite verlagern, anschließend kräftiges Bremsen mit der kurvenäußeren Steuerleine
+Zur Ausleitung werden beide Bremsen bis kurz vor den Stallpunkt heruntergezogen um den Spiralflug zu verlangsamen, anschließend zügiges Freigeben der Bremsen
+
+105. Während der Spiralphase wird das Körpergewicht des Piloten
+x möglichst in neutraler Position gehalten
+deutlich zu Kurveninnenseite verlagert
+deutlich zu Kurvenaußenseite verlagert
+durch die Zentrifugalkraft auf die Kurveninnenseite gedrückt
+
+106. Wie soll der Pilot reagieren, wenn sein Schirm nicht auf Ausleitversuche reagiert und selbständig weiter spiralt?
+Beidseitig energisch anbremsen bis zu Verlangsamung der Spirale
+Bei geringer Höhe über Grund sofort das Rettungsgerät auslösen
+Einen Fullstall erfliegen um die stabile Spirale zu stoppen
+x Beidseitig energisch anbremsen bis zu Verlangsamung der Spirale, bei geringer Höhe über Grund sofort das Rettungsgerät auslösen 
+
+107. Beim Fliegen mit "angelegten Ohren"
+verringert sich die Flächenbelastung und die Strömungsabrissgeschwindigkeit.
+verringert sich die Flächenbelastung und erhöht sich die Strömungsabrissgeschwindigkeit.
+erhöht sich die Flächenbelastung und verringert sich die Strömungsabrissgeschwindigkeit.
+x erhöht sich die Flächenbelastung und die Strömungsabrissgeschwindigkeit.
+
+108. Welche Aussage ist richtig? Beim Fliegen mit "angelegten Ohren"
+sollte der Schirm stets angebremst werden um der Einklappgefahr entgegenzuwirken
+x sollte der Schirm beschleunigt werden um der Sackfluggefahr entgegenzuwirken
+sollten die Bremsgriffe ganz losgelassen werden um der Sackfluggefahr entgegenzuwirken
+wird der Schirm über die hinteren Tragegurte gesteuert
+
+109. Welche Reihenfolge für das Einleiten des Manövers Ohren anlegen und Beschleunigen ist richtig?
+Ohren anlegen - Beschleuniger vorbereiten - beschleunigen
+Beschleuniger vorbereiten - Beschleunigen - Ohren anlegen
+Ohren anlegen - beidseitig anbremsen - beschleunigen
+x Beschleuniger vorbereiten - Ohren anlegen - beschleunigen
+
+110. Manche Schirmtypen öffnen die "angelegten Ohren" nach dem Freigeben der A-Leinen nicht selbständig. Welche Vorgehensweise ist richtig, wenn der Pilot nach dem beschleunigten Flug mit angelegten Ohren wieder in den Normalflug will?
+Voll beschleunigt die A-Leinen freigeben - zum Öffnen beidseitig deutlich anbremsen - beschleunigen beenden
+x Beschleunigen beenden - A-Leinen freigeben - Pendelbewegung nach hinten abwarten - wenn Schirm wieder über dem Piloten ist, zum Öffnen leicht anbremsen
+Beschleunigen beenden - A-Leinen freigeben und zum Öffnen sofort beidseitig deutlich anbremsen
+Voll beschleunigt die A-Leinen freigeben - gleichzeitig beidseitig deutlich anbremsen und das Beschleunigen beenden
+
+111. Zum aktiven Öffnen nicht selbständig ausklappender "angelegter Ohren",
+muss kräftig und weit beidseitig durchgebremst werden, weil in der Regel nur so die eingeklappten Flügelenden zu öffnen sind
+muss kräftig und weit einseitig durchgebremst werden um einen beidseitigen Strömungsabriss zu verhindern
+x darf nur bis zum mittleren Steuerleinenbereich einseitig oder beidseitig angebremst werden
+ist das Herunterziehen der hinteren Tragegurte am effektivsten
+
+112. Beim Einleiten des Manövers "Ohren anlegen"
+werden im Regelfall die jeweils beiden äußeren A-Leinen an jedem Tragegurt heruntergezogen
+sollten die Bremsgriffe ganz losgelassen werden
+sollten die Bremsen einmal gewickelt werden
+x muss vor dem Herunterziehen der äußersten A-Leinen kontrolliert werden, ob man die richtigen Leinen ergriffen hat 
+
+113. Der B-Stall muss
+x mäßig schnell eingeleitet und zügig ausgeleitet werden
+schnell eingeleitet und schnell ausgeleitet werden (B-Gurte aus der gezogenen Position loslassen)
+schnell eingeleitet und langsam ausgeleitet werden
+langsam eingeleitet und langsam ausgeleitet werden, ein Vorschießen der Kappe ist anschließend zurückzubremsen
+
+114. Ein Sackflug nach dem B-Stall kann provoziert werden,
+wenn die B-Gurte in der gezogenen Position losgelassen, die Bremsen aber gehalten werden
+wenn die B-Gurte zu langsam freigegeben werden
+wenn der Schirm beim Vornicken aus dem B-Stall angebremst wird
+x Alle sind richtig
+
+115. Die Ausleitung eines Dauersackflugs erfolgt
+durch beidseitiges Schließen der Trimmer
+durch Einleitung einer Steilkurve
+x durch Herunterziehen bzw. Vordrücken der A-Tragegurte oder Betätigen des Beschleunigers
+durch beidseitiges Anbremsen bis zum Stallpunkt
+
+116. Trudeln
+wird besonders durch extrem langsames Kreisen oder abruptes, tiefes Herunterziehen einer Steuerleine verursacht
+ist wegen der hohen Twistgefahr extrem gefährlich
+muss bereits im ersten Ansatz durch Freigeben der kurveninneren Bremse verhindert werden
+x Alle sind richtig
+
+117. Wie erkennt der Pilot, dass sich der Gleitschirm im stabilen Sackflug befindet?
+x Fehlender Fahrtwind, hohes Sinken, faltiges Untersegel
+Starke Fahrtgeräusche, hoher Steuerdruck auf den Bremsen
+Das Gerät geht selbständig in einen steiler werdenden Spiralsturz über
+Die Flügelenden sind nach vorne umgeknickt, auf den Bremsen ist starker Steuerdruck
+
+118. Zur Ausleitung eines Fullstalls
+werden beide Bremsen langsam (Zeitdauer ca. 5 Sek.) freigegeben
+werden beide Bremsen zunächst zügig, die letzten 40 cm dann langsam freigegeben
+x werden beide Bremsen zügig (Zeitdauer ca. 1 Sek.) vollständig freigegeben
+wird eine Bremse zügig freigegeben, die andere wird weiter unten gehalten
+
+119. Wie wird das Rettungsgerät ausgelöst?
+x Innencontainer am Griff aus dem Außencontainer herausziehen, kraftvoll in den freien Luftraum schleudern, Griff dabei loslassen
+Innencontainer am Griff aus dem Außencontainer herausziehen, Innencontainer fallen lassen, Griff dabei loslassen
+Nach kurzem Zug am Rettungsgerätegriff löst dieses selbständig aus
+Innencontainer am Griff aus dem Außencontainer herausziehen, kraftvoll in den freien Luftraum schleudern, Griff dabei festhalten 
+
+120. Nachdem das Rettungsgerät ausgelöst worden ist,
+muss der Pilot den Gleitschirm durch Öffnen der Karabiner abtrennen
+kann der Pilot nichts weiter unternehmen um den Abstieg zu beeinflussen
+kann der Abstieg mit den Bremsleinen des Gleitschirms gesteuert werden
+x muss sich der Pilot an den Tragegurten des Gleitschirms in eine aufrechte und stabile Position bringen
+
+121. Das Einholen des Gleitschirms an Tragegurten und Fangleinen nach der Auslösung des Rettungsschirmes
+empfiehlt sich nur, wenn mehrer hundert Meter Höhe zur Verfügung stehen
+führt zunächst zu starken zusätzlichen Pendelbewegungen
+sollte bei wenig Höhe über Grund unterlassen werden
+x Alle sind richtig
+
+122. Eine ausgeprägte Erkältung
+ist kein Grund auf das Fliegen verzichten zu müssen
+vermindert die Leistungsfähigkeit des Piloten deutlich
+x vermindert die Leistungsfähigkeit des Piloten deutlich und kann dazu führen, dass der Druckausgleich im Mittelohr stark erschwert wird
+kann eine Bewusstlosigkeit beim Fliegen verursachen
+
+123. Ab welcher Höhe muss ein Pilot damit rechnen, dass der verminderte Sauerstoffpartialdruck der Luft körperliche Auswirkungen hat ?
+x Ab ca. 3500 Meter MSL
+Ab ca. 2000 Meter MSL
+Ab ca. 4500 Meter MSL
+Ab ca. 5000 Meter MSL
+
+124. Was können die Folgen verminderten Sauerstoffpartialdruck der Luft in großen Höhen sein?
+Blackout oder Bewusstlosigkeit
+Starke Kopfschmerzen und Übelkeit
+Atemnot
+x Trügerisches Wohlbefinden (Euphorie) und eingeschränkte Urteilsfähigkeit
+
+125. Ein Pilot bemerkt in einer Höhe von 3500 Meter/MSL erste Auswirkungen des Sauerstoffmangels wie eingeschränktes Gesichtsfeld, veränderte Farbenwahrnehmung, Schläfrigkeit. Wie sollte er sich verhalten?
+Mit einer Steilspirale sofort rasch Höhe abbauen
+x Den thermischen Aufwind verlassen, ggf. mit einer Abstiegshilfe, die den Körper nicht belastet (z.B. Ohrenanlegen) Höhe abbauen
+Es sind keine Maßnahmen erforderlich, da sich der Körper rasch an die Höhe gewöhnt und die genannten Symptome sich wieder normalisieren
+Der Pilot muss sofort den Rettungsschirm auslösen bevor er das Bewusstsein verliert 
+
+126. Wind hat einen kühlenden Effekt auf die Temperatur (Wind-Chill). Bei einer Fluggeschwindigkeit von 35 km/h mit einer Lufttemperatur von 0°C, entspricht die "gefühlte Temperatur" ca.
+0°C
+-5 °C
+-10°C
+x -15°C
+
+127. Welche Auswirkungen kann Unterkühlung auf den Piloten haben?
+Erhöhte Aufmerksamkeit und erhöhte Reaktionsfähigkeit
+Trügerisches Wohlbefinden
+x Verlangsamte Motorik und Reaktionsfähigkeit
+Erhöhte Risikobereitschaft
+
+128. Ein Erwachsener hat bei sportlicher Betätigung einen täglichen Flüssigkeitsbedarf von ca. 4 Liter. Welche körperlichen Auswirkungen können auftreten, wenn der Sportler nicht genügend trinkt?
+Durst
+Nervöse Erregungszustände
+x Konzentrations- und Koordinationsstörungen, Kreislaufbeschwerden
+Keines der genannten Symptome
+
+129. Die europaweite Notrufnummer ist
+110
+19222
+von Land zu Land unterschiedlich
+x 112
+
+130. Als Ersthelfer bei einem verunfallten Piloten müssen zunächst folgende Feststellungen getroffen werden:
+1. Was ist passiert? 2. Wer war schuld? 3. Zahlt die Versicherung?
+1. Was ist passiert? 2. Wer kann Hilfe leisten? 3. Unfallstelle abgesichert?
+x 1. Ist der Pilot ansprechbar? 2. Atmung o.k.? 3. Puls o.k.? 4. Gibt es Blutungen die zu stillen sind ?
+1. Gibt es Blutungen die zu stillen sind? 2. Sind Verbände anzulegen? 3. Atmung o.k.?
+
+131. Wann besteht der Verdacht auf Verletzungen der Wirbelsäule?
+x Wenn der verunfallte Pilot über Schmerzen im Rücken klagt oder seine Beine nicht mehr spürt
+Wenn der verunfallte Pilot Über Schmerzen in den Beinen klagt
+Wenn der verunfallte Pilot auf dem Rücken liegend angetroffen wird
+Immer, wenn der verunfallte Pilot bewusstlos ist
+
+132. Ansprechbare Verunfallte, bei denen Verdacht auf Verletzung der Wirbelsäule besteht, sollten
+mit den Beinen hoch gelagert werden
+sitzend gelagert werden
+x sich nicht bewegen, sich nicht aufsetzen und keine Gehversuche unternehmen
+aufgerichtet werden um festzustellen, ob sie noch gehen können 
+
+133. Der Ersthelfer stellt fest, dass der Verunglückte bewusstlos ist und keine offenen Verletzungen hat. Was ist zu tun?
+Verletzten aus der Bewusstlosigkeit holen (kaltes Wasser ins Gesicht, leichte "Ohrfeigen")
+Verletzten auf dem Rücken lagern, die Beine dabei erhöht legen
+Verletzten sitzend lagern
+x Verletzten in stabile Seitenlage bringen, Puls und Atmung ständig kontrollieren
+
+134. Unter welcher(n) Telefonnummer(n) ist die Bergrettung/der Rettungsdienst in Österreich und Bayern ständig erreichbar?
+x Österreich 140, Bayern 19222
+Österreich und Bayern 112
+Österreich und Bayern 19222
+Österreich und Bayern 140
+
+135. Um eine Hubschrauberbergung vorzubereiten,
+muss der Flugbetrieb in der weiteren Umgebung der Unfallstelle eingestellt werden
+muss die Unfallstelle und deren Umgebung von Gleitschirmen und losen Gegenständen geräumt werden
+muss der Gleitschirm und ggf. der offene Rettungsschirm des Verletzten vom Gurtzeug getrennt und in größerer Entfernung gesichert abgelegt werden
+x Alle sind richtig
+
+136. Das Entfernen des Helmes und das Ausziehen des Gurtzeugs bei einem schwer verletzten, ansprechbaren Piloten,
+ist die wichtigste Maßnahme nach Auffinden des Verletzten
+x sollte nur durch geschultes Rettungspersonal erfolgen
+darf erst im Krankenhaus erfolgen
+darf erst kurz vor Eintreffen des Helikopters erfolgen
+
+137. Ist eine Landung in einem Gewässer nicht zu verhindern, gelten für den Piloten folgende Verhaltensregeln:
+Sofort den Rettungsschirm auslösen, damit dieser nach der Wasserung zusätzlich Auftrieb gibt
+Alle Gurtzeug-Verschlüsse lösen, Bremsgriffe loslassen, ca. 5 Meter über dem Wasserspiegel aus dem Gurtzeug springen und vom Gerät wegschwimmen
+Gurtzeug-Verschlüsse erst nach der Wasserung lösen und vom Gerät wegschwimmen
+x Gurtzeug-Verschlüsse vor der Landung öffnen, bei Wasserberührung aus dem Gurtzeug rutschen und vom Gleitschirm wegschwimmen
+
+138. Ein Pilot muss bei einer Außenlandung aus der Luft ein geeignetes Landefeld in einem Tal auswählen. Es herrscht ein Talwind von ca. 25 km/h. Welche Anforderungen an den Landeplatz sind am wichtigsten?
+Das Gelände leeseitig des Landeplatzes muss möglichst frei von Hindernissen wie Bäumen, Gebäuden, Geländeerhebungen sein
+x Das Gelände luvseitig des Landeplatzes muss möglichst frei von Hindernissen wie Bäumen, Gebäuden, Geländeerhebungen sein
+Der Landeplatz sollte durch umgebende Bäume, Gebäude etc. möglichst gut vom Talwind abgeschirmt sein
+Der Landeplatz muss eine vollständige Landevolte erlauben 
+
+139. Eine Notlandung ist unumgänglich. Der Pilot hat die Auswahl zwischen mehreren Landestellen. Welches ist die am wenigsten gefährliche?
+Kleiner See
+Kleine Waldlichtung
+Felsdurchsetzter Steilhang
+x Dichter Nadelwald
+
+140. <Abbildung20.jpg> Die Abbildung zeigt zum Rückwärts-Aufziehen überkreuzte Tragegurte. In welche Richtung muss sich der Pilot nach dem Aufziehen der Kappe ausdrehen?
+Er kann sich wahlweise nach links oder rechts ausdrehen
+x Das Ausdrehen erfolgt stets in die Richtung, in welcher der oben liegende Tragegurt am Gurtzeug befestigt ist. Hier nach rechts
+Das Ausdrehen erfolgt stets in die Richtung, in welcher der unten liegende Tragegurt am Gurtzeug befestigt ist. Hier nach links
+Der Pilot entscheidet nach dem Aufziehen der Kappe, welche Ausdrehrichtung für ihn günstiger ist
+
+141. Wenn sich der Pilot nach dem Rückwärtsaufziehen zur falschen Seite hin ausdreht,
+x verdrehen sich die Steuerleinen und können blockieren, der Gleitschirm wird unsteuerbar
+können die Beingurte sich verdrehen
+kann sich das Rettungsgerät entfalten
+klappt der Gleitschirm frontal ein
+
+142. <Abbildung22.jpg> Die vier Skizzen der Abbildung zeigen einen Landeanflug mit Linksvolte. Die gestrichelte Linie stellt den Anflug bei Windstille dar, die durchgezogene Linie jeweils eine den Umständen angepasste Abwandlung des Landeanfluges. Der in Skizze A dargestellte Landeanflug
+ist bei einem Gegenwind von 10 - 15 km/h zu wählen
+ist bei Windstille zu wählen, wenn der Pilot im Übergang vom Gegenanflug in den Queranflug bemerkt, dass er zu niedrig fliegt
+ist bei Windstille zu wählen, wenn der Pilot im Übergang vom Gegenanflug in den Queranflug bemerkt, dass er zu hoch fliegt
+x ist bei Starkwind (25 - 30 km/h) zu wählen
+
+143. <Abbildung22.jpg> Die vier Skizzen der Abbildung zeigen einen Landeanflug mit Linksvolte. Die gestrichelte Linie stellt den Anflug bei Windstille dar, die durchgezogene Linie jeweils eine den Umständen angepasste Abwandlung des Landeanfluges. Der in Skizze B dargestellte Landeanflug
+ist bei einem Gegenwind von 10 - 15 km/h zu wählen
+x ist bei Windstille zu wählen, wenn der Pilot im Übergang vom Gegenanflug in den Queranflug bemerkt, dass er zu niedrig fliegt
+ist bei Windstille zu wählen, wenn der Pilot im Übergang vom Gegenanflug in den Queranflug bemerkt, dass er zu hoch fliegt
+ist bei Starkwind zu wählen
+
+144. <Abbildung22.jpg> Die vier Skizzen der Abbildung zeigen einen Landeanflug mit Linksvolte. Die gestrichelte Linie stellt den Anflug bei Windstille dar, die durchgezogene Linie jeweils eine den Umständen angepasste Abwandlung des Landeanfluges. Der in Skizze C dargestellte Landeanflug 
+x ist zu wählen, wenn der Pilot bemerkt, dass er zu tief aus der Position abgeflogen ist
+ist bei Windstille zu wählen, wenn der Pilot im Übergang vom Gegenanflug in den Queranflug bemerkt, dass er zu niedrig fliegt
+ist bei Windstille zu wählen, wenn der Pilot im Übergang vom Gegenanflug in den Queranflug bemerkt, dass er zu hoch fliegt 
+ist bei Starkwind zu wählen.
+
+145. <Abbildung22.jpg> Die vier Skizzen der Abbildung zeigen einen Landeanflug mit Linksvolte. Die gestrichelte Linie stellt den Anflug bei Windstille dar, die durchgezogene Linie jeweils eine den Umständen angepasste Abwandlung des Landeanfluges. Der in Skizze D dargestellte Landeanflug
+ist bei einem Gegenwind von 10 - 15 km/h zu wählen
+ist bei Windstille zu wählen, wenn der Pilot im Übergang vom Gegenanflug in den Queranflug bemerkt, dass er zu niedrig fliegt
+x ist bei Windstille zu wählen, wenn der Pilot im Übergang vom Gegenanflug in den Queranflug bemerkt, dass er zu hoch fliegt 
+ist bei Starkwind zu wählen
+
+146. Bereits bei mäßigem Wind von vorne hat das Rückwärtsaufziehen der Kappe Vorteile. Welche?
+Die Kappe kann sehr gründlich kontrolliert werden
+Asymmetrisches Hochsteigen der Kappe kann bereits im Ansatz korrigiert werden
+Weil die Kontrollphase einfacher ist, ist ein harmonischer Übergang in den Startlauf zu erreichen
+x Alle Antworten sind richtig 
+
+147. Unmittelbar vor dem Aufziehen schlägt die Eintrittskante des ausgelegten Schirmes durch eine Windstoß um. Helfer legen den Schirm wieder ordentlich aus. Was muss der Pilot anschließend tun?
+Starten
+Sich aushängen und einen erneuten, vollständigen Startcheck durchführen
+Alles aushängen und einen erneuten vollständigen Vorflugcheck durchführen
+x Nachfolgende Punkte des Startchecks erneut prüfen: Leinen, Eintrittskante, Wind, Luftraum
+
+148. Bei einer Starkwindlandung
+x darf der Schirm während des Landens und nach dem Aufsetzen nicht durchgebremst werden
+muss der Schirm während des Landens stärker als gewohnt angebremst werden
+dürfen die Bremsen erst nach dem Aufsetzen ganz heruntergezogen werden
+erfolgt die Landung mit vollständig gelösten Bremsen
+
+149. Welche Landetechnik ermöglicht ein weiches Aufsetzen mit geringer Lande- und Sinkgeschwindigkeit ?
+Aus voller Fahrt beide Bremsen kurz vor der Bodenberührung schnell und vollständig nach unten ziehen
+Mit Überfahrt (Schirm dazu nach vorne nicken lassen) beide Bremsen kurz vor der Bodenberührung schnell und vollständig nach unten ziehen (Durchbremsen)
+Kontinuierliches Durchziehen der Bremsen im letzten Teil des Endanfluges
+x Leichte Überfahrt mit deutlichem Anbremsen abfangen, bodenparalleles Ausgleiten, entschlossenes Durchbremsen unmittelbar vor dem Aufsetzen
+
+150. Bei den Richtungsänderungen im Landeanflug
+kurvt der Pilot mit hoher Schräglage und Geschwindigkeit um ein Trudeln zu vermeiden
+x kurvt der Pilot mit geringer Schräglage um Pendeln und verstärktes Sinken zu vermeiden
+sollte stets nur aus Minimalfahrt gekurvt werden
+sollte stets nur aus voller Fahrt gekurvt werden
+
+151. Wann sollte der Pilot die aufrechte und laufbereite Landehaltung einnehmen?
+Beim Verlassen der Position in den Queranflug in 50 Meter Höhe
+Zu Beginn des Queranfluges
+x Spätestens zu Beginn des Endanfluges in ca. 10 Meter Höhe
+Unmittelbar vor dem Aufsetzen
+
+152. Welche Aussagen zum Peilen auf den Landepunkt sind richtig?
+x Der Pilot peilt beim gesamten Landeanflug in kurzen Zeitabständen zum Landepunkt
+Der Pilot peilt erst im Endanflug in kurzen Zeitabständen zum Landepunkt
+Peilen zum Landepunkt ist nur im Gegenanflug sinnvoll
+Der Pilot peilt nur in Quer- und Endanflug auf den Landepunkt 
+
+153. Der Landeplatz liegt in einer leichten Geländemulde. Der Pilot muss
+auch bei schwachem Wind mit starken Leeturbulenzen rechnen
+x auch bei schwachem Wind, wegen des starken Windgradienten, mit einem deutlichen Durchsacken auf den letzten Metern rechnen
+mit erhöhtem Sinken rechnen, weil sich in Mulden häufig sog. Kaltluftseen bilden
+mit verringertem Sinken rechnen, weil sich in Mulden häufig Warmluft sammelt
+
+154. Mit einer Geschwindigkeit von 36 km/h und einem Rückenwind von 18 km/h fliegt ein Pilot im Gegenanflug 5 Sekunden über die Queranfluglinie hinaus. Wie weit fliegt er in dieser Zeit, wie lange bräuchte er, um die selbe Strecken mit gleicher Eigengeschwindigkeit zurück zu fliegen und wann steht er am Boden, wenn er bei Beginn des Zurückfliegens noch 15 Meter hoch ist und das Gerät mit 1 m pro Sek. sinkt?
+x 75 m - 15 Sek. - an der ursprünglichen Queranfluglinie
+50 m- 10 Sek. - 5 m von der ursprünglichen Queranflüglinie Richtung Landepunkt
+25 m - 5 Sek. - 10 m von der ursprünglichen Queranfluglinie Richtung Landepunkt
+150 m - 30 Sek. - an der ursprünglichen Queranfluglinie
+
+155. Die Faustformel für das Umrechnen vom km/h in m/Sek. ist:
+km/h : 10
+km/h : 60
+x km/h : 4 + 10%
+km/h : 5
+
+156. Kurz nach dem Eindrehen in den Endanflug zeigt der Windsack am Landeplatz plötzlich leichten Rückenwind. Der Pilot verhält sich richtig wenn er
+eine schnelle 180°-Kurve fliegt um gegen den Wind zu landen
+eine schnelle 90°-Kurve fliegt um quer zum Wind zu landen
+den Schirm mit maximalem Steuerleinenzug verlangsamt und mit dem Wind landet
+x die Landerichtung beibehält, besondere Laufbereitschaft herstellt und mit Rückenwind landet
+
+157. Das Fliegen der Landeeinteilung
+ist in Deutschland gesetzlich vorgeschrieben
+soll das Verhalten jedes Piloten für andere im Landeanflug befindliche Luftfahrzeugführer kalkulierbar machen
+erfolgt, wenn es örtlich nicht anders geregelt ist linksherum
+x Alle sind richtig
+
+158. Welche Aussagen zum Fliegen mit Beschleuniger sind richtig?
+Der Anstellwinkel vergrößert sich, die Einklapptendenz steigt
+x Der Anstellwinkel verkleinert sich, die Einklappgefahr steigt
+Der Anstellwinkel verkleinert sich, die Einklappgefahr sinkt
+Der Anstellwinkel vergrößert sich, die Einklappgefahr sinkt 
+
+159. Ein Pilot gerät mit seinem Gleitschirm in so starken Talwind, dass er, bei Trimmgeschwindigkeit, mit ca. 5 km/h rückwärts fliegt. Wie verhält er sich richtig?
+Voll beschleunigt bis unmittelbar vor der Landung fliegen, weil dies die Fluggeschwindigkeit erhöht
+Mit angelegten Ohren fliegen bis in ca. 5 Meter Höhe, angelegte Ohren öffnen, dann voll durchbremsen
+x Keinesfalls beschleunigen, rückwärts fliegend einlanden ohne durchzubremsen
+Eine 180 ° Grad Drehung machen und mit dem Wind landen
+
+160. Wie sollte sich ein Pilot bei einer Starkwindlandung verhalten?
+Kurz vor dem Boden um 180 Grad im Gurtzeug verdrehen, nach dem Aufsetzten den Schirm mit kräftigen Zug an den Steuerleinen flugunfähig machen
+x Unmittelbar nach dem Aufsetzen um 180° Grad zum Schirm drehen und diesen mit kräftigem Zug an den hinteren Tragegurten flugunfähig machen
+Unmittelbar nach dem Aufsetzen um 180° Grad zum Schirm drehen und diesen mit kräftigem Zug an den Steuerleinen flugunfähig machen
+Unmittelbar nach dem Aufsetzen den Schirm durch kräftigen Zug an beiden A-Gurten flugunfähig machen
+
+161. Was sollte die erste Reaktion des Piloten sein, wenn der Schirm im beschleunigten Flug seitlich einklappt?
+Gegenbremsen
+Bremse auf der eingeklappten Seite betätigen
+Gewichtsverlagerung zur eingeklappten Seite
+x Beschleunigen sofort beenden
+
+162. Nach der Auslösung des Rettungsgerätes verfängt sich dieses in den Fangleinen des Gleitschirms.
+Was sollte der Pilot tun?
+Den Gleitschirm stallen
+Nichts, die Verhängung löst sich immer nach kurzer Zeit selbständig
+Den zweiten Rettungsschirm auslösen
+x Mit kräftigem Zug an der Rettungsgeräte-Verbindungsleine die Verhängung lösen
+
+163. Nach einer extremen Flugsituation geht der Gleitschirm ohne Zutun des Piloten in einen Spiralsturz mit zunehmender Beschleunigung über. Was sollte der Pilot tun?
+Stabiles Trudeln, der Pilot muss den Rettungsschirm auslösen
+Steilspirale, der Pilot muss auf der Gegenseite anbremsen
+x Der Pilot muss sofort den Rettungsschirm auslösen
+Verhänger, der Pilot muss auf der Gegenseite die Stabiloleinen herunterziehen
+
+164. Nach einem Einklapper haben sich Teile des Flügels in den Fangleinen verhängt. Der Pilot kann das beginnende Wegdrehen des Schirmes im Ansatz durch Gegenbremsen stabilisieren. Was sollte er als nächstes tun?
+Den Rettungsschirm auslösen
+Den Verhänger durch einen Fullstall lösen
+x Den Verhänger durch Ziehen an der Stabiloleine oder aktives Einklappen der betroffenen Seite zu lösen versuchen
+Mit dem stabilisierten Schirm schnellstmöglich einen Landeplatz anfliegen 
+
+165. Bei einem Gleitschirm ist die Strömung einseitig abgerissen, er trudelt über mehrere Umdrehungen.
+Die Ausleitung dieses Flugzustandes erfolgt bei ausreichender Höhe,
+indem das Trudeln über einen Fullstall ausgeleitet wird
+indem der Rettungsschirm ausgelöst wird
+x durch Freigeben der heruntergezogenen Bremse, wenn die Kappe vor dem Piloten ist
+durch Freigeben der heruntergezogenen Bremse, wenn die Kappe hinter dem Piloten ist
+
+166. Was kann die Sackflugtendenz eines Gleitschirms negativ beeinflussen?
+Feuchte oder nasse Kappe
+Hohe Luftdichte
+Tiefe Temperaturen
+x Alle sind richtig
+
+167. Ein über längere Zeit eng verpackter Gleitschirm
+x sollte vor dem ersten Start mehrmals aufgezogen werden, damit sich die Falten glätten
+sollte vom Fachbetrieb neu gecheckt werden
+sollte mehrere Stunden in der Sonne ausgelegt liegen bleiben, damit sich die Falten glätten
+hat mit hoher Wahrscheinlichkeit geschrumpfte Leinen. Sie sollte vor dem ersten Flug gereckt werden
+
+168. Beim Hangsoaring
+werden die Kurven Richtung Hang geflogen
+werden die Kurven, abhängig von der Windstärke, Richtung Hang oder vom Hang weg geflogen
+wird so nah wie möglich am Hang geflogen um maximales Steigen zu erzielen
+x werden die Kurven vom Hang weg geflogen
+
+169. Beim Fliegen in mit Thermik durchmischtem Hangaufwind
+muss eng am Hang gekreist werden
+x ist der Hangabstand so zu wählen, dass bei einem möglichen Einklapper genügend Höhe für die Korrektur bleibt
+muss mit Einklappern nicht gerechnet werden
+ist immer mit besonders ausgeprägten Turbulenzen zu rechnen
+
+170. Beim Hangsoaren
+erfolgt die Kehre stets vom Hang weg und möglichst im besten Steigen
+vergewissert sich der Pilot vor der Kehre, dass der Luftraum hinter ihm frei ist
+lässt sich der Pilot nach der Kehre wieder langsam Richtung Hang driften
+x Alle sind richtig
+
+171. Wird bei Soaren die Hanghöhe überhöht
+kann der Pilot nun ins Thermikkreisen übergehen
+sollte näher Richtung Hangkante geflogen werden weil hier das beste Steigen zu erwarten ist
+x muss der Pilot deutlich vor die Hangkante fliegen, weil ihn der hier zunehmende Gegenwind sonst ins Lee treiben kann
+sollte der Pilot deutlich hinter die Hangkante fliegen, weil hier "gute" Leethermik zu erwarten ist 
+
+172. Beim Thermikfliegen und beim Hangsoaren muss der Abstand zu anderen Piloten
+x so groß sein, dass auch ein Einklapper oder plötzliches starkes Steigen oder Sinken nicht zu gefährlichen Annäherungen führt
+gemäß LuftVO mindestens 50 Meter horizontal und vertikal betragen
+ständig mit dem Höhenmesser kontrolliert werden
+so gewählt werden, dass diese immer in Rufweite sind
+
+173. Ein im Thermikzentrum kreisender Pilot hat die Annäherung an die Wolkenbasis unterschätzt. Er bemerkt, plötzlich um sich herum die ersten Wolkenschleier. Wie sollte er sich verhalten?
+In die Wolke weiterkreisen. Dort hört das Steigen auf und er kann gefahrlos aus der Wolke herausfliegen
+x Kreisen beenden, Ohren anlegen, beschleunigen und nächstliegenden Wolkenrand anfliegen
+Sofort eine Steilspirale einleiten
+Voll beschleunigen und nächstliegenden Wolkenrand anfliegen
+
+174. Beim Soaren über der Hangkante bemerkt ein Pilot, dass der Wind so stark aufgefrischt hat, dass der voll beschleunigte Schirm rückwärts fliegt. Er sollte
+x im Aufwind noch so hoch wie möglich aufsoaren und dann mit dem Wind das Leegebiet überfliegen
+sofort die Ohren anlegen weil dies Vorwärts- und Sinkgeschwindigkeit zusätzlich erhöht
+sofort eine Steilspirale oder einen B-Stall einleiten
+möglichst noch auf der Luvseite den Rettungsschirm auslösen
+
+175. Wie soll sich ein Pilot nach einer Baumlandung in einer hohen Fichte verhalten?
+Gurtzeug ausziehen und vom Baum klettern
+Gurtzeug ausziehen, auf stabilen Ast klettern, ggf. Rettung per Handy verständigen, warten bis diese eintrifft
+x Sicherung an stabilem Ast (Leinen, mitgeführte Reepschnur) auf sich aufmerksam machen (Rufe, Trillerpfeife, Handy), warten bis Rettung eintrifft
+Ruhig hängen bleiben, auf sich aufmerksam machen (Rufe, Trillerpfeife, Handy), warten bis Rettung eintrifft
+
+176. <Abbildung23.jpg> Die Abbildung zeigt einen Landeanflug mit Linksvolte. Wie wird der mit 1 bezeichnete Abschnitt genannt?
+Gegenanflug
+x Queranflug
+Endanflug
+Position
+
+177. <Abbildung23.jpg> Die Abbildung zeigt einen Landeanflug mit Linksvolte. Wie wird der mit 2 bezeichnete Abschnitt genannt?
+Gegenanflug
+Queranflug
+x Endanflug
+Position 
+
+178. <Abbildung23.jpg> Die Abbildung zeigt einen Landeanflug mit Linksvolte. Wie wird der mit 3 bezeichnete Abschnitt genannt?
+x Gegenanflug
+Queranflug
+Endanflug
+Position
+
+179. <Abbildung23.jpg> Auf welchen Punkt muss der Pilot die Position beim Landeanflug auf der Abbildung legen, wenn der Wind um 180 Grad gedreht hat und eine Linkslandevolte geflogen werden muss ?
+P 1
+x P 2
+P 3
+P 4
+
+180. Informationen über örtliche Schutzgebiete und Geländeregeln,
+x sind aushängenden Geländeinformationen zu entnehmen bzw. Bergbahnen, örtlichen Flugschulen oder Vereinen zu erfragen
+sind stets in der ICAO-Karte eingezeichnet
+sind zwar einzuholen, ihre Beachtung ist jedoch freiwillig und nicht vorgeschrieben
+sind den Luftfahrerhandbüchern zu entnehmen
+
+181. Vieh und Wild
+bedürfen im Winter, Frühjahr und Frühsommer besonderer Rücksicht
+dürfen nicht in geringer Höhe überflogen werden
+scheuen Lärm
+x Alle sind richtig
+
+182. Im Fluggelände verhält sich er Pilot richtig,
+wenn er keinen unnötigen Lärm erzeugt
+wenn er keinen Abfall herumliegen lässt
+wenn er dazu beiträgt, dass die Tier- und Pflanzenwelt geschützt und geschont wird
+x Alle sind richtig
+
+183. In Flugrichtung befinden sich Gämsen auf einer oberhalb der Waldgrenze liegenden Wiese. Der Pilot verhält sich richtig,
+wenn er den Kurs beibehält, jedoch das Variometer abstellt um Lärm zu vermeiden
+x wenn er den Kurs ändert und die Wildtiere weiträumig umfliegt
+wenn er möglichst hangnah fliegt, um das Wild aus der Nähe beobachten zu können
+wenn er durch lautes Rufen das Wild auf sich aufmerksam macht
+
+184. Reaktionen von Wildtieren auf Gleitschirme in einem Fluggebiet sind abhängig
+von der Regelmäßigkeit des Überfliegens (Gewöhnungseffekt)
+von der Geländestruktur (Mulden, Geländeeinschnitte, Gräben)
+von der Vegetationsstruktur, da Bäume und Sträucher Deckungsmöglichkeit bieten
+x Alle sind richtig 
+
+185. Welche Überflughöhen über Wildtiere sollte möglichst nicht unterschritten werden?
+30 Meter
+50 - 100 Meter
+x ca. 150 Meter
+Die Überflughöhe spielt keine Rolle, da Wildtiere auf Gleitschirme nicht reagieren
+
+186. Vögel brüten
+nur im Frühjahr
+x im Frühjahr und Frühsommer
+im Spätsommer und Herbst
+das ganze Jahr über
+
+187. Ein Pilot befindet sich unweit einer Felswand. Ein großer Greifvogel taucht plötzlich auf und vollzieht einen "Girlandenflug". Was hat das zu bedeuten und wie verhält sich der Pilot richtig?
+x Der Girlandenflug zeigt Revierverhalten des Adlers an, um Eindringlinge in Horstnähe zu vertreiben. Abdrehen und diesen Bereich möglichst schnell verlassen
+Der Greifvogel ist beeindruckt und will "spielen". Flugrichtung beibehalten und abwarten was passiert
+Das Verhalten des Adlers signalisiert den Horstbereich, stellt jedoch kein Problem für den Vogel dar. Flugrichtung beibehalten.
+Der Greifvogel ist auf Beutejagd. Sofort Steilspirale einleiten um dem Vogel nicht zum Opfer zu fallen
+
+188. Bei einem Flug im Hochsommer mit mehreren hundert Meter Startüberhöhung befindet sich ein Greifvogel im selben Aufwindbereich. Wie verhält sich der Pilot richtig?
+Abspiralen und Höhe vernichten
+x Normal weiterfliegen und hektische Flugmanöver vermeiden.
+Durch lautes Rufen den Vogel auf sich aufmerksam machen um ihn zu vertreiben
+Gleitschirm mehrmals bewusst einklappen, das laute Rascheln vertreibt den Vogel
+
+189. Um Störungen von brütenden Greifvögeln (z.B. Steinadler, Wanderfalke) zu vermeiden,
+x ist auf Flüge in der Nähe der Horste vor allem im Frühjahr zu verzichten
+sind weiße Gleitschirme gegenüber bunten Fluggeräten zu bevorzugen
+kann man mit lautem Zurufen in Horstnähe auf sich aufmerksam machen, um den Überraschungsmoment für die Vögel auszuschließen
+Alle sind richtig
+
+190. Störungen von Wildtieren im Winter
+sind unkritisch, da auch in dieser Jahreszeit genügend Nahrungsangebot vorhanden ist
+x sind zu vermeiden, weil mögliche Fluchten im Schnee besonders Energie zehrend sind
+sind unkritisch, weil die meisten Tiere Winterruhe halten.
+sind nur bei Frostwetter kritisch 
+
+191. Der umweltbewusste Pilot
+bildet für seine Anreise zum Fluggebiet möglichst Fahrgemeinschaften
+nimmt besondere Rücksicht im Frühjahr und Frühsommer, wen die meisten Wildtiere ihren Nachwuchs führen
+informiert sich vor dem Start über Schutzgebiete und Flugordnungen im Fluggebiet
+x Alle sind richtig
+
+192. In kräftiger Thermik können Steigwerte über 5 m/s und Höhenunterschiede bis über 1000 Meter erreicht werden. Dies kann zu schnellen Änderungen des Luftdruckes führen.
+Solche Druckänderungen sind gefährlich, da sie zur so genannten Taucherkrankheit führen können
+Das hat keine körperlichen Auswirkungen. Ich merke ja beim Aufzugfahren auch nichts
+x Es muss ein Druckausgleich zum Mittelohr stattfinden können. Dies kann bei einer Erkältung zu starken Schmerzen und Schwindel führen
+Die Druckänderung kann den Rückenprotektor zusammendrücken
+
+193. Bei einer Steilspirale
+helfen Medikamente gegen Reisekrankheit am besten gegen Übelkeit und haben keine Nebenwirkungen
+nimmt die G-Belastung kaum zu
+kommt es nie zu Orientierungsverlusten
+x gibt es individuell sehr unterschiedliche Belastbarkeiten. Jeder Pilot sollte sich an diese Manöver nur sehr langsam herantasten, am besten unter fachkundiger Anleitung
+
+194. Beim Thermikkurbeln wird Dir leicht übel. In der Apotheke bietet man dir ein Medikament gegen Reisekrankheit an.
+x Solche Medikamente beeinträchtigen Fahr- und Flugtüchtigkeit und das Reaktionsvermögen. Sie eignen sich nicht
+Übelkeit und Erbrechen in der Luft hindern mich nicht an weiten Streckenflügen
+Tief Durchatmen und viel umherschauen beim Kurbeln machen der Übelkeit schnell ein Ende
+Das Problem betrifft nur Piloten. Passagiere haben damit nie ein Problem
+
+195. Am Vortag war eine Fliegerparty. Du hast nur 5 Flaschen Bier getrunken und bist um 3:00 Uhr morgens ins Bett gegangen. Heute möchtest Du bei bestem Wetter zum Fliegen gehen.
+Ich habe zum Start um 11:00 Uhr keinen Alkohol mehr im Blut
+Meine Wahrnehmung, die Reaktionsgeschwindigkeit und das Gesichtsfeld sind durch den Restalkohol nicht eingeschränkt, einem Start steht nichts im Weg
+Es gibt im Gegensatz zum Autofahren keinen Alkoholgrenzwert und keinen Pilotenscheinentzug
+x Der Restalkohol beeinträchtigt mich so stark, dass ich auf einen Flug verzichte
+
+196. Am Vortag war eine Fliegerparty. Du hast nur 3 Stunden geschlafen. Heute möchtest Du bei bestem Wetter zum Fliegen gehen.
+Das ist kein Problem! Ich bin wenig Schlaf schon gewöhnt
+Ich trinke im Bergrestaurant 3 Tassen Kaffee und bin dann fit für einen großen Streckenflug
+x Übermüdung führt zu Konzentrationsschwäche und verminderter Leistungsfähigkeit. Ich bleibe heute am Boden
+Ich nehme noch eine Energiepille von der Party. Damit bin ich der Überflieger 
+
+197. Sehr locker eingestellte Beingurte können das Hineinsetzen ins Gurtzeug erschweren, weil sich das Sitzbrett schräg stellen kann.
+Dies kann das Lenkverhalten des Schirmes beeinträchtigen
+Es kann zu Schmerzen in der Leistengegend führen
+Bereits nach kurzer Zeit kann es durch Versacken des Blutes zu einem Hängetrauma mit nachfolgender Bewusstlosigkeit führen
+x Alle Antworten sind richtig
+
+198. Extremsituationen in Bodennähe sind die häufigste Ursache für schwere Unfälle. Bei einer massiven Kappenstörung (großflächiger Einklapper mit anhaltender Drehung, Verhänger, Stall, Trudeln) in Höhen unter 100 m GND hat der Pilot die besten Überlebenschancen, wenn er
+einen Fullstall erfliegt, weil damit alle Extremflugsituationen beendet werden können
+durch aktives, nötigenfalls wiederholtes Eingreifen den Extremflugzustand beendet
+x unverzüglich den Rettungsschirm auslöst
+alle Muskeln anspannt, eine gekrümmte Haltung einnimmt und so den Aufprall abwartet
+
+199. Bei der Landung an einem modernen, vom Gewichtsbereich richtig dimensionierten Rettungsgerät kann der Pilot damit rechnen
+zu überleben, schwere Verletzungen sind aber die Regel
+eine Überlebenschance von etwa 50 % zu haben
+sich ein oder beide Beine zu brechen
+x unverletzt zu bleiben
+
+200. Nach einer unverletzt überstandenen Not- oder Rettungsgerätelandung
+sollte der Pilot längere Zeit ruhig liegen bleiben um den Schreck zu überwinden und sich zu beruhigen
+sollte der Pilot möglichen Beobachtern durch Aktivität (z.B. Zusammenpacken der Ausrüstung) seine Unverletztheit signalisieren
+sollte der Pilot, wenn möglich, Bergrettung bzw. Polizei verständigen um einen unnötigen Rettungseinsatz zu verhindern (Handy)
+x sollte der Pilot möglichen Beobachtern durch Aktivität (z.B. Zusammenpacken der Ausrüstung) seine Unverletztheit signalisieren und, wenn möglich, Bergrettung bzw. Polizei verständigen, um einen unnötigen Rettungseinsatz zu verhindern (Handy) 
+
+201. Das "alpine Notsignal" signalisiert im Gebirge unmittelbaren Bedarf an Hilfe. Es besteht aus
+x 6 optischen oder akustischen Zeichen in der Minute in gleichmäßigem Abstand und einer Minute Pause
+3 optischen oder akustischen Zeichen in der Minute in gleichmäßigem Abstand und 30 Sekunden Pause
+lautem Jodeln von 3 Minuten Dauer und einer Minute Pause
+ununterbrochenem Hilferufen

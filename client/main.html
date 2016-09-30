@@ -3,6 +3,14 @@
 </head>
 
 <body>
-{{> question}}
+{{> questions}}
 </body>
+
+<template name ="questions">
+	<p>
+	{{#each questions}}
+		{{> question}}
+	{{/each}}
+	</p>
+</template>
 
