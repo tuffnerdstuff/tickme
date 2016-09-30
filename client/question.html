@@ -1,0 +1,13 @@
+<template name ="question">
+	<h1>{{question.description}}</h1>
+	<img src="{{question.img}}"/>
+	<ul>
+	{{#each question.answers}}
+		{{> answer}}
+	{{/each}}
+	</ul>
+</template>
+
+<template name ="answer">
+	<li><input type="checkbox" class="answer"/>{{answer}}</li>
+</template>
