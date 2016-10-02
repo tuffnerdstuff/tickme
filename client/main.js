@@ -92,18 +92,23 @@ Template.questions.helpers({
 
 });
 
+function approveAnswer(){
+    // Increment correct answers
+    if (Session.get( "currQuestionCorrect"))
+    {
+        Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
+    }
+}
+
 Template.questions.events({
 
     'click #btnNext'(){
+        
+        approveAnswer();
+        
         // Increment current question index
         var currQuestion = Session.get( "currQuestion");
         Session.set("currQuestion", currQuestion + 1);
-        
-        // Increment correct answers
-        if (Session.get( "currQuestionCorrect"))
-        {
-            Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
-        }
         
         // Clear answers
         $(".answer").attr('checked',false);
@@ -114,11 +119,7 @@ Template.questions.events({
     
     'click #btnFinish'(){
         
-        // Increment correct answers
-        if (Session.get( "currQuestionCorrect"))
-        {
-            Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
-        }
+        approveAnswer();
         
         // App state: Finished
         Session.set( "state", "finished" );
