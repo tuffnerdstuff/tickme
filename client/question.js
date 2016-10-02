@@ -1,13 +1,6 @@
 import { Template } from 'meteor/templating';
 import './question.html';
 
-Template.question.onCreated(function(){
-    this.isCorrectAnswer = new ReactiveVar( false );
-});
-
-Template.question.helpers({
-    
-});
 
 Template.question.events({
 	'click .answer'(event, template) {
@@ -15,12 +8,12 @@ Template.question.events({
 		if (this.answer.correct == "true")
 		{
 			//alert("Stimmt!");
-            template.isCorrectAnswer.set(true);
-            Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
+            Session.set( "currQuestionCorrect", true);
+            //Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
 		}
 		else
 		{
-            template.isCorrectAnswer.set(false);
+            Session.set( "currQuestionCorrect", false);
 			//alert("Quatsch!");
 		}
         

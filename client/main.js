@@ -11,6 +11,7 @@ Session.set( "selectedQuestions", undefined);
 Session.set( "currQuestion", 0);
 Session.set( "maxQuestion", 0);
 Session.set( "correctQuestions", 0);
+Session.set( "currQuestionCorrect", false);
 
 Meteor.startup(function () {
     
@@ -57,7 +58,6 @@ function selectTopicQuestions(list, count) {
     elemsLeft = list.length;
     list.forEach(function(e){
         var p = count / elemsLeft;
-        console.log(p);
         if (p >= Math.random())
         {
             selElems.push(e);
@@ -98,6 +98,12 @@ Template.questions.events({
         // Increment current question index
         var currQuestion = Session.get( "currQuestion");
         Session.set("currQuestion", currQuestion + 1);
+        
+        // Increment correct answers
+        if (Session.get( "currQuestionCorrect"))
+        {
+            Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
+        }
         
         // Clear answers
         $(".answer").attr('checked',false);
