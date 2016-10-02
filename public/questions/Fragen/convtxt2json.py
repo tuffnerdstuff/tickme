@@ -20,7 +20,11 @@ def parse_questions(topic):
             q_match = re.match("(\d*)\.(.*)",line)
             if q_match is not None and len(q_match.groups()) == 2:
                 q["id"]=int(q_match.group(1))
-                q["question"]=q_match.group(2)
+                question=q_match.group(2)
+                q["question"]= re.sub(r"<.*?>", "", question).strip()
+                image_match = re.match(r"^.*?<(.*?)>",question)
+                if image_match is not None:
+                    q["image"]= image_match.group(1)
             else:
                 if line[:2] == "x ":
                     answers.append({"correct":"true","answer":line[2:]})

@@ -1,7 +1,9 @@
 <template name ="question">
     <h1>{{q.topic}}</h1>
     <h2>{{q.id}}. {{q.question}}</h2>
-	<img src="{{question.img}}"/>
+    {{#if q.image}}
+	<img src="questions/Bilder/{{q.image}}"/>
+    {{/if}}
     <fieldset>
 	<ul>
 	{{#each a in q.answers}}
