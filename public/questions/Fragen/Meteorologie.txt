@@ -1,332 +1,332 @@
-001. Wie hoch ist der Luftdruck in Meereshöhe, und wie ändert er sich mit der Höhe?
-Kann in Meereshöhe um über 100 hPa schwanken, halbiert sich alle 3500 m
+001. Wie hoch ist der Luftdruck in MeereshÃ¶he, und wie Ã¤ndert er sich mit der HÃ¶he?
+Kann in MeereshÃ¶he um Ã¼ber 100 hPa schwanken, halbiert sich alle 3500 m
 Immer 1013,25 hPa, halbiert sich alle 5500 m
-Durchschnittlich 1013,25 hPa, nimmt mit der Höhe gleichmäßig ab
+Durchschnittlich 1013,25 hPa, nimmt mit der HÃ¶he gleichmÃ¤ÃŸig ab
 x  Durchschnittlich 1013,25 hPa, halbiert sich alle 5500 m
 
-002. Welche Grobinformationen können aus dem Isobarenverlauf einer Bodenwetterkarte abgeleitet werden?
+002. Welche Grobinformationen kÃ¶nnen aus dem Isobarenverlauf einer Bodenwetterkarte abgeleitet werden?
 Nur die Lage von Hoch- und Tiefdruckgebieten
-x  Windrichtung und -stärke sowie Hoch- oder Tiefdruckeinfluss
-Wind- und Temperaturverhältnisse
-Der exakte Verlauf der Höhenströmung
+x  Windrichtung und -stÃ¤rke sowie Hoch- oder Tiefdruckeinfluss
+Wind- und TemperaturverhÃ¤ltnisse
+Der exakte Verlauf der HÃ¶henstrÃ¶mung
 
 003. Wenn Luft aufsteigt
-gerät sie unter geringeren Druck und kühlt mit 0,65°C/100 m ab
+gerÃ¤t sie unter geringeren Druck und kÃ¼hlt mit 0,65á¸C/100 m ab
 x  nimmt ihr Volumen wegen der Druckabnahme zu, ihre Temperatur ab und ihre relative Feuchte zu
 verringert sich die relative Feuchte wegen der Druckabnahme kontinuierlich
-dehnt sie sich aus und erwärmt sich daher um 1 Grad je 100 m
+dehnt sie sich aus und erwÃ¤rmt sich daher um 1 Grad je 100 m
 
-004. Nach mehreren Schönwettertagen sind am Morgen flockenförmige Schäfchenwolken oder mittelhohe Wolkenbänke mit fingerförmigen Auswüchsen (Ac castellani) zu sehen, die eventuell bald wieder verschwinden. Worauf weist diese Erscheinung hin?
-x  Auf Labilisierung in der Höhe und damit auf eine stark erhöhte Wahrscheinlichkeit für nachfolgende lokale Überentwicklungen und Gewitter oder Annäherung einer Kaltfront
-Auf den Fortbestand des störungsfreien Schönwetters bei gleichzeitiger Verschlechterung der Thermik durch Warmluftzufuhr in der Höhe
-Auf die Annäherung einer Warmfront
+004. Nach mehreren SchÃ¶nwettertagen sind am Morgen flockenfÃ¶rmige SchÃ¤fchenwolken oder mittelhohe WolkenbÃ¤nke mit fingerfÃ¶rmigen AuswÃ¼chsen (Ac castellani) zu sehen, die eventuell bald wieder verschwinden. Worauf weist diese Erscheinung hin?
+x  Auf Labilisierung in der HÃ¶he und damit auf eine stark erhÃ¶hte Wahrscheinlichkeit fÃ¼r nachfolgende lokale Ãœberentwicklungen und Gewitter oder AnnÃ¤herung einer Kaltfront
+Auf den Fortbestand des stÃ¶rungsfreien SchÃ¶nwetters bei gleichzeitiger Verschlechterung der Thermik durch Warmluftzufuhr in der HÃ¶he
+Auf die AnnÃ¤herung einer Warmfront
 Mit dieser Erscheinung sind keine eindeutigen Wetterentwicklungen verbunden
 
-005. Gibt es, abgesehen vom bekannten Südföhn, noch andere Föhnwinde?
-Nur noch den Nordföhn, ebenfalls in den Alpen
-Ja, alle trockenen und warmen Strömungen werden als Föhn bezeichnet
-x  Ja, überall dort, wo eine stärkere großräumige Strömung quer auf Berg- oder Hügelketten trifft, sind Föhnerscheinungen möglich
-Alle trockenen und warmen Strömungen werden als Föhn bezeichnet und überall dort, wo eine stärkere großräumige Strömung quer auf Berg- oder Hügelketten trifft, sind Föhnerscheinungen möglich
+005. Gibt es, abgesehen vom bekannten SÃ¼dfÃ¶hn, noch andere FÃ¶hnwinde?
+Nur noch den NordfÃ¶hn, ebenfalls in den Alpen
+Ja, alle trockenen und warmen StrÃ¶mungen werden als FÃ¶hn bezeichnet
+x  Ja, Ã¼berall dort, wo eine stÃ¤rkere groÃŸrÃ¤umige StrÃ¶mung quer auf Berg- oder HÃ¼gelketten trifft, sind FÃ¶hnerscheinungen mÃ¶glich
+Alle trockenen und warmen StrÃ¶mungen werden als FÃ¶hn bezeichnet und Ã¼berall dort, wo eine stÃ¤rkere groÃŸrÃ¤umige StrÃ¶mung quer auf Berg- oder HÃ¼gelketten trifft, sind FÃ¶hnerscheinungen mÃ¶glich
 
-006. Der Flugwetterbericht spricht von einer kräftigen Föhnströmung. Zusätzlich wird erwähnt, dass auf Grund des Wind- und/oder Temperaturprofils keine Wellenbildung zu erwarten ist. Was bedeutet dieser Hinweis für die Praxis?
-Trotz fehlender Wellenbildung ist bei Föhnlage gefahrloses Fliegen nicht möglich
-Anstelle von föhntypischen Linsenwolken ist ein anderes Wolkenbild, ev. mit zerrissenen Cumuli, zu erwarten
-Obwohl hoch reichende Wellen ausbleiben, ist die Strömung sehr turbulent
+006. Der Flugwetterbericht spricht von einer krÃ¤ftigen FÃ¶hnstrÃ¶mung. ZusÃ¤tzlich wird erwÃ¤hnt, dass auf Grund des Wind- und/oder Temperaturprofils keine Wellenbildung zu erwarten ist. Was bedeutet dieser Hinweis fÃ¼r die Praxis?
+Trotz fehlender Wellenbildung ist bei FÃ¶hnlage gefahrloses Fliegen nicht mÃ¶glich
+Anstelle von fÃ¶hntypischen Linsenwolken ist ein anderes Wolkenbild, ev. mit zerrissenen Cumuli, zu erwarten
+Obwohl hoch reichende Wellen ausbleiben, ist die StrÃ¶mung sehr turbulent
 x  Alle Antworten sind richtig
 
-007. Was ist unter dem "Einschlafen des Föhns" zu verstehen?
-Das zeitliche Ende der Föhnströmung
-Das Abschwächen des Föhns mit zunehmendem Abstand vom Auslösehindernis
-x  Ein Abheben der wärmeren und leichteren Föhnströmung durch lokale Kaltluftbildung. Starke Föhnböen können dennoch bis zum Boden durchbrechen
-Wegen der fehlenden Einstrahlung verringert sich zum Abend hin der horizontale Druckgradient wodurch der Föhn schwächer wird
+007. Was ist unter dem "Einschlafen des FÃ¶hns" zu verstehen?
+Das zeitliche Ende der FÃ¶hnstrÃ¶mung
+Das AbschwÃ¤chen des FÃ¶hns mit zunehmendem Abstand vom AuslÃ¶sehindernis
+x  Ein Abheben der wÃ¤rmeren und leichteren FÃ¶hnstrÃ¶mung durch lokale Kaltluftbildung. Starke FÃ¶hnbÃ¶en kÃ¶nnen dennoch bis zum Boden durchbrechen
+Wegen der fehlenden Einstrahlung verringert sich zum Abend hin der horizontale Druckgradient wodurch der FÃ¶hn schwÃ¤cher wird
 
-008. Warum können Föhnwolken (Ac lenticularis) trotz angeblich sehr hoher Windgeschwindigkeiten für lange Zeiträume an der selben Position verharren?
-Wegen ihrer strömungsgünstigen Form "stehen" sie ruhig im Wind (Föhnfische)
+008. Warum kÃ¶nnen FÃ¶hnwolken (Ac lenticularis) trotz angeblich sehr hoher Windgeschwindigkeiten fÃ¼r lange ZeitrÃ¤ume an der selben Position verharren?
+Wegen ihrer strÃ¶mungsgÃ¼nstigen Form "stehen" sie ruhig im Wind (FÃ¶hnfische)
 Diese Wolken befinden sich oberhalb der Starkwindschicht in ruhiger Luft
-x  Sie werden durchströmt, bestehen also ständig aus neuen Tröpfchen
-Falsch, Wellenwolken wandern immer mit der Strömung ab, aber wegen des geringen Widerstandes viel langsamer als mit der aktuellen Windgeschwindigkeit
+x  Sie werden durchstrÃ¶mt, bestehen also stÃ¤ndig aus neuen TrÃ¶pfchen
+Falsch, Wellenwolken wandern immer mit der StrÃ¶mung ab, aber wegen des geringen Widerstandes viel langsamer als mit der aktuellen Windgeschwindigkeit
 
-009. Sind bei Föhnlagen auf der Leeseite des Gebirges zwingend Wellenwolken (Ac lenticularis), Rotorwolken und eine Föhnmauer zu sehen?
-Ja, sonst ist es keine Föhnströmung
-Ja, lediglich die überschwappende Föhnmauer kann fehlen
-x  Nein, das Wolkenbild weicht mitunter deutlich vom \"Lehrbuchföhn\" ab, sogar wolkenloser Himmel ist möglich
-Wellenwolken sind ein zwingendes Merkmal von Föhn, Rotorwolken und Föhnmauer können hingegen fehlen.
+009. Sind bei FÃ¶hnlagen auf der Leeseite des Gebirges zwingend Wellenwolken (Ac lenticularis), Rotorwolken und eine FÃ¶hnmauer zu sehen?
+Ja, sonst ist es keine FÃ¶hnstrÃ¶mung
+Ja, lediglich die Ã¼berschwappende FÃ¶hnmauer kann fehlen
+x  Nein, das Wolkenbild weicht mitunter deutlich vom \"LehrbuchfÃ¶hn\" ab, sogar wolkenloser Himmel ist mÃ¶glich
+Wellenwolken sind ein zwingendes Merkmal von FÃ¶hn, Rotorwolken und FÃ¶hnmauer kÃ¶nnen hingegen fehlen.
 
-010. Wo und wann erfolgt der Föhndurchbruch üblicherweise am raschesten?
-x  Im Bereich von Föhnschneisen (-gassen)
+010. Wo und wann erfolgt der FÃ¶hndurchbruch Ã¼blicherweise am raschesten?
+x  Im Bereich von FÃ¶hnschneisen (-gassen)
 Im Bereich von Beckenlagen
-Überall auf der Leeseite und unabhängig von der Schichtung annähernd zur selben Zeit
-Am Gebirgsrand der Leeseite und während der Nachtstunden
+Ãœberall auf der Leeseite und unabhÃ¤ngig von der Schichtung annÃ¤hernd zur selben Zeit
+Am Gebirgsrand der Leeseite und wÃ¤hrend der Nachtstunden
 
-011. Hauptgefahren bei Föhn sind
+011. Hauptgefahren bei FÃ¶hn sind
 Extreme Windgeschwindigkeiten
-Auch in zunächst windgeschützten Lagen sehr rascher Föhndurchbruch möglich
-Heftige Turbulenz, z.T.. ortsfest (Föhnrotoren, unmittelbares Lee), z.T., aber auch weit "abschwimmende" Wirbel
+Auch in zunÃ¤chst windgeschÃ¼tzten Lagen sehr rascher FÃ¶hndurchbruch mÃ¶glich
+Heftige Turbulenz, z.T.. ortsfest (FÃ¶hnrotoren, unmittelbares Lee), z.T., aber auch weit "abschwimmende" Wirbel
 x  Alle sind richtig
 
-012. Der einzig sicherer Hinweis auf eine Föhnlage ergibt sich aus
+012. Der einzig sicherer Hinweis auf eine FÃ¶hnlage ergibt sich aus
 x  dem lokalen Flugwetterbericht mit aktuellen Windmeldungen von Bergstationen im Vorhersagebereich
-dem für Föhn typischen Wolkenbild
-aus den Windverhältnissen am Startplatz
+dem fÃ¼r FÃ¶hn typischen Wolkenbild
+aus den WindverhÃ¤ltnissen am Startplatz
 aus den guten Sichtweiten im Fluggebiet
 
-013. Durch eine ausgeprägte Sperrschicht (Isothermie oder Inversion) wird die Thermik
-x  rasch gestoppt, weil der Temperaturvorsprung des Aufwindes gegenüber der Umgebungsluft in der Sperrschicht mit jedem Höhenmeter geringer wird
-rasch gestoppt, weil der Temperaturvorsprung der Umgebungsluft in der Sperrschicht gegenüber der des Aufwindes mit jedem Höhenmeter geringer wird
-verstärkt, weil der Temperaturvorsprung der Umgebungsluft in der Sperrschicht gegenüber der des Aufwindes mit jedem Höhenmeter geringer wird
-Verstärkt, weil der Temperaturvorsprung des Aufwindes gegenüber der Umgebungsluft in der Sperrschicht mit jedem Höhenmeter geringer wird
+013. Durch eine ausgeprÃ¤gte Sperrschicht (Isothermie oder Inversion) wird die Thermik
+x  rasch gestoppt, weil der Temperaturvorsprung des Aufwindes gegenÃ¼ber der Umgebungsluft in der Sperrschicht mit jedem HÃ¶henmeter geringer wird
+rasch gestoppt, weil der Temperaturvorsprung der Umgebungsluft in der Sperrschicht gegenÃ¼ber der des Aufwindes mit jedem HÃ¶henmeter geringer wird
+verstÃ¤rkt, weil der Temperaturvorsprung der Umgebungsluft in der Sperrschicht gegenÃ¼ber der des Aufwindes mit jedem HÃ¶henmeter geringer wird
+VerstÃ¤rkt, weil der Temperaturvorsprung des Aufwindes gegenÃ¼ber der Umgebungsluft in der Sperrschicht mit jedem HÃ¶henmeter geringer wird
 
-014. Die markantesten Vorteile von Wolkenthermik gegenüber Blauthermik sind:
-Die Aufwinde unter Wolken sind immer stärker und tragen höher hinauf
-x  Das Wolkenbild liefert Information über Aufwindverteilung, -höhe, -versetzung und -phase
-Die Aufwinde sind stärker aber weniger turbulent
-Durch Sogwirkung der mächtigen, darüber liegenden Quellwolken kommt es verbreitet zur Aufwindverstärkung
+014. Die markantesten Vorteile von Wolkenthermik gegenÃ¼ber Blauthermik sind:
+Die Aufwinde unter Wolken sind immer stÃ¤rker und tragen hÃ¶her hinauf
+x  Das Wolkenbild liefert Information Ã¼ber Aufwindverteilung, -hÃ¶he, -versetzung und -phase
+Die Aufwinde sind stÃ¤rker aber weniger turbulent
+Durch Sogwirkung der mÃ¤chtigen, darÃ¼ber liegenden Quellwolken kommt es verbreitet zur AufwindverstÃ¤rkung
 
-015. Für den Flugtag wird gute Blauthermik-Entwicklung und Windstille vorhergesagt. Wann sollte ein Gelegenheitspilot fliegen, wenn ein ruhiger Gleitflug angestrebt wird?
-An Thermiktagen überhaupt nicht
-x  Am Morgen, am frühen Vormittag und abhängig vom Fluggelände, eventuell am späteren Nachmittag
-Zu jeder beliebigen Zeit, weil die Flugverhältnisse bei Blauthermik ohnehin turbulenzarm bleiben
+015. FÃ¼r den Flugtag wird gute Blauthermik-Entwicklung und Windstille vorhergesagt. Wann sollte ein Gelegenheitspilot fliegen, wenn ein ruhiger Gleitflug angestrebt wird?
+An Thermiktagen Ã¼berhaupt nicht
+x  Am Morgen, am frÃ¼hen Vormittag und abhÃ¤ngig vom FluggelÃ¤nde, eventuell am spÃ¤teren Nachmittag
+Zu jeder beliebigen Zeit, weil die FlugverhÃ¤ltnisse bei Blauthermik ohnehin turbulenzarm bleiben
 Zwischen mittlerem Vormittag und mittlerem Nachmittag
 
 016. Hat Blauthermik auch Vorteile?
 Bessere Steigraten bei geringerer Turbulenz
-x  Es gibt weder Abschattungen durch Cumuluswolken noch Überentwicklungen und auch keine ungewollten Einflüge in Wolken
-Einfachere Beurteilung der Aufwindsituation durch das Fehlen von Sicht einschränkenden Cumuluswolken
+x  Es gibt weder Abschattungen durch Cumuluswolken noch Ãœberentwicklungen und auch keine ungewollten EinflÃ¼ge in Wolken
+Einfachere Beurteilung der Aufwindsituation durch das Fehlen von Sicht einschrÃ¤nkenden Cumuluswolken
 Die Antworten "Es gibt..." und "Einfachere Beurteilung..." sind richtig
 
-017. Die Bahn der Luvthermik führt nach Ablösung vom Grat unweigerlich auf die Leeseite des Berges. Welche Voraussetzungen müssen erfüllt sein, dass der Flug über dem Kamm nach hinten verlagert werden darf?
+017. Die Bahn der Luvthermik fÃ¼hrt nach AblÃ¶sung vom Grat unweigerlich auf die Leeseite des Berges. Welche Voraussetzungen mÃ¼ssen erfÃ¼llt sein, dass der Flug Ã¼ber dem Kamm nach hinten verlagert werden darf?
 Bei starkem Steigen darf trotz windversetzter Thermik auf die Leeseite geflogen werden
-Ein vertikaler Geländeabstand von 200 m reicht, denn dann ist das Lee ohnehin belanglos
-x  Bei Aufwindverlust oder Aufwindende und verstärktem Sinken muss problemlos auf die Luvseite vorgeflogen werden können oder ein sicherer Landeplatz auf der Leeseite erreichbar sein
+Ein vertikaler GelÃ¤ndeabstand von 200 m reicht, denn dann ist das Lee ohnehin belanglos
+x  Bei Aufwindverlust oder Aufwindende und verstÃ¤rktem Sinken muss problemlos auf die Luvseite vorgeflogen werden kÃ¶nnen oder ein sicherer Landeplatz auf der Leeseite erreichbar sein
 Die Antworten "Ein vertikaler..." und "Bei Aufwindverlust..." sind richtig
 
-018. Welche meteorologische Gründe erfordern den bewussten Abbruch eines Thermikfluges?
+018. Welche meteorologische GrÃ¼nde erfordern den bewussten Abbruch eines Thermikfluges?
 Stetige oder starke, sprunghafte Windzunahme
-Entstehung von Überentwicklungen
+Entstehung von Ãœberentwicklungen
 Heftige Turbulenzen
 x  Alle sind richtig
 
-019. Thermikfliegen bedeutet zwangsläufig ein bestimmtes Maß an Turbulenz. Welche Aussagen sind richtig?
-Wer hinauf will, muss starke Turbulenz akzeptieren. Außerdem, bis zu Steigwerten von 4m/s sind Aufwinde ohnehin nahezu turbulenzfrei
-In Abhängigkeit von Gelände, Tageszeit und Wetter schwankt das Thermik begleitende Turbulenzspektrum in einem weiten Bereich
-Auftretende Turbulenzen sollen nicht als beängstigend empfunden werden und müssen vom Piloten gut beherrscht werden können
-x  Die Antworten "In Abhängigkeit..." und "Auftretende Turbulenzen..." sind richtig
+019. Thermikfliegen bedeutet zwangslÃ¤ufig ein bestimmtes MaÃŸ an Turbulenz. Welche Aussagen sind richtig?
+Wer hinauf will, muss starke Turbulenz akzeptieren. AuÃŸerdem, bis zu Steigwerten von 4m/s sind Aufwinde ohnehin nahezu turbulenzfrei
+In AbhÃ¤ngigkeit von GelÃ¤nde, Tageszeit und Wetter schwankt das Thermik begleitende Turbulenzspektrum in einem weiten Bereich
+Auftretende Turbulenzen sollen nicht als beÃ¤ngstigend empfunden werden und mÃ¼ssen vom Piloten gut beherrscht werden kÃ¶nnen
+x  Die Antworten "In AbhÃ¤ngigkeit..." und "Auftretende Turbulenzen..." sind richtig
 
 020. Worauf ist beim Anflug eines potentiellen Thermikberges zu achten?
-Auf die durch überregionale oder regionale Luftströmungen verursachte Windsituation am Berg
-Auf Thermikentstehungs- und Ablösebereiche sowie auf die Landemöglichkeiten im Falle eines "Absaufers"
+Auf die durch Ã¼berregionale oder regionale LuftstrÃ¶mungen verursachte Windsituation am Berg
+Auf Thermikentstehungs- und AblÃ¶sebereiche sowie auf die LandemÃ¶glichkeiten im Falle eines "Absaufers"
 Auf das Wolkenbild
 x  Alle sind richtig
 
-021. Die normalen Wetterberichte weisen auf einen störungsfreien Badetag mit hohen Temperaturen hin. Die Temperaturzustandskurve (TEMP) zeigt, dass die extrem trockene Luftmasse bis 2300 m labil geschichtet ist und darüber eine kräftige Inversion liegt. Was ist zu erwarten?
+021. Die normalen Wetterberichte weisen auf einen stÃ¶rungsfreien Badetag mit hohen Temperaturen hin. Die Temperaturzustandskurve (TEMP) zeigt, dass die extrem trockene Luftmasse bis 2300 m labil geschichtet ist und darÃ¼ber eine krÃ¤ftige Inversion liegt. Was ist zu erwarten?
 Beste, problemlose Blauthermik
-Nach oben hin zunehmende Thermik, die ab 2300 m wegen der Inversion allmählich wieder schwächer wird
-Nach oben hin gleich bleibende Thermikstärke die an der Inversion ein abruptes Ende findet
-x  Nach oben hin zunehmende Aufwinde, im Bereich der Inversionsuntergrenze stark turbulente Verhältnisse
+Nach oben hin zunehmende Thermik, die ab 2300 m wegen der Inversion allmÃ¤hlich wieder schwÃ¤cher wird
+Nach oben hin gleich bleibende ThermikstÃ¤rke die an der Inversion ein abruptes Ende findet
+x  Nach oben hin zunehmende Aufwinde, im Bereich der Inversionsuntergrenze stark turbulente VerhÃ¤ltnisse
 
 022. Bei der Landung an thermisch aktiven Tagen sollte gerechnet werden
-Mit abrupten Änderungen der Windstärke
-Mit kleinräumig ausgeprägten Abwindbereichen
-Mit kleinräumig ausgeprägten Aufwindbereichen
+Mit abrupten Ã„nderungen der WindstÃ¤rke
+Mit kleinrÃ¤umig ausgeprÃ¤gten Abwindbereichen
+Mit kleinrÃ¤umig ausgeprÃ¤gten Aufwindbereichen
 x  Alle sind richtig
 
 023. Der Aufwind wird zu stark, zu turbulent oder der Wolkenabstand zu gering. Wie erfolgt normalerweise die Thermikflucht im Gebirge?
 Durch Verlassen des Aufwindgebietes in Richtung Ebene oder Tal
-Schnellabstiegsmanöver einleiten, dann Aufwindgebiet immer direkt in Windrichtung verlassen
-Vor dem Wegfliegen aus dem Aufwindbereich nur dann ein Schnellabstiegsmanöver einleiten, wenn beim Verlassen des Aufwindes Wolkenkontakt unvermeidlich wäre
-x  Durch Verlassen des Aufwindgebietes in Richtung Ebene oder Tal, vor dem Wegfliegen aus dem Aufwindbereich nur dann ein Schnellabstiegsmanöver einleiten, wenn beim Verlassen des Aufwindes Wolkenkontakt unvermeidlich wäre
+SchnellabstiegsmanÃ¶ver einleiten, dann Aufwindgebiet immer direkt in Windrichtung verlassen
+Vor dem Wegfliegen aus dem Aufwindbereich nur dann ein SchnellabstiegsmanÃ¶ver einleiten, wenn beim Verlassen des Aufwindes Wolkenkontakt unvermeidlich wÃ¤re
+x  Durch Verlassen des Aufwindgebietes in Richtung Ebene oder Tal, vor dem Wegfliegen aus dem Aufwindbereich nur dann ein SchnellabstiegsmanÃ¶ver einleiten, wenn beim Verlassen des Aufwindes Wolkenkontakt unvermeidlich wÃ¤re
 
-024. Der Wetterbericht hat beste Thermik mit guten Streckenflugmöglichkeiten vorhergesagt. Lediglich am späteren Nachmittag sind eine Windzunahme und die Entwicklung von vereinzelten Wärmegewittern "nicht auszuschließen". Wer entscheidet, wie lange geflogen werden kann?
-Der Pilot, die Entscheidung ist einfach, da der Übergang zu gefährlichen Bedingungen immer klar zu erkennen ist
+024. Der Wetterbericht hat beste Thermik mit guten StreckenflugmÃ¶glichkeiten vorhergesagt. Lediglich am spÃ¤teren Nachmittag sind eine Windzunahme und die Entwicklung von vereinzelten WÃ¤rmegewittern "nicht auszuschlieÃŸen". Wer entscheidet, wie lange geflogen werden kann?
+Der Pilot, die Entscheidung ist einfach, da der Ãœbergang zu gefÃ¤hrlichen Bedingungen immer klar zu erkennen ist
 Der Startleiter gibt bereits am Vormittag vor, wie lange am Nachmittag geflogen werden darf
-x  Der Pilot, die Abbruchsentscheidung darf, sobald die ungünstige Änderung erkannt wird, nicht mehr hinausgezögert werden
-In vielen Gebieten werden von den örtlichen Flugschulen Warnlichter eingeschaltet, die den Übergang zu kritischen Bedingungen anzeigen werden:
+x  Der Pilot, die Abbruchsentscheidung darf, sobald die ungÃ¼nstige Ã„nderung erkannt wird, nicht mehr hinausgezÃ¶gert werden
+In vielen Gebieten werden von den Ã¶rtlichen Flugschulen Warnlichter eingeschaltet, die den Ãœbergang zu kritischen Bedingungen anzeigen werden:
 
 025. Womit ist beim Thermikfliegen unter anderem immer zu rechnen?
-Mit schwierigen Startverhältnissen, nicht kontrollierbaren Flugzuständen und einer harten Außenlandung
-x  Mit stärkeren Auf- und Abwinden, mit Turbulenzen und eventuell Störungen am Fluggerät
-Mit Gewittern, starker Windzunahme und nicht vorhergesagten Kaltfrontdurchgängen
-Dass mit hoher Wahrscheinlichkeit der Rettungsschirm ausgelöst werden muss
+Mit schwierigen StartverhÃ¤ltnissen, nicht kontrollierbaren FlugzustÃ¤nden und einer harten AuÃŸenlandung
+x  Mit stÃ¤rkeren Auf- und Abwinden, mit Turbulenzen und eventuell StÃ¶rungen am FluggerÃ¤t
+Mit Gewittern, starker Windzunahme und nicht vorhergesagten KaltfrontdurchgÃ¤ngen
+Dass mit hoher Wahrscheinlichkeit der Rettungsschirm ausgelÃ¶st werden muss
 
-026. Welche Aussagen gelten für Leethermik?
-Ist oft stärker aber auch viel turbulenter als Luvthermik.
-Leethermik ist, außer bei sehr schwachem Wind, für Gleitschirmflieger wegen der Turbulenzen zu gefährlich
-Das Ablösen vom Boden erfolgt oft variabel: Guter Aufwind am Start kann rasch von starkem Rückenwind abgelöst werden
+026. Welche Aussagen gelten fÃ¼r Leethermik?
+Ist oft stÃ¤rker aber auch viel turbulenter als Luvthermik.
+Leethermik ist, auÃŸer bei sehr schwachem Wind, fÃ¼r Gleitschirmflieger wegen der Turbulenzen zu gefÃ¤hrlich
+Das AblÃ¶sen vom Boden erfolgt oft variabel: Guter Aufwind am Start kann rasch von starkem RÃ¼ckenwind abgelÃ¶st werden
 x  Alle sind richtig
 
-027. Wird die Thermik nach oben hin stärker oder eher schwächer, oder bleibt das Steigen konstant?
-Im Normalfall stärker
-x  Abhängig vom TEMP, sind sogar mehrfache Änderungen der Steigrate während des Aufstieges möglich
-Üblicherweise bleibt das Steigen im gesamten Konvektionsbereich gleich
-Sehr selten auch schwächer
+027. Wird die Thermik nach oben hin stÃ¤rker oder eher schwÃ¤cher, oder bleibt das Steigen konstant?
+Im Normalfall stÃ¤rker
+x  AbhÃ¤ngig vom TEMP, sind sogar mehrfache Ã„nderungen der Steigrate wÃ¤hrend des Aufstieges mÃ¶glich
+Ãœblicherweise bleibt das Steigen im gesamten Konvektionsbereich gleich
+Sehr selten auch schwÃ¤cher
 
-028. Zwei Piloten kreisen in verschiedenen, ca. 5 km voneinander entfernten Aufwinden. Trotz ähnlichem Flugkönnen sowie vergleichbaren Fluggeräten, -radien und Flächenbelastungen steigt der eine Pilot mit konstanten 2 m/s, der andere aber mit konstanten 4m/s in Richtung Basis.
-Das gleich bleibende Steigen spricht für neutrale bzw. indifferente Schichtung, die Steigwertunterschiede sind meteorologisch aber nicht erklärbar
-Der Schnellersteigende fliegt in einem Bereich mit kälterer Umgebungsluft (anderer TEMP)
-Der Schnellersteigende fliegt in einem Bereich mit wärmerer Umgebungsluft (anderer TEMP)
-x  Der Schnellersteigende fliegt in einem Aufwind, der bei der Ablösung einen größeren Temperaturvorsprung zur Umgebungsluft hatte
+028. Zwei Piloten kreisen in verschiedenen, ca. 5 km voneinander entfernten Aufwinden. Trotz Ã¤hnlichem FlugkÃ¶nnen sowie vergleichbaren FluggerÃ¤ten, -radien und FlÃ¤chenbelastungen steigt der eine Pilot mit konstanten 2 m/s, der andere aber mit konstanten 4m/s in Richtung Basis.
+Das gleich bleibende Steigen spricht fÃ¼r neutrale bzw. indifferente Schichtung, die Steigwertunterschiede sind meteorologisch aber nicht erklÃ¤rbar
+Der Schnellersteigende fliegt in einem Bereich mit kÃ¤lterer Umgebungsluft (anderer TEMP)
+Der Schnellersteigende fliegt in einem Bereich mit wÃ¤rmerer Umgebungsluft (anderer TEMP)
+x  Der Schnellersteigende fliegt in einem Aufwind, der bei der AblÃ¶sung einen grÃ¶ÃŸeren Temperaturvorsprung zur Umgebungsluft hatte
 
-029. Bei Wind aus 225° mit 20 km/h
-Tritt am SO-Hang ideale Anströmung auf, am NW-Hang bildet sich hingegen ein Lee aus
-x  Kommt der Wind an einem S-Hang schräg von vorne rechts, die nach N ausgerichteten Seite des Berges befindet sich im Lee
-Werden ausschließlich W-Hänge günstig angeströmt
-Sind nur an nordost-gerichteten Hängen- und Bergflanken Leebedingungen zu erwarten
+029. Bei Wind aus 225á¸ mit 20 km/h
+Tritt am SO-Hang ideale AnstrÃ¶mung auf, am NW-Hang bildet sich hingegen ein Lee aus
+x  Kommt der Wind an einem S-Hang schrÃ¤g von vorne rechts, die nach N ausgerichteten Seite des Berges befindet sich im Lee
+Werden ausschlieÃŸlich W-HÃ¤nge gÃ¼nstig angestrÃ¶mt
+Sind nur an nordost-gerichteten HÃ¤ngen- und Bergflanken Leebedingungen zu erwarten
 
-030. Gleichmäßiger Wind mit 360° und 25 km/h. Wo dürfen ideale Hangsegelbedingungen erwartet werden?
-An einer breiten, mittelsteilen, frei angeströmten Westflanke
-x  Auf der angeströmten, mäßig steil abfallenden Seite eines lang gezogenen Geländerückens mit Ost-West-Ausrichtung
-Auf der schmalen Luvseite eines eher kegelförmigen Berges
+030. GleichmÃ¤ÃŸiger Wind mit 360á¸ und 25 km/h. Wo dÃ¼rfen ideale Hangsegelbedingungen erwartet werden?
+An einer breiten, mittelsteilen, frei angestrÃ¶mten Westflanke
+x  Auf der angestrÃ¶mten, mÃ¤ÃŸig steil abfallenden Seite eines lang gezogenen GelÃ¤nderÃ¼ckens mit Ost-West-Ausrichtung
+Auf der schmalen Luvseite eines eher kegelfÃ¶rmigen Berges
 Am sehr flachen, hindernisfreien Nordhang
 
-031. Wo wird beim Soaring im dynamischen Aufwindfeld eines breiten, gut angeströmten Hanges die größte Höhe erreicht?
-Direkt über dem Hangscheitel
-Etwas hinter dem Hang (abgelöste Strömung)
+031. Wo wird beim Soaring im dynamischen Aufwindfeld eines breiten, gut angestrÃ¶mten Hanges die grÃ¶ÃŸte HÃ¶he erreicht?
+Direkt Ã¼ber dem Hangscheitel
+Etwas hinter dem Hang (abgelÃ¶ste StrÃ¶mung)
 x  Deutlich vor dem Hangscheitel
-Im Bereich von Hangeinschnitten, weil die Strömung dort am stärksten ist
+Im Bereich von Hangeinschnitten, weil die StrÃ¶mung dort am stÃ¤rksten ist
 
-032. Welche Bereiche eines Soaringhanges sind, speziell bei höheren Windgeschwindigkeiten, für Gleitschirmflieger problematisch?
-Die seitlichen Ränder, der Gipfelbereich und Einkerbungen im Hang wegen Zunahme der Horizontalwind- und Abnahme der Aufwindkomponente
-Unregelmäßigkeiten im Hangprofil (Knicke, Stufen, Vorgipfel, .) oder Hindernisse (Bäume, Gebäude, ..), weil sie Turbulenz erzeugen
-Ausgedehntere Flachstücke ohne Landemöglichkeit wegen des verschlechterten Aufwind/Gegenwind - Verhältnisses
+032. Welche Bereiche eines Soaringhanges sind, speziell bei hÃ¶heren Windgeschwindigkeiten, fÃ¼r Gleitschirmflieger problematisch?
+Die seitlichen RÃ¤nder, der Gipfelbereich und Einkerbungen im Hang wegen Zunahme der Horizontalwind- und Abnahme der Aufwindkomponente
+UnregelmÃ¤ÃŸigkeiten im Hangprofil (Knicke, Stufen, Vorgipfel, .) oder Hindernisse (BÃ¤ume, GebÃ¤ude, ..), weil sie Turbulenz erzeugen
+Ausgedehntere FlachstÃ¼cke ohne LandemÃ¶glichkeit wegen des verschlechterten Aufwind/Gegenwind - VerhÃ¤ltnisses
 x  Alle sind richtig
 
-033. Wovon hängt der Winkel zwischen Windrichtung und Isobarenrichtung bei stationären Strömungsverhältnissen ab?
-x  Von der Bodenreibung, über Meer ist die Abweichung deutlich geringer als über Land
-Von der Bodenreibung, über Land ist die Abweichung deutlich geringer als über Meer
-Die Ein- bzw. Ausströmkomponenten werden nur vom horizontalen Druckunterschied bestimmt
-Der Winkelunterschied zwischen tatsächlicher Windrichtung und Richtung der Isobaren hängt nur von Corioliskraft und Druckgradientkraft ab und beträgt in mittleren Breiten 30°
+033. Wovon hÃ¤ngt der Winkel zwischen Windrichtung und Isobarenrichtung bei stationÃ¤ren StrÃ¶mungsverhÃ¤ltnissen ab?
+x  Von der Bodenreibung, Ã¼ber Meer ist die Abweichung deutlich geringer als Ã¼ber Land
+Von der Bodenreibung, Ã¼ber Land ist die Abweichung deutlich geringer als Ã¼ber Meer
+Die Ein- bzw. AusstrÃ¶mkomponenten werden nur vom horizontalen Druckunterschied bestimmt
+Der Winkelunterschied zwischen tatsÃ¤chlicher Windrichtung und Richtung der Isobaren hÃ¤ngt nur von Corioliskraft und Druckgradientkraft ab und betrÃ¤gt in mittleren Breiten 30á¸
 
-034. Warum weichen die tatsächlichen Windverhältnisse in einer Gebirgsregion häufig erheblich von den vorhergesagten Bedingungen ab?
+034. Warum weichen die tatsÃ¤chlichen WindverhÃ¤ltnisse in einer Gebirgsregion hÃ¤ufig erheblich von den vorhergesagten Bedingungen ab?
 Wegen der blockierenden, kanalisierenden und umlenkenden Wirkung der Berge
 Weil viele Bergen untertags auch stark vom Talwind beeinflusst werden
 Weil an Bergflanken durch Temperaturunterschiede oft hangparallele Auf- und Abwinde entstehen
 x  Alle sind richtig
 
 035. Treten Talwindsysteme nur an Tagen mit starker Gebirgsthermik auf?
-Nein, Talwinde sind ausschließlich eine Folge der großräumigen Druckverteilung
-Nein, sogar im Winter können sich bei geschlossener Schneedecke im Gebirge starke Talwinde entwickeln
-x  Nein, Talwinde treten immer dann, wenn sich die Gebirgsluft durch Einstrahlung insgesamt besser erwärmt als die Luft im Gebirgsvorland
+Nein, Talwinde sind ausschlieÃŸlich eine Folge der groÃŸrÃ¤umigen Druckverteilung
+Nein, sogar im Winter kÃ¶nnen sich bei geschlossener Schneedecke im Gebirge starke Talwinde entwickeln
+x  Nein, Talwinde treten immer dann, wenn sich die Gebirgsluft durch Einstrahlung insgesamt besser erwÃ¤rmt als die Luft im Gebirgsvorland
 Alle sind richtig
 
-036. Wichtige Talwind-Besonderheiten für Flieger sind:
-Diese Winde treten unsystematisch und daher meist überraschend auf. In vielen Tälern kann nicht einmal ihre Richtung vorhergesagt werden
+036. Wichtige Talwind-Besonderheiten fÃ¼r Flieger sind:
+Diese Winde treten unsystematisch und daher meist Ã¼berraschend auf. In vielen TÃ¤lern kann nicht einmal ihre Richtung vorhergesagt werden
 Landefelder die am Vormittag gut geeignet sind, werden am Nachmittag wegen Starkwind oder Leeturbulenzen eventuell unbrauchbar
-Talwinde erzeugen eigene Luv- und Leegebiete, an vielen Prallhängen entstehen dynamische Aufwindfelder
+Talwinde erzeugen eigene Luv- und Leegebiete, an vielen PrallhÃ¤ngen entstehen dynamische Aufwindfelder
 x  Die Antworten "Landefelder" und "Talwinde" sind richtig
 
 037. Warum dreht der Wind auf der Nordhalbkugel mit zunehmendem Bodenabstand normalerweise nach rechts?
-Weil das Tief (in Strömungsrichtung gesehen) immer rechts liegt, und die Corioliskraft ebenfalls nach rechts ablenkt
+Weil das Tief (in StrÃ¶mungsrichtung gesehen) immer rechts liegt, und die Corioliskraft ebenfalls nach rechts ablenkt
 x  Auf Grund der nachlassenden Bodenreibung nimmt die Geschwindigkeit und damit auch die rechts ablenkende Corioliskraft zu
 Normalerweise dreht der Wind mit zunehmendem Bodenabstand nach links
-Normalerweise ändert sich die Windrichtung mit der Höhe überhaupt nicht
+Normalerweise Ã¤ndert sich die Windrichtung mit der HÃ¶he Ã¼berhaupt nicht
 
 038. Welche Aussagen zum Talwind im Gebirge sind richtig ?
-Seine Mächtigkeit kann zwischen 100 und 300 Meter über dem Talboden betragen, wegen der Bodenreibung nimmt der Wind nach unten hin markant ab
-x  Seine Mächtigkeit kann 1000 Meter und höher über den Talgrund reichen, die Windgeschwindigkeit lässt erst in Bodennähe deutlich nach
-Mit dem Talwind wird kältere Luft ins Gebirge gesaugt, deshalb beschränkt sich seine Ausdehnung auf den unmittelbar bodennahen Bereich
-Der Talwind ist eine vollkommen laminare, turbulenzfreie Strömung
+Seine MÃ¤chtigkeit kann zwischen 100 und 300 Meter Ã¼ber dem Talboden betragen, wegen der Bodenreibung nimmt der Wind nach unten hin markant ab
+x  Seine MÃ¤chtigkeit kann 1000 Meter und hÃ¶her Ã¼ber den Talgrund reichen, die Windgeschwindigkeit lÃ¤sst erst in BodennÃ¤he deutlich nach
+Mit dem Talwind wird kÃ¤ltere Luft ins Gebirge gesaugt, deshalb beschrÃ¤nkt sich seine Ausdehnung auf den unmittelbar bodennahen Bereich
+Der Talwind ist eine vollkommen laminare, turbulenzfreie StrÃ¶mung
 
-039. Aus Wetterbericht und Wolkenversatz geht hervor, dass etwas oberhalb der Berge ein NW-Wind mit ca. 60 km/h weht. Dennoch herrscht am süd-gerichteten Startplatz in 2000 m, ca. 50 m unterhalb des Gipfelkammes guter Aufwind. Wie ist die Situation zu beurteilen?
-Vermutlich ein vom Talwind hervorgerufenes Luv, das Soaring ermöglicht
-x  Wahrscheinlich handelt es sich um den Aufwindteil einer Leewalze oder um starke Leethermik. Ein Start wäre mit hohem Unfallrisiko verbunden
-So lange unterhalb des Grates oder direkt vom Hang weg geflogen wird, sind die Bedingungen zwar nicht ideal, aber für gute Piloten durchaus beherrschbar
-Mit NW Winden werden oft frische, thermisch sehr aktive Luftmassen herangeschafft. In windgeschützten Leelagen entstehen starke, hoch reichende und für Könner gut nutzbare Aufwinde
+039. Aus Wetterbericht und Wolkenversatz geht hervor, dass etwas oberhalb der Berge ein NW-Wind mit ca. 60 km/h weht. Dennoch herrscht am sÃ¼d-gerichteten Startplatz in 2000 m, ca. 50 m unterhalb des Gipfelkammes guter Aufwind. Wie ist die Situation zu beurteilen?
+Vermutlich ein vom Talwind hervorgerufenes Luv, das Soaring ermÃ¶glicht
+x  Wahrscheinlich handelt es sich um den Aufwindteil einer Leewalze oder um starke Leethermik. Ein Start wÃ¤re mit hohem Unfallrisiko verbunden
+So lange unterhalb des Grates oder direkt vom Hang weg geflogen wird, sind die Bedingungen zwar nicht ideal, aber fÃ¼r gute Piloten durchaus beherrschbar
+Mit NW Winden werden oft frische, thermisch sehr aktive Luftmassen herangeschafft. In windgeschÃ¼tzten Leelagen entstehen starke, hoch reichende und fÃ¼r KÃ¶nner gut nutzbare Aufwinde
 
-040. In Gebirgstälern strömen des öfteren zwei oder auch drei Lokalwinde aus verschiedenen Richtungen aufeinander zu, sie konvergieren: Was ist zu beachten?
+040. In GebirgstÃ¤lern strÃ¶men des Ã¶fteren zwei oder auch drei Lokalwinde aus verschiedenen Richtungen aufeinander zu, sie konvergieren: Was ist zu beachten?
 Oberhalb von bodennahen Konvergenzbereichen sind oft Aufwinde anzutreffen
-Besonders in Bodennähe sind die Windverhältnisse unkalkulierbar und für eine Landung ungeeignet
+Besonders in BodennÃ¤he sind die WindverhÃ¤ltnisse unkalkulierbar und fÃ¼r eine Landung ungeeignet
 Neben nahezu ortsfesten Konvergenzen gibt es auch wandernde Konvergenzbereiche
 x  Alle sind richtig
 
 041. Kann aus dem Wolkenzug die zu erwartende Windrichtung in den untersten Kilometern der Wetterschicht abgeleitet werden?
 Ja, aber nur wenn hoch liegenden Eiswolken verlagert werden (Cirrenzug)
-Wenn es sich um Wolken der unteren Schichten, z.B. Thermikwolken handelt, ist im Flachland eine grobe Abschätzung der Windverhältnisse möglich
-Im Gebirge beschränkt sich die Windabschätzung auf das Niveau, in dem die Wolken ziehen, an den Bergen darunter sind stark abweichende Windrichtungen und -geschwindigkeiten möglich
+Wenn es sich um Wolken der unteren Schichten, z.B. Thermikwolken handelt, ist im Flachland eine grobe AbschÃ¤tzung der WindverhÃ¤ltnisse mÃ¶glich
+Im Gebirge beschrÃ¤nkt sich die WindabschÃ¤tzung auf das Niveau, in dem die Wolken ziehen, an den Bergen darunter sind stark abweichende Windrichtungen und -geschwindigkeiten mÃ¶glich
 x  Die Antworten "Wenn es sich..." und "Im Gebirge..." sind richtig
 
-042. Auf einer Seite des Berges herrscht thermischer Aufwind, auf der anderen Seite schwacher dynamischer Aufwind und die Cumuli 800 Meter höher werden vom überregionalen Wind wieder in eine andere Richtung verlagert.
-Der Start kann bedenkenlos nach der Seite mit dem stärkeren Aufwind erfolgen
-x  In Kammnähe ist beim Ablösen der Thermik vermehrt Turbulenzbildung zu erwarten, ein Start im Kammbereich ist daher kritisch
-Derart starke Schwankungen der Windrichtung auf so engem Raum sind unmöglich!
-Der Start kann bedenkenlos nach der Seite mit dem schwächeren Aufwind erfolgen
+042. Auf einer Seite des Berges herrscht thermischer Aufwind, auf der anderen Seite schwacher dynamischer Aufwind und die Cumuli 800 Meter hÃ¶her werden vom Ã¼berregionalen Wind wieder in eine andere Richtung verlagert.
+Der Start kann bedenkenlos nach der Seite mit dem stÃ¤rkeren Aufwind erfolgen
+x  In KammnÃ¤he ist beim AblÃ¶sen der Thermik vermehrt Turbulenzbildung zu erwarten, ein Start im Kammbereich ist daher kritisch
+Derart starke Schwankungen der Windrichtung auf so engem Raum sind unmÃ¶glich!
+Der Start kann bedenkenlos nach der Seite mit dem schwÃ¤cheren Aufwind erfolgen
 
-043. Welchen Wolken kommt wettermäßig "Vorboten-Charakter" zu?
-Sich verdichtenden Cirren als Hinweis auf Warmfrontannäherung aber auch auf die Ausbildung eines Gewitterambosses
-Flockenförmigen Schäfchenwolken (Ac floccus) nach Schönwetter oder mittelhohen Wolkenbänken mit fingerartigen Aufquellungen (Ac castellani) als Hinweis auf eine Labilisierung in der Höhe
+043. Welchen Wolken kommt wettermÃ¤ÃŸig "Vorboten-Charakter" zu?
+Sich verdichtenden Cirren als Hinweis auf WarmfrontannÃ¤herung aber auch auf die Ausbildung eines Gewitterambosses
+FlockenfÃ¶rmigen SchÃ¤fchenwolken (Ac floccus) nach SchÃ¶nwetter oder mittelhohen WolkenbÃ¤nken mit fingerartigen Aufquellungen (Ac castellani) als Hinweis auf eine Labilisierung in der HÃ¶he
 Isoliert auftretenden Cirren als Vorboten einer raschen Wetterverschlechterung
-x  Die Antworten "Sich verdichtenden Cirren..." und "Flockenförmigen Schäfchenwolken" sind richtig
+x  Die Antworten "Sich verdichtenden Cirren..." und "FlockenfÃ¶rmigen SchÃ¤fchenwolken" sind richtig
 
 044. Die beiden "klassischen" Regenwolkengattungen und ihre typische Niederschlagsform sind:
-Cumulonimbus mit Nieselniederschlägen und Nimbostratus mit Schauerniederschlägen
-x  Cumulonimbus mit Schauerniederschlägen und Nimbostratus mit Nieselniederschlägen
-Altocumulus mit Nieselniederschlägen und Cumulus congestus mit Schauerniederschlägen
-Staubewölkung mit Stauniederschlägen und Aufgleitbewölkung mit Nieselniederschlägen
+Cumulonimbus mit NieselniederschlÃ¤gen und Nimbostratus mit SchauerniederschlÃ¤gen
+x  Cumulonimbus mit SchauerniederschlÃ¤gen und Nimbostratus mit NieselniederschlÃ¤gen
+Altocumulus mit NieselniederschlÃ¤gen und Cumulus congestus mit SchauerniederschlÃ¤gen
+StaubewÃ¶lkung mit StauniederschlÃ¤gen und AufgleitbewÃ¶lkung mit NieselniederschlÃ¤gen
 
-045. Was ist unter Schauerniederschlägen zu verstehen?
-Lange andauernde, sehr gleichmäßig auftretende Niederschläge von kleinen Tröpfchen (Landregen)
-x  Heftige, lokal und zeitlich begrenzte Starkniederschläge (Wolkenbruch, Platzregen, Hagel)
+045. Was ist unter SchauerniederschlÃ¤gen zu verstehen?
+Lange andauernde, sehr gleichmÃ¤ÃŸig auftretende NiederschlÃ¤ge von kleinen TrÃ¶pfchen (Landregen)
+x  Heftige, lokal und zeitlich begrenzte StarkniederschlÃ¤ge (Wolkenbruch, Platzregen, Hagel)
 Lange anhaltender Dauerregen
-Die im Nebel auftretende Feuchtigkeit aus kleinsten Tröpfchen
+Die im Nebel auftretende Feuchtigkeit aus kleinsten TrÃ¶pfchen
 
-046. Woran ist die Vereisung von aufgetürmten Quellwolken zu erkennen?
+046. Woran ist die Vereisung von aufgetÃ¼rmten Quellwolken zu erkennen?
 An Wolkenhauben
-Am spürbaren Temperaturabfall, der bis zum Erdboden auswirkt
-Anstelle der blumenkohlartigen Quellungen bekommt die Wolke im oberen Bereich eine dunkelgraue bis schwarze Färbung
+Am spÃ¼rbaren Temperaturabfall, der bis zum Erdboden auswirkt
+Anstelle der blumenkohlartigen Quellungen bekommt die Wolke im oberen Bereich eine dunkelgraue bis schwarze FÃ¤rbung
 x  Am so genannten Amboss, anstelle der blumenkohlartigen Quellungen bekommt die Wolke im oberen Bereich diffuse, faserige oder rauchartige Strukturen
 
-047. Bei welchen Temperaturen beginnen Haufenwolken üblicherweise zu vereisen?
+047. Bei welchen Temperaturen beginnen Haufenwolken Ã¼blicherweise zu vereisen?
 Sobald Teile der Wolke die Nullgradgrenze erreichen
-Wenn die "Tops" bis in den - 5°C-Bereich vordringen
-x  Wenn die Temperatur im oberen Bereich der Wolke auf -12°C abgenommen hat
-Wegen der extrem geringen Zahl von Frierkeimen erst bei -30°C
+Wenn die "Tops" bis in den - 5á¸C-Bereich vordringen
+x  Wenn die Temperatur im oberen Bereich der Wolke auf -12á¸C abgenommen hat
+Wegen der extrem geringen Zahl von Frierkeimen erst bei -30á¸C
 
-048. Das Auftreten von Schäfchenwolken
+048. Das Auftreten von SchÃ¤fchenwolken
 Zeigt immer Labilisierung im Vorfeld einer Wetterverschlechterung an
 Weist immer auf Wetterbesserung hin
-x  Weist nach Schönwetter auf eine baldige Wetterverschlechterung, nach Schlechtwetter hingegen auf eine Wetterbesserung hin
-Steht in keinem Zusammenhang mit einer nachfolgenden Wetteränderung
+x  Weist nach SchÃ¶nwetter auf eine baldige Wetterverschlechterung, nach Schlechtwetter hingegen auf eine Wetterbesserung hin
+Steht in keinem Zusammenhang mit einer nachfolgenden WetterÃ¤nderung
 
 049. An welche Folgen ist zu denken, wenn eine Quellwolke im oberen Bereich vereist?
-An die Gefahr einer baldigen Gewittertätigkeit
-An das Entstehen von Schauerniederschlägen mit heftigen Abwinden
-Deutliche Ausdehnung des Gefahrenbereiches der Wolke durch Kaltluftausflüsse
+An die Gefahr einer baldigen GewittertÃ¤tigkeit
+An das Entstehen von SchauerniederschlÃ¤gen mit heftigen Abwinden
+Deutliche Ausdehnung des Gefahrenbereiches der Wolke durch KaltluftausflÃ¼sse
 x  Alle sind richtig
 
-050. Nenne die wesentlichsten Gewittergefahren für Flieger.
-Extreme Turbulenz mit unkontrollierbaren Flugzuständen, Sicht und Orientierungsverlust sowie der Gefahr von Blitzeinschlägen
-Rasende Höhengewinne mit Folgeproblemen durch rapide Temperatur- , Sauerstoff- und Druckabnahme
-Starkniederschläge (Regen, Graupel, Hagel) mit heftigen Abwinden und weiter horizontaler Ausbreitung von starken und böigen Kaltluftmassen
+050. Nenne die wesentlichsten Gewittergefahren fÃ¼r Flieger.
+Extreme Turbulenz mit unkontrollierbaren FlugzustÃ¤nden, Sicht und Orientierungsverlust sowie der Gefahr von BlitzeinschlÃ¤gen
+Rasende HÃ¶hengewinne mit Folgeproblemen durch rapide Temperatur- , Sauerstoff- und Druckabnahme
+StarkniederschlÃ¤ge (Regen, Graupel, Hagel) mit heftigen Abwinden und weiter horizontaler Ausbreitung von starken und bÃ¶igen Kaltluftmassen
 x  Alle sind richtig
 
-051. Wann empfiehlt sich eine persönliche Flugwetterberatung?
-Routinemäßig am Morgen jedes Flugtages
-Bei speziellen persönlichen Fragestellungen oder wenn der Standard-Flugwetterbericht missverständlich war
+051. Wann empfiehlt sich eine persÃ¶nliche Flugwetterberatung?
+RoutinemÃ¤ÃŸig am Morgen jedes Flugtages
+Bei speziellen persÃ¶nlichen Fragestellungen oder wenn der Standard-Flugwetterbericht missverstÃ¤ndlich war
 Wenn sich das Wetter untertags anders entwickelt als vorhergesagt
-x  Bei speziellen persönlichen Fragestellungen oder wenn der Standard-Flugwetterbericht missverständlich war, sowie wenn sich das Wetter untertags anders entwickelt als vorhergesagt
+x  Bei speziellen persÃ¶nlichen Fragestellungen oder wenn der Standard-Flugwetterbericht missverstÃ¤ndlich war, sowie wenn sich das Wetter untertags anders entwickelt als vorhergesagt
 
-052. Welche Wettersituationen stellen für alle Piloten eine große Gefahr dar?
-Kaltfrontdurchgänge und Gewitter
-Föhnstürme
+052. Welche Wettersituationen stellen fÃ¼r alle Piloten eine groÃŸe Gefahr dar?
+KaltfrontdurchgÃ¤nge und Gewitter
+FÃ¶hnstÃ¼rme
 Leethermik
 x  Alle sind richtig
 
-053. Welche meteorologischen Rahmenbedingungen können vor allem Anfänger und unerfahrene Gelegenheitspiloten in Gefahr bringen, obwohl sie von routinierten Fliegern gut gemeistert werden ?
+053. Welche meteorologischen Rahmenbedingungen kÃ¶nnen vor allem AnfÃ¤nger und unerfahrene Gelegenheitspiloten in Gefahr bringen, obwohl sie von routinierten Fliegern gut gemeistert werden ?
 Hochdruckeinfluss mit stabiler Schichtung und schwachem Wind
 x  Hochdruckeinfluss mit schwachem Wind und normaler Thermikentwicklung
 Sturm
-Sommerliches Wärmegewitter
+Sommerliches WÃ¤rmegewitter
 
 054. Nach stundenlangem Warten am Startplatz bricht der dichte Nebel etwas auf und der Landeplatz wird sichtbar,
-Weil sich dieses Nebelfenster eventuell rasch wieder schließt, sollte sofort gestartet werden
-Aus Sicherheitsgründen sollte noch drei, zumindest aber zwei Minuten gewartet werden. Ist das Landefeld dann immer noch zu sehen, darf geflogen werden
-x  An Nebeltagen darf nur gestartet werden, wenn sich der Nebel im Flugbereich großflächig und nachhaltig aufgelöst hat
-An Nebeltagen sind Flüge unmöglich
+Weil sich dieses Nebelfenster eventuell rasch wieder schlieÃŸt, sollte sofort gestartet werden
+Aus SicherheitsgrÃ¼nden sollte noch drei, zumindest aber zwei Minuten gewartet werden. Ist das Landefeld dann immer noch zu sehen, darf geflogen werden
+x  An Nebeltagen darf nur gestartet werden, wenn sich der Nebel im Flugbereich groÃŸflÃ¤chig und nachhaltig aufgelÃ¶st hat
+An Nebeltagen sind FlÃ¼ge unmÃ¶glich
 
-055. Nach einem wolkenlosen Morgen bilden sich im Laufe des Vormittags flache Cumuli mit hoher Basis und nach oben hin gut begrenzten Quellungen. In großer Höhen ziehen langsam einzelne Cirren aus östlicher Richtung heran.
-Typische Hinweise auf die Annäherung einer Kaltfront oder einer Okklusion mit Kaltfront-Charakter
-Lässt auf feuchtlabile Schichtung in der Höhe und damit auf hohe Gewitterwahrscheinlichkeit am Nachmittag schließen
+055. Nach einem wolkenlosen Morgen bilden sich im Laufe des Vormittags flache Cumuli mit hoher Basis und nach oben hin gut begrenzten Quellungen. In groÃŸer HÃ¶hen ziehen langsam einzelne Cirren aus Ã¶stlicher Richtung heran.
+Typische Hinweise auf die AnnÃ¤herung einer Kaltfront oder einer Okklusion mit Kaltfront-Charakter
+LÃ¤sst auf feuchtlabile Schichtung in der HÃ¶he und damit auf hohe Gewitterwahrscheinlichkeit am Nachmittag schlieÃŸen
 x  Sieht nach Hochdruckeinfluss mit guter Wolkenthermik aus
-Eindeutig Rückseitenwetter
+Eindeutig RÃ¼ckseitenwetter
 
 056. Liegen die Isobaren der Bodenwetterkarte weit auseinander
 sind starke Bodenwinde zu erwarten
@@ -336,289 +336,289 @@ herrscht immer Tiefdruckeinfluss
 
 057. Unter einem Zwischenhoch versteht man:
 x  Ein meist nach Osten abwanderndes Hochdruckgebiet, das zwischen zwei sich folgenden Zyklonen liegt
-Ein kleinräumiges Hochdruckgebiet zwischen Warm- und Kaltfront, das kurzfristig Wetterbesserung bringt und sich meist ostwärts verlagert
-Ein eher kleinräumiges aber ortsfestes Hoch zwischen zwei aufeinander folgenden Tiefdruckgebieten
-Rückseitenwetter
+Ein kleinrÃ¤umiges Hochdruckgebiet zwischen Warm- und Kaltfront, das kurzfristig Wetterbesserung bringt und sich meist ostwÃ¤rts verlagert
+Ein eher kleinrÃ¤umiges aber ortsfestes Hoch zwischen zwei aufeinander folgenden Tiefdruckgebieten
+RÃ¼ckseitenwetter
 
-058. Der Radio- und Fernsehwetterbericht sagt für die Alpennordseite geschlossene Bewölkung mit anhaltenden Niederschlägen, für die Alpensüdseite hingegen sonniges und freundliches Wetter voraus.
-Gute Flugbedingungen auf der Alpensüdseite
-Der Alpenhauptkamm wirkt als verlässliche Wetterscheide. Auch der umgekehrte Fall ist oft anzutreffen: Geschlossene Bewölkung im Süden und gute Flugbedingungen im Norden
-x  Vermutlich Nordföhn auf der Alpensüdseite
+058. Der Radio- und Fernsehwetterbericht sagt fÃ¼r die Alpennordseite geschlossene BewÃ¶lkung mit anhaltenden NiederschlÃ¤gen, fÃ¼r die AlpensÃ¼dseite hingegen sonniges und freundliches Wetter voraus.
+Gute Flugbedingungen auf der AlpensÃ¼dseite
+Der Alpenhauptkamm wirkt als verlÃ¤ssliche Wetterscheide. Auch der umgekehrte Fall ist oft anzutreffen: Geschlossene BewÃ¶lkung im SÃ¼den und gute Flugbedingungen im Norden
+x  Vermutlich NordfÃ¶hn auf der AlpensÃ¼dseite
 Im Gebirge werden auf wenigen Kilometern Horizontaldistanz oft verschiedene Wetterlagen angetroffen
 
-059. Einen Tag nach seiner korrekten Einstellung auf die Startplatzhöhe von 2000 m zeigt der Höhenmesser 2016 m an. Wie hat sich der Luftdruck verändert?
+059. Einen Tag nach seiner korrekten Einstellung auf die StartplatzhÃ¶he von 2000 m zeigt der HÃ¶henmesser 2016 m an. Wie hat sich der Luftdruck verÃ¤ndert?
 Der Luftdruck ist um 2 hPa gestiegen
 x  Der Luftdruck ist leicht gefallen
-So starke Änderungen innerhalb eines Tages sind unmöglich, der Höhenmesser ist defekt
-Der Luftdruck ist exakt um 1 hPa pro 8 m Höhenzunahme gefallen
+So starke Ã„nderungen innerhalb eines Tages sind unmÃ¶glich, der HÃ¶henmesser ist defekt
+Der Luftdruck ist exakt um 1 hPa pro 8 m HÃ¶henzunahme gefallen
 
-060. Rückseitenwetter
+060. RÃ¼ckseitenwetter
 Ist durch gute, turbulenzarme Thermik und hohe Wolkenbasis charakterisiert und eignet sich inneralpin hervorragend zum Aufwind- und Streckenfliegen
-x  Führt im Flachland, im Mittelgebirge, im Nord- und Südalpenbereich sowie inneralpin zu stark von einander abweichenden Flugbedingungen
-Ist anfangs durch starke NW-Winde und Schaueranfälligkeit charakterisiert, bietet aber zwei bis vier Stunden nach Kaltfront oder Okklusionsdurchgang ausgezeichnete Flugmöglichkeiten
-Geht über Flachland oft mit langen, quer zur Windrichtung angeordneten Wolkenstrassen einher
+x  FÃ¼hrt im Flachland, im Mittelgebirge, im Nord- und SÃ¼dalpenbereich sowie inneralpin zu stark von einander abweichenden Flugbedingungen
+Ist anfangs durch starke NW-Winde und SchaueranfÃ¤lligkeit charakterisiert, bietet aber zwei bis vier Stunden nach Kaltfront oder Okklusionsdurchgang ausgezeichnete FlugmÃ¶glichkeiten
+Geht Ã¼ber Flachland oft mit langen, quer zur Windrichtung angeordneten Wolkenstrassen einher
 
 061. Wann sind die Flugwetterbedingungen besonders kritisch zu beurteilen?
 Bei stabilem Hochdruckeinfluss
-x  Während Änderungslagen, besonders zum Ende von Hochdruckperioden hin
+x  WÃ¤hrend Ã„nderungslagen, besonders zum Ende von Hochdruckperioden hin
 Bei Warmfrontpassagen
-Während winterlicher Inversionslagen mit beständigem Nebel in den Niederungen
+WÃ¤hrend winterlicher Inversionslagen mit bestÃ¤ndigem Nebel in den Niederungen
 
-062. Der laminare Wind frischt allmählich auf und pendelt sich schließlich bei 28 km/h ein. Was ist bei einem Soaringflug besonders zu berücksichtigen?
-Dass die beim Aufziehen, beim Bodenhandling und nach der Landung am Schirm angreifenden Windkräfte sehr hoch sind und eine saubere Technik verlangen
-Dass die Annäherungsgeschwindigkeit während Mitwindflugphasen, z.B. bei einem weit vor dem Hang angesetzten Kreis groß ist
-Dass an den kritischen Strömungseinschnürungen (über dem Grat, in Einkerbungen, am seitlichen Rand) sehr starke Gegenwinde ohne Aufwindkomponente vorherrschen, und dass eventuelle Knicke im Hangprofil starke Turbulenz hervorrufen können
+062. Der laminare Wind frischt allmÃ¤hlich auf und pendelt sich schlieÃŸlich bei 28 km/h ein. Was ist bei einem Soaringflug besonders zu berÃ¼cksichtigen?
+Dass die beim Aufziehen, beim Bodenhandling und nach der Landung am Schirm angreifenden WindkrÃ¤fte sehr hoch sind und eine saubere Technik verlangen
+Dass die AnnÃ¤herungsgeschwindigkeit wÃ¤hrend Mitwindflugphasen, z.B. bei einem weit vor dem Hang angesetzten Kreis groÃŸ ist
+Dass an den kritischen StrÃ¶mungseinschnÃ¼rungen (Ã¼ber dem Grat, in Einkerbungen, am seitlichen Rand) sehr starke Gegenwinde ohne Aufwindkomponente vorherrschen, und dass eventuelle Knicke im Hangprofil starke Turbulenz hervorrufen kÃ¶nnen
 x  Alle sind richtig
 
-063. Im Flugwetterbericht heißt es u.a.: "Hochdruckeinfluss bei schwachen südwestlichen Höhenwinden, sehr gute, hoch reichende Wolkenthermik und gute Streckenflugmöglichkeiten. Keine besonderen Gefahren! Vorschau auf morgen: Abnehmender Hochdruckeinfluss bei auflebenden Südwinden"
-Für sehr routinierte Streckenpiloten vermutlich ein Traumtag um weite Zielflüge anzugehen
-Für Thermikeinsteiger eine problemlose Möglichkeit zum entspannten Aufwindfliegen vor Ort
-Anfänger und wenig erfahrene Gelegenheitspiloten finden nur am Morgen für kurze Zeit akzeptable Flugbedingungen vor
-x  Für sehr routinierte Streckenpiloten vermutlich ein Traumtag um weite Zielflüge anzugehen, Anfänger und wenig erfahrene Gelegenheitspiloten finden nur am Morgen für kurze Zeit akzeptable Flugbedingungen vor
+063. Im Flugwetterbericht heiÃŸt es u.a.: "Hochdruckeinfluss bei schwachen sÃ¼dwestlichen HÃ¶henwinden, sehr gute, hoch reichende Wolkenthermik und gute StreckenflugmÃ¶glichkeiten. Keine besonderen Gefahren! Vorschau auf morgen: Abnehmender Hochdruckeinfluss bei auflebenden SÃ¼dwinden"
+FÃ¼r sehr routinierte Streckenpiloten vermutlich ein Traumtag um weite ZielflÃ¼ge anzugehen
+FÃ¼r Thermikeinsteiger eine problemlose MÃ¶glichkeit zum entspannten Aufwindfliegen vor Ort
+AnfÃ¤nger und wenig erfahrene Gelegenheitspiloten finden nur am Morgen fÃ¼r kurze Zeit akzeptable Flugbedingungen vor
+x  FÃ¼r sehr routinierte Streckenpiloten vermutlich ein Traumtag um weite ZielflÃ¼ge anzugehen, AnfÃ¤nger und wenig erfahrene Gelegenheitspiloten finden nur am Morgen fÃ¼r kurze Zeit akzeptable Flugbedingungen vor
 
-064. Welche Wetterentwicklung lässt dieser Flugwetterbericht für den Folgetag erwarten? "Hochdruckeinfluss bei schwachen südwestlichen Höhenwinden, sehr gute, hoch reichende Wolkenthermik und gute Streckenflugmöglichkeiten. Keine besonderen Gefahren! Vorschau auf morgen: Abnehmender Hochdruckeinfluss bei auflebenden Südwinden"
-x  Umstellung auf eine Südföhnlage
-Umstellung auf eine Nordföhnlage
-Annäherung einer Warmfront
+064. Welche Wetterentwicklung lÃ¤sst dieser Flugwetterbericht fÃ¼r den Folgetag erwarten? "Hochdruckeinfluss bei schwachen sÃ¼dwestlichen HÃ¶henwinden, sehr gute, hoch reichende Wolkenthermik und gute StreckenflugmÃ¶glichkeiten. Keine besonderen Gefahren! Vorschau auf morgen: Abnehmender Hochdruckeinfluss bei auflebenden SÃ¼dwinden"
+x  Umstellung auf eine SÃ¼dfÃ¶hnlage
+Umstellung auf eine NordfÃ¶hnlage
+AnnÃ¤herung einer Warmfront
 Hereinbrechen einer Kaltfront
 
-065. Im Flugwetterbericht heißt es u.a.: "Mäßige bis gute Thermikentwicklung in der frischen Kaltluft. Wind im Kammniveau aus Nordwest um 40 km/h Gefahrenhinweise: Kammturbulenzen" Welche Aussagen sind richtig?
-Für Streckenflieger ein guter Tag für weite Zielflüge
-Unterhalb des Kammniveaus sind keine besonderen Gefahren für Gleitschirmflieger zu erwarten
-x  Wegen der aus starker Thermik und kräftigem Wind resultierenden Turbulenzen, wird dieser Tag für Gleitschirmflieger ungeeignet sein
-Für Streckenflieger ein guter Tag für weite Zielflüge, unterhalb des Kammniveaus sind keine besonderen Gefahren für Gleitschirmflieger zu erwarten
+065. Im Flugwetterbericht heiÃŸt es u.a.: "MÃ¤ÃŸige bis gute Thermikentwicklung in der frischen Kaltluft. Wind im Kammniveau aus Nordwest um 40 km/h Gefahrenhinweise: Kammturbulenzen" Welche Aussagen sind richtig?
+FÃ¼r Streckenflieger ein guter Tag fÃ¼r weite ZielflÃ¼ge
+Unterhalb des Kammniveaus sind keine besonderen Gefahren fÃ¼r Gleitschirmflieger zu erwarten
+x  Wegen der aus starker Thermik und krÃ¤ftigem Wind resultierenden Turbulenzen, wird dieser Tag fÃ¼r Gleitschirmflieger ungeeignet sein
+FÃ¼r Streckenflieger ein guter Tag fÃ¼r weite ZielflÃ¼ge, unterhalb des Kammniveaus sind keine besonderen Gefahren fÃ¼r Gleitschirmflieger zu erwarten
 
-066. Wie kündigt sich die Annäherung einer Kaltfront an?
-Immer durch das Auftauchen von mächtigen, nebeneinander aufgereihten Cumulonimben am Horizont, die schnell näher kommen
-Durch Entstehen von Überentwicklungen oder Ac castellani oder Ac floccus oder Cirrocumulus
-Durch verbreitete Aufwinde und Thermikwolken an "unüblichen" Stellen
-x  Überentwicklungen, Ac castellani, Ac floccus, Cirrocumulus oder verbreitete Aufwinde können vorhanden sein, es ist aber möglich, dass die Kaltfront ohne große Vorboten in das Fluggebiet vordringt
+066. Wie kÃ¼ndigt sich die AnnÃ¤herung einer Kaltfront an?
+Immer durch das Auftauchen von mÃ¤chtigen, nebeneinander aufgereihten Cumulonimben am Horizont, die schnell nÃ¤her kommen
+Durch Entstehen von Ãœberentwicklungen oder Ac castellani oder Ac floccus oder Cirrocumulus
+Durch verbreitete Aufwinde und Thermikwolken an "unÃ¼blichen" Stellen
+x  Ãœberentwicklungen, Ac castellani, Ac floccus, Cirrocumulus oder verbreitete Aufwinde kÃ¶nnen vorhanden sein, es ist aber mÃ¶glich, dass die Kaltfront ohne groÃŸe Vorboten in das Fluggebiet vordringt
 
-067. Lassen sich alle kritischen Änderungen der meteorologischen Flugbedingungen vor Ort durch aufmerksames Beobachten zuverlässig und rechtzeitig erfassen?
+067. Lassen sich alle kritischen Ã„nderungen der meteorologischen Flugbedingungen vor Ort durch aufmerksames Beobachten zuverlÃ¤ssig und rechtzeitig erfassen?
 Ja, zumindest routinierte Piloten sind erkennen das Aufkommen von Gefahren rechtzeitig
-Viele ungünstigen Wetteränderungen kündigen sich gut an
-Nein, manche Änderungen erfolgen so atypisch, dass nur Vorinformation durch den aktuellen Flugwetterbericht unliebsame Überraschungen verhindert
-x  Viele ungünstigen Wetteränderungen kündigen sich gut an, aber manche Änderungen erfolgen so atypisch, dass nur Vorinformation durch den aktuellen Flugwetterbericht unliebsame Überraschungen verhindert
+Viele ungÃ¼nstigen WetterÃ¤nderungen kÃ¼ndigen sich gut an
+Nein, manche Ã„nderungen erfolgen so atypisch, dass nur Vorinformation durch den aktuellen Flugwetterbericht unliebsame Ãœberraschungen verhindert
+x  Viele ungÃ¼nstigen WetterÃ¤nderungen kÃ¼ndigen sich gut an, aber manche Ã„nderungen erfolgen so atypisch, dass nur Vorinformation durch den aktuellen Flugwetterbericht unliebsame Ãœberraschungen verhindert
 
-068. In welchem Bereich einer Zyklone können ohne Luftmassengrenze am Boden organisierte Squall-Lines (Gewitter- oder Böenlinien) und im Sommer riesige Cb\'s auftreten?
+068. In welchem Bereich einer Zyklone kÃ¶nnen ohne Luftmassengrenze am Boden organisierte Squall-Lines (Gewitter- oder BÃ¶enlinien) und im Sommer riesige Cb\'s auftreten?
 Vor der Warmfront, also auf der Vorderseite der Zyklone
-Hinter der Kaltfront, der Rückseite der Zyklone
+Hinter der Kaltfront, der RÃ¼ckseite der Zyklone
 x  Im Warmsektor
-Linienartig angeordnete Gewitterwolken sind nur an einer Luftmassengrenze, konkret direkt im Bereich einer Kaltfront oder Okklusion möglich
+Linienartig angeordnete Gewitterwolken sind nur an einer Luftmassengrenze, konkret direkt im Bereich einer Kaltfront oder Okklusion mÃ¶glich
 
-069. Wie kündigt sich normalerweise die Annäherung einer Warmfront für einen Beobachter an?
+069. Wie kÃ¼ndigt sich normalerweise die AnnÃ¤herung einer Warmfront fÃ¼r einen Beobachter an?
 Keine typischen Anzeichen bekannt, das Erscheinungsspektrum ist extrem variabel
-x  Durch Aufzug von Cirren in der Höhe, die sich mehr und mehr verdichten und absinkende Wolkenuntergrenzen
-Durch das großflächige Auftreten von Schäfchenwolken (Ac floccus) die rasch von sich verdichtenden Schichtwolken abgelöst werden
-Durch die rapide Annäherung von hoch aufgetürmten Quellwolken und dem plötzlichen Einsatz von stürmischem Bodenwind
+x  Durch Aufzug von Cirren in der HÃ¶he, die sich mehr und mehr verdichten und absinkende Wolkenuntergrenzen
+Durch das groÃŸflÃ¤chige Auftreten von SchÃ¤fchenwolken (Ac floccus) die rasch von sich verdichtenden Schichtwolken abgelÃ¶st werden
+Durch die rapide AnnÃ¤herung von hoch aufgetÃ¼rmten Quellwolken und dem plÃ¶tzlichen Einsatz von stÃ¼rmischem Bodenwind
 
-070. Die in der Luft vorgefundenen Flugbedingungen sind hauptsächlich abhängig:
-Von Wetterlage, Jahreszeit, Tageszeit und Fluggelände
+070. Die in der Luft vorgefundenen Flugbedingungen sind hauptsÃ¤chlich abhÃ¤ngig:
+Von Wetterlage, Jahreszeit, Tageszeit und FluggelÃ¤nde
 Von der Schichtung (TEMP), Sonneneinstrahlung und Lokalwindsystemen
-Von Windrichtung und Windstärke am Startplatz
-x  Von Wetterlage, Jahreszeit, Tageszeit, Fluggelände, der Schichtung (TEMP), Sonneneinstrahlung und Lokalwindsystemen
+Von Windrichtung und WindstÃ¤rke am Startplatz
+x  Von Wetterlage, Jahreszeit, Tageszeit, FluggelÃ¤nde, der Schichtung (TEMP), Sonneneinstrahlung und Lokalwindsystemen
 
-071. Wie greifen die Fronten der wandernden Tiefdruckgebiete in der Regel auf Europa über?
+071. Wie greifen die Fronten der wandernden Tiefdruckgebiete in der Regel auf Europa Ã¼ber?
 Auf Westeuropa immer sauber getrennt als Warm- und Kaltfronten, auf Osteuropa als Okklusionen
-Im Winter überhaupt nicht, weil die Zugbahn der Fronten dann weit im Süden liegt
-x  Sowohl getrennt als Warm- und Kaltfronten, häufig aber auch bereits als Okklusionen
-Auf Nordeuropa immer in der Reihenfolge Vorderseite, Okklusion, Rückseite, Zwischenhoch, auf Südeuropa hingegen in der Reihenfolge Vorderseite, Warmfront, Warmsektor, Kaltfront, Rückseite, Zwischenhoch
+Im Winter Ã¼berhaupt nicht, weil die Zugbahn der Fronten dann weit im SÃ¼den liegt
+x  Sowohl getrennt als Warm- und Kaltfronten, hÃ¤ufig aber auch bereits als Okklusionen
+Auf Nordeuropa immer in der Reihenfolge Vorderseite, Okklusion, RÃ¼ckseite, Zwischenhoch, auf SÃ¼deuropa hingegen in der Reihenfolge Vorderseite, Warmfront, Warmsektor, Kaltfront, RÃ¼ckseite, Zwischenhoch
 
-072. Die Kaltfront oder die Okklusion hat den Vorhersagebereich überquert. Ab wann darf mit durchgreifender Wetterbesserung gerechnet werden?
-x  Erst wenn auch in der Höhe die kälteste Luft (der Höhentrog) das Vorhersagegebiet überquert hat
+072. Die Kaltfront oder die Okklusion hat den Vorhersagebereich Ã¼berquert. Ab wann darf mit durchgreifender Wetterbesserung gerechnet werden?
+x  Erst wenn auch in der HÃ¶he die kÃ¤lteste Luft (der HÃ¶hentrog) das Vorhersagegebiet Ã¼berquert hat
 Sobald die Front durchgezogen ist (postfrontales Auflockern)
-Dies hängt in erster Linie von den Niederschlagsmengen ab, je mehr es geregnet hat, desto länger lässt die Wetterbesserung auf sich warten
+Dies hÃ¤ngt in erster Linie von den Niederschlagsmengen ab, je mehr es geregnet hat, desto lÃ¤nger lÃ¤sst die Wetterbesserung auf sich warten
 Sobald der Druck am Boden wieder steigt
 
 073. Die relative Luftfeuchte
-x  gibt das Verhältnis von absoluter zu maximaler Luftfeuchte an und beträgt in Europa in Bodennähe durchschnittlich 60 bis 80%.
+x  gibt das VerhÃ¤ltnis von absoluter zu maximaler Luftfeuchte an und betrÃ¤gt in Europa in BodennÃ¤he durchschnittlich 60 bis 80%.
 liegt in Nebel und Wolken bei 95%.
-verändert sich bei adiabatischem Auf- oder Absteigen eines Luftpaketes nicht.
-gibt das Verhältnis von absoluter zu maximaler Luftfeuchte an, beträgt in Europa in Bodennähe durchschnittlich 60 bis 80% und liegt in Nebel und Wolken bei 95%.
+verÃ¤ndert sich bei adiabatischem Auf- oder Absteigen eines Luftpaketes nicht.
+gibt das VerhÃ¤ltnis von absoluter zu maximaler Luftfeuchte an, betrÃ¤gt in Europa in BodennÃ¤he durchschnittlich 60 bis 80% und liegt in Nebel und Wolken bei 95%.
 
 074. Abrisskanten sind
-jene Geländeverläufe, an denen sich die Thermik vom Boden löst
-im Gebirge typischerweise Kammlinien, Hangknicke oder die Schneegrenze, im Flachland Waldkanten, Gewässer, der Vorderrand von ziehenden Wolkenschatten
+jene GelÃ¤ndeverlÃ¤ufe, an denen sich die Thermik vom Boden lÃ¶st
+im Gebirge typischerweise Kammlinien, Hangknicke oder die Schneegrenze, im Flachland Waldkanten, GewÃ¤sser, der Vorderrand von ziehenden Wolkenschatten
 Bereiche, in denen Thermikluft entsteht
-x  jene Geländeverläufe, an denen sich die Thermik vom Boden löst und im Gebirge typischerweise Kammlinien, Hangknicke oder die Schneegrenze, im Flachland Waldkanten, Gewässer, der Vorderrand von ziehenden Wolkenschatten
+x  jene GelÃ¤ndeverlÃ¤ufe, an denen sich die Thermik vom Boden lÃ¶st und im Gebirge typischerweise Kammlinien, Hangknicke oder die Schneegrenze, im Flachland Waldkanten, GewÃ¤sser, der Vorderrand von ziehenden Wolkenschatten
 
 075. Wie "schwimmen" die Randwirbel von Gleitschirmen in bewegter Luft ab?
 Sie sinken immer langsam ab
-In kräftigen Aufwinden schwimmen sie nach oben
-Ihre Verlagerung hängt auch von den Horizontalwindverhältnissen ab
-x  In kräftigen Aufwinden schwimmen sie nach oben, ihre Verlagerung hängt auch von den Horizontalwindverhältnissen ab
+In krÃ¤ftigen Aufwinden schwimmen sie nach oben
+Ihre Verlagerung hÃ¤ngt auch von den HorizontalwindverhÃ¤ltnissen ab
+x  In krÃ¤ftigen Aufwinden schwimmen sie nach oben, ihre Verlagerung hÃ¤ngt auch von den HorizontalwindverhÃ¤ltnissen ab
 
-076. Vor dem ersten Flug in einem meteorologisch offensichtlich anspruchsvollem Fluggelände
+076. Vor dem ersten Flug in einem meteorologisch offensichtlich anspruchsvollem FluggelÃ¤nde
 Sollten sich Gelegenheitspiloten bei einheimischen Piloten nach der Position des Hausbartes erkundigen
-Reicht üblicherweise eine kurze Abschätzung aus, um die wesentlichsten Eigenheiten des Geländes zu erfassen
+Reicht Ã¼blicherweise eine kurze AbschÃ¤tzung aus, um die wesentlichsten Eigenheiten des GelÃ¤ndes zu erfassen
 x  Sollten sich Gelegenheitsflieger von gebietserfahrenen Piloten ausgiebig in die allgemeinen und speziellen, an diesem Tag zu erwartenden Besonderheiten einweisen lassen
-Sollte erst nach ein paar "Vorfliegern" gestartet werden, die dann gut beobachtet werden können
+Sollte erst nach ein paar "Vorfliegern" gestartet werden, die dann gut beobachtet werden kÃ¶nnen
 
 077. Wo liegen die Abrisskanten im Gebirge in Bezug auf die Warmluftentstehungsgebiete?
 Immer oberhalb der "Thermikquellen"
-Normalerweise mitten in den Erwärmungsgebieten
-Üblicherweise oberhalb, nur bei Leethermik unterhalb der Thermikquellen
+Normalerweise mitten in den ErwÃ¤rmungsgebieten
+Ãœblicherweise oberhalb, nur bei Leethermik unterhalb der Thermikquellen
 x  Normalerweise oberhalb, bei Windeinfluss auch seitlich oberhalb von Thermikquellen
 
 078. Die z.B. in manchen Fernsehprogrammen oder im Internet live zu verfolgenden Aufnahmen von Wetterkameras in Fluggebieten
-Informieren zuverlässig über die am jeweiligen Berg oder in dessen Umgebung zu erwartenden Flugbedingungen
+Informieren zuverlÃ¤ssig Ã¼ber die am jeweiligen Berg oder in dessen Umgebung zu erwartenden Flugbedingungen
 Ersparen das Einholen des Flugwetterberichtes
-x  Liefern Zusatzinformationen über die momentanen Verhältnisse. Was die eingeblendeten Windwerte angeht, sind sie aber mit großer Vorsicht zu beurteilen
-Haben für flugmeteorologische Überlegungen nicht die geringste Relevanz
+x  Liefern Zusatzinformationen Ã¼ber die momentanen VerhÃ¤ltnisse. Was die eingeblendeten Windwerte angeht, sind sie aber mit groÃŸer Vorsicht zu beurteilen
+Haben fÃ¼r flugmeteorologische Ãœberlegungen nicht die geringste Relevanz
 
-079. <Abbildung27.jpg> Die Abbildung zeigt die Einmündung eines Seitentales in ein großes Haupttal. Der Talwind hat eine Stärke von ca. 25 km/h. Was hat ein Pilot zu erwarten der den gestrichelten Bereich A anfliegt?
-x  ein kräftiges Lee mit sehr starken Turbulenzen
+079. <Abbildung27.jpg> Die Abbildung zeigt die EinmÃ¼ndung eines Seitentales in ein groÃŸes Haupttal. Der Talwind hat eine StÃ¤rke von ca. 25 km/h. Was hat ein Pilot zu erwarten der den gestrichelten Bereich A anfliegt?
+x  ein krÃ¤ftiges Lee mit sehr starken Turbulenzen
 Pulsierende Luvthermik
 schwacher dynamischer Aufwind
 Ruhige Flugbedingungen
 
 080. <Abbildung27.jpg> Abbildung: Was hat ein Pilot zu erwarten, wenn er den Hang im gestrichelten Bereich B anfliegt?
-ein kräftiges Lee mit sehr starken Turbulenzen
+ein krÃ¤ftiges Lee mit sehr starken Turbulenzen
 Ruhige, schwachwindige Flugbedingungen
 x  Einen Talwind-Prallhang mit dynamischem Hangaufwind
 Pulsierende Luvthermik
 
-081. <Abbildung27.jpg> Abbildung: Der Pilot will, nach einem schönen Juli-Thermikflug, im Tal landen. Welche Bereiche bieten sich am Nachmittag für eine sichere Landung an?
-Jede große, hindernisfreie und gemähte Wiese.
-x  Eine vom ungestörten Talwind angeströmten Wiese mit großem Abstand von Leebereichen
-Eine Wiese im gestrichelten Bereich A weil der Wind dort schwächer und nahezu laminar ist
-Eine hindernisfreie Wiese im direkten Bereich der Taleinmündung
+081. <Abbildung27.jpg> Abbildung: Der Pilot will, nach einem schÃ¶nen Juli-Thermikflug, im Tal landen. Welche Bereiche bieten sich am Nachmittag fÃ¼r eine sichere Landung an?
+Jede groÃŸe, hindernisfreie und gemÃ¤hte Wiese.
+x  Eine vom ungestÃ¶rten Talwind angestrÃ¶mten Wiese mit groÃŸem Abstand von Leebereichen
+Eine Wiese im gestrichelten Bereich A weil der Wind dort schwÃ¤cher und nahezu laminar ist
+Eine hindernisfreie Wiese im direkten Bereich der TaleinmÃ¼ndung
 
-082. <Abbildung27.jpg> Abbildung: Im dynamischen Aufwind auf der Luvseite des Waldrückens (C) fliegen mehrere Gleitschirmpiloten. Nach einer Weile sehen sie am Luvhang auf der anderen Talseite ebenfalls Piloten beim Hangsegeln. Wie sollten sie von (C) nach (B) wechseln?
-Talquerungen erfolgen immer auf kürzestem Weg, also Direktflug von (C) nach (B)
-Von (C) in nordwestl. Richtung an den Rand des überströmten Waldrückens fliegen und mit wenigen Metern seitlichem Abstand auf (B) zuhalten
-x  Von (C) in nordwestl. Richtung fliegen und erst mit deutlichem Abstand zum seitlichen Rand des Soaringberges in Richtung (B) einschwenken, damit das Umströmungslee möglichst vermieden wird
-Methode egal, Hauptsache die Ankunftshöhe am neuen Soaringhang ist hoch
+082. <Abbildung27.jpg> Abbildung: Im dynamischen Aufwind auf der Luvseite des WaldrÃ¼ckens (C) fliegen mehrere Gleitschirmpiloten. Nach einer Weile sehen sie am Luvhang auf der anderen Talseite ebenfalls Piloten beim Hangsegeln. Wie sollten sie von (C) nach (B) wechseln?
+Talquerungen erfolgen immer auf kÃ¼rzestem Weg, also Direktflug von (C) nach (B)
+Von (C) in nordwestl. Richtung an den Rand des Ã¼berstrÃ¶mten WaldrÃ¼ckens fliegen und mit wenigen Metern seitlichem Abstand auf (B) zuhalten
+x  Von (C) in nordwestl. Richtung fliegen und erst mit deutlichem Abstand zum seitlichen Rand des Soaringberges in Richtung (B) einschwenken, damit das UmstrÃ¶mungslee mÃ¶glichst vermieden wird
+Methode egal, Hauptsache die AnkunftshÃ¶he am neuen Soaringhang ist hoch
 
-083. <Abbildung28.jpg> Die Abbildung zeigt einen Kaltfrontausläufer, der in ca. 20 km Entfernung vom Fluggebiet entlang des Alpenrandes deutlich sichtbar von West (links) nach Ost (rechts) zieht. Welche Aussagen sind richtig?
-Solange die Front ihre Zugrichtung beibehält, besteht keine Gefahr in dem weit entfernten Fluggebiet.
-x  Der Frontausläufer kann innerhalb kürzester Zeit auf das Fluggebiet übergreifen und extreme Turbulenzen verursachen
-Derart flach ankommende Kaltfrontausläufer werden von der Barriere des Alpennordrandes stets in Ostrichtung abgelenkt. Inneralpin ist keine Wetterwirksamkeit zu erwarten
-Es kann zum Einsetzen von sehr turbulentem präfrontalem Föhn kommen
+083. <Abbildung28.jpg> Die Abbildung zeigt einen KaltfrontauslÃ¤ufer, der in ca. 20 km Entfernung vom Fluggebiet entlang des Alpenrandes deutlich sichtbar von West (links) nach Ost (rechts) zieht. Welche Aussagen sind richtig?
+Solange die Front ihre Zugrichtung beibehÃ¤lt, besteht keine Gefahr in dem weit entfernten Fluggebiet.
+x  Der FrontauslÃ¤ufer kann innerhalb kÃ¼rzester Zeit auf das Fluggebiet Ã¼bergreifen und extreme Turbulenzen verursachen
+Derart flach ankommende KaltfrontauslÃ¤ufer werden von der Barriere des Alpennordrandes stets in Ostrichtung abgelenkt. Inneralpin ist keine Wetterwirksamkeit zu erwarten
+Es kann zum Einsetzen von sehr turbulentem prÃ¤frontalem FÃ¶hn kommen
 
-084. <Abbildung28.jpg> Wie können sich die gefährlichen Kaltluftausflüsse der Schauer und Gewitter des Kaltfrontausläufers in der Abbildung verhalten?
-Sie fließen in Zugrichtung der Front ab
-Sie fließen entgegen der Zugrichtung der Front ab
-x  Sie können sich durch Täler und Geländeeinschnitte in kürzester Zeit über mehrere Dutzend Kilometer in jede Richtung ausbreiten
+084. <Abbildung28.jpg> Wie kÃ¶nnen sich die gefÃ¤hrlichen KaltluftausflÃ¼sse der Schauer und Gewitter des KaltfrontauslÃ¤ufers in der Abbildung verhalten?
+Sie flieÃŸen in Zugrichtung der Front ab
+Sie flieÃŸen entgegen der Zugrichtung der Front ab
+x  Sie kÃ¶nnen sich durch TÃ¤ler und GelÃ¤ndeeinschnitte in kÃ¼rzester Zeit Ã¼ber mehrere Dutzend Kilometer in jede Richtung ausbreiten
 Sie wirken nur im unmittelbaren Schauerbereich
 
-085. <Abbildung28.jpg> Trotz fast vollständiger Abschattung befindet sich der Pilot auf der Abbildung in großflächigem Steigen. Wie ist das zu erklären?
-x  Die bodennah einfließende Kaltluft führt zum großflächigem Aufsteigen der Umgebungsluft
-Die in der Höhe eingeflossene Kaltluft löst Labilisierung und damit Thermik aus
-Der bei Frontannäherung auflebende Höhenwind führt zu laminaren Hangaufwinden
-Der mächtige Wolkenschatten des Frontausläufers wirkt als Auslöser für großflächige Aufwinde
+085. <Abbildung28.jpg> Trotz fast vollstÃ¤ndiger Abschattung befindet sich der Pilot auf der Abbildung in groÃŸflÃ¤chigem Steigen. Wie ist das zu erklÃ¤ren?
+x  Die bodennah einflieÃŸende Kaltluft fÃ¼hrt zum groÃŸflÃ¤chigem Aufsteigen der Umgebungsluft
+Die in der HÃ¶he eingeflossene Kaltluft lÃ¶st Labilisierung und damit Thermik aus
+Der bei FrontannÃ¤herung auflebende HÃ¶henwind fÃ¼hrt zu laminaren Hangaufwinden
+Der mÃ¤chtige Wolkenschatten des FrontauslÃ¤ufers wirkt als AuslÃ¶ser fÃ¼r groÃŸflÃ¤chige Aufwinde
 
-086. <Abbildung28.jpg> Welche Verhältnisse muss der Pilot auf der Abbildung am Landeplatz im Tal erwarten?
-Ebenfalls problemlose Verhältnisse, allenfalls etwas stärkerer Talwind
-Mäßiges aber großflächiges, durch die Ankunft von Kaltluft aus dem Niederschlagsbereich ausgelöstes Sinken
-x  Großflächiges, turbulentes, durch Kaltluftzufuhr am Boden ausgelöstes Steigen und erhebliche Windzunahme
+086. <Abbildung28.jpg> Welche VerhÃ¤ltnisse muss der Pilot auf der Abbildung am Landeplatz im Tal erwarten?
+Ebenfalls problemlose VerhÃ¤ltnisse, allenfalls etwas stÃ¤rkerer Talwind
+MÃ¤ÃŸiges aber groÃŸflÃ¤chiges, durch die Ankunft von Kaltluft aus dem Niederschlagsbereich ausgelÃ¶stes Sinken
+x  GroÃŸflÃ¤chiges, turbulentes, durch Kaltluftzufuhr am Boden ausgelÃ¶stes Steigen und erhebliche Windzunahme
 Windabnahme wegen Aussetzen des Talwindes durch die Kaltfront
 
 087. <Abbildung28.jpg> Welches Verhalten des Piloten auf der Abbildung ist in dieser Situation richtig?
 Weiterfliegen, warten bis die Front Richtung Osten gezogen ist und erst dann im Tal landen.
-Noch weiter Höhe machen, umdrehen und dann soweit wie möglich von der Front wegfliegen
-x  Sofort Höhe abbauen (z.B. Ohren anlegen) und nach Möglichkeit ein Außenlandung oberhalb des Tales durchführen
+Noch weiter HÃ¶he machen, umdrehen und dann soweit wie mÃ¶glich von der Front wegfliegen
+x  Sofort HÃ¶he abbauen (z.B. Ohren anlegen) und nach MÃ¶glichkeit ein AuÃŸenlandung oberhalb des Tales durchfÃ¼hren
 Geradeaus Richtung Tal fliegen und auf dem Landeplatz landen
 
-088. Welche Bezeichnung trägt die Lufthülle der Erde?
-Troposphäre
-Biosphäre
-x  Atmosphäre
-Stratosphäre
+088. Welche Bezeichnung trÃ¤gt die LufthÃ¼lle der Erde?
+TroposphÃ¤re
+BiosphÃ¤re
+x  AtmosphÃ¤re
+StratosphÃ¤re
 
-089. Welcher Bestandteil ist in dem Gasgemisch Luft für das Wettergeschehen verantwortlich?
+089. Welcher Bestandteil ist in dem Gasgemisch Luft fÃ¼r das Wettergeschehen verantwortlich?
 Helium
 Stickstoff
 Sauerstoff
 x  Wasserdampf
 
-090. In welchem Bereich der Atmosphäre spielt sich das "Wettergeschehen" ab?
+090. In welchem Bereich der AtmosphÃ¤re spielt sich das "Wettergeschehen" ab?
 Tropopause
-x  Troposphäre
-Stratosphäre
-Mesosphäre
+x  TroposphÃ¤re
+StratosphÃ¤re
+MesosphÃ¤re
 
-091. Wo befindet sich in der Atmosphäre immer eine Sperrschicht (Inversion oder Isothermie)?
+091. Wo befindet sich in der AtmosphÃ¤re immer eine Sperrschicht (Inversion oder Isothermie)?
 x  Oberhalb der Tropopause
 An der Wolkenuntergrenze
 Am Erdboden
-Nirgends, denn in der Atmosphäre nimmt die Temperatur generell mit der Höhe ab
+Nirgends, denn in der AtmosphÃ¤re nimmt die Temperatur generell mit der HÃ¶he ab
 
 092. Wie wird die Obergrenze der Schicht genannt, in der sich das Wettergeschehen abspielt und wie hoch liegt diese Schicht in den mittleren geografischen Breiten?
-x  Tropopause, durchschnittlich 11 km ü. NN
-Stratopause, durchschnittlich 20 km ü. NN
-Tropopause, durchschnittlich 20 km ü. NN
-Stratopause, durchschnittlich 11 km ü. NN
+x  Tropopause, durchschnittlich 11 km Ã¼. NN
+Stratopause, durchschnittlich 20 km Ã¼. NN
+Tropopause, durchschnittlich 20 km Ã¼. NN
+Stratopause, durchschnittlich 11 km Ã¼. NN
 
 093. Die Differenz zwischen Temperatur und Taupunkt wird bezeichnet als
-Mischungsverhältnis
+MischungsverhÃ¤ltnis
 Feuchtetemperatur
 Relative Feuchte
 x  Taupunkt-Differenz oder Spread
 
 094. Was versteht man unter dem Begriff \"Isothermie\"?
-Die gleichbleibende Temperatur für eine bestimmte Zeitspanne
-x  Die über eine bestimmte Höhendifferenz gleichbleibende Temperatur
+Die gleichbleibende Temperatur fÃ¼r eine bestimmte Zeitspanne
+x  Die Ã¼ber eine bestimmte HÃ¶hendifferenz gleichbleibende Temperatur
 Temperaturgleichheit an einem bestimmten Ort zwischen Tag und Nacht
-Die über eine bestimmte Höhendifferenz steigende Temperatur
+Die Ã¼ber eine bestimmte HÃ¶hendifferenz steigende Temperatur
 
-095. Innerhalb einer Inversion ändert sich die Temperatur mit zunehmender Höhe wie folgt: Die Temperatur
+095. Innerhalb einer Inversion Ã¤ndert sich die Temperatur mit zunehmender HÃ¶he wie folgt: Die Temperatur
 nimmt ab
 bleibt gleich
-verhält sich indifferent
+verhÃ¤lt sich indifferent
 x  nimmt zu
 
 096. Eine Bodeninversion entsteht dadurch, dass
-kältere Luft herangeführt wird
-x  der Erdboden - und damit auch die aufliegende Luftschicht - sich durch Ausstrahlung abkühlt
-der Erdboden nachts langwellige Wärmestrahlung aufnimmt
-der Erdboden die aufliegende Luftschicht erwärmt
+kÃ¤ltere Luft herangefÃ¼hrt wird
+x  der Erdboden - und damit auch die aufliegende Luftschicht - sich durch Ausstrahlung abkÃ¼hlt
+der Erdboden nachts langwellige WÃ¤rmestrahlung aufnimmt
+der Erdboden die aufliegende Luftschicht erwÃ¤rmt
 
-097. In den Bäumen am Startplatz bewegt der Wind die Zweige und dünneren Äste zu einem gleichmäßigen Rauschen. Welche Windgeschwindigkeit zeigen diese Merkmale an:
+097. In den BÃ¤umen am Startplatz bewegt der Wind die Zweige und dÃ¼nneren Ã„ste zu einem gleichmÃ¤ÃŸigen Rauschen. Welche Windgeschwindigkeit zeigen diese Merkmale an:
 5 - 10 km/h
 10 - 15 km/h
 x  20 - 25 km/h
-über 30 km/h
+Ã¼ber 30 km/h
 
-098. Ein Pilot bemerkt während des Fluges, dass sich auf einem nahe des Landeplatzes befindlichen See erste Schaumkronen bilden. Mit welcher Windgeschwindigkeit hat er bei der Landung zu rechnen?
+098. Ein Pilot bemerkt wÃ¤hrend des Fluges, dass sich auf einem nahe des Landeplatzes befindlichen See erste Schaumkronen bilden. Mit welcher Windgeschwindigkeit hat er bei der Landung zu rechnen?
 ca. 10 km/h
 x  ca. 30 km/h
-über 40 km/h
-über 50 km/h
+Ã¼ber 40 km/h
+Ã¼ber 50 km/h
 
-099. In der Position fliegend bemerkt der Pilot, dass sich der Windsack am Landeplatz gefüllt hat und zwischen gestreckter und leicht hängender Position pendelt. Mit welcher Windgeschwindigkeit hat er bei der Landung zu rechnen?
+099. In der Position fliegend bemerkt der Pilot, dass sich der Windsack am Landeplatz gefÃ¼llt hat und zwischen gestreckter und leicht hÃ¤ngender Position pendelt. Mit welcher Windgeschwindigkeit hat er bei der Landung zu rechnen?
 5- 10 km/h
 3 - 5 km/h
 25 - 30 km/h
 x  15 - 20 km/h
 
-100. Die Fahnen am Bergrestaurant nahe des Startplatz knattern vernehmlich. Der Wind hat eine Stärke von mindestens
+100. Die Fahnen am Bergrestaurant nahe des Startplatz knattern vernehmlich. Der Wind hat eine StÃ¤rke von mindestens
 x  35 km/h
 15 km/h
 25 km/h
 50 km/h
 
-101. Strahlt die Sonne auf Wasser und Land gleichmäßig ein,
-x  heizt sich die Landoberfläche schneller auf als die Wasseroberfläche
-heizt sich die Wasseroberfläche schneller auf als die Landoberfläche
+101. Strahlt die Sonne auf Wasser und Land gleichmÃ¤ÃŸig ein,
+x  heizt sich die LandoberflÃ¤che schneller auf als die WasseroberflÃ¤che
+heizt sich die WasseroberflÃ¤che schneller auf als die LandoberflÃ¤che
 entsteht normalerweise Landwind
 entstehen Wellen
 
-102. In Gebirgstälern weht der Wind an sommerlichen Schönwettertagen in der Regel
-x  nachmittags talaufwärts
-nachmittags talabwärts
-frühmorgens talaufwärts
-abends talaufwärts
+102. In GebirgstÃ¤lern weht der Wind an sommerlichen SchÃ¶nwettertagen in der Regel
+x  nachmittags talaufwÃ¤rts
+nachmittags talabwÃ¤rts
+frÃ¼hmorgens talaufwÃ¤rts
+abends talaufwÃ¤rts
 
 103. Verengungen in einem Gebirgstal
 verringern die Windgeschwindigkeit
 haben keinen Einfluss auf die Windgeschwindigkeit
-x  erhöhen die Windgeschwindigkeit und damit die Turbulenzgefahr
+x  erhÃ¶hen die Windgeschwindigkeit und damit die Turbulenzgefahr
 mindern die Turbulenzgefahr
 
 104. Im Gebirge
-wird der Wind durch die Form der Täler stark kanalisiert
-wird ein Kaltlufteinfluss in kürzester Zeit eine gravierende Windzunahme mit sich bringen
+wird der Wind durch die Form der TÃ¤ler stark kanalisiert
+wird ein Kaltlufteinfluss in kÃ¼rzester Zeit eine gravierende Windzunahme mit sich bringen
 ist ein herannahender Wettersturz schlechter zu erkennen als im Flachland
 x  Alle sind richtig
 
@@ -628,8 +628,8 @@ mit Aufwind zu rechnen.
 mit Thermik zu rechnen.
 mit optimalen Startbedingungen zu rechnen.
 
-106. Welche Gefahr ist bei Annäherung an ein Gewitter gegeben?
-Die Böenwalze, mit hohen Windgeschwindigkeiten und starken Turbulenzen
+106. Welche Gefahr ist bei AnnÃ¤herung an ein Gewitter gegeben?
+Die BÃ¶enwalze, mit hohen Windgeschwindigkeiten und starken Turbulenzen
 Hagel und heftige Regenschauer
 Starke Auf- und Abwinde
 x  Alle sind richtig
@@ -643,25 +643,25 @@ Warm- und Kaltfront
 108. Zu welcher Tageszeit und bei welchen Bedingungen entstehen im allgemeinen Frontgewitter?
 meist nachmittags bei Aufgleiten warmer Luft auf kalte Luft
 zu jeder Tageszeit gegen Ende einer sommerlichen Hochdrucklage
-morgens beim Einfließen tropischer Luft auf den unterkühlten Boden
+morgens beim EinflieÃŸen tropischer Luft auf den unterkÃ¼hlten Boden
 x  zu jeder Tageszeit bei Einbruch hoch reichender Kaltluft
 
-109. Der Flugwetterbericht spricht von "Überentwicklungen". Was ist darunter zu verstehen?
-Übergang der Blauthermik zu Wolkenthermik
+109. Der Flugwetterbericht spricht von "Ãœberentwicklungen". Was ist darunter zu verstehen?
+Ãœbergang der Blauthermik zu Wolkenthermik
 Ausbildung einzelner Cumuluswolken
 x  Starkes Vertikalwachstum der Cumuluswolken zu Schauer- und Gewitterwolken
 Entwicklung eines Sturmtiefs
 
-110. Aus welchem Grund lösen sich Warmluftblasen vom Boden?
-Durch einen starken Temperaturvorsprung gegenüber der Umgebungsluft
+110. Aus welchem Grund lÃ¶sen sich Warmluftblasen vom Boden?
+Durch einen starken Temperaturvorsprung gegenÃ¼ber der Umgebungsluft
 Wegen eines Bewegungsimpulses
-Wegen des Windes, der die Blase an eine Abrisskante drückt
+Wegen des Windes, der die Blase an eine Abrisskante drÃ¼ckt
 x  Alle sind richtig
 
-111. Welcher Untergrund ist im Flachland für die Entstehung von Thermik am besten geeignet?
+111. Welcher Untergrund ist im Flachland fÃ¼r die Entstehung von Thermik am besten geeignet?
 x  Trockene Wiesen und reife Kornfelder
-Große Wasserflächen
-Laubwälder
+GroÃŸe WasserflÃ¤chen
+LaubwÃ¤lder
 Schneefelder
 
 112. Wie bezeichnet man eine Schichtwolke in 5000 m NN?
@@ -676,7 +676,7 @@ x  Cumulus
 Lenticularis
 Ventus
 
-114. Welche der nachfolgenden Wolkenarten erreicht die größte vertikale Ausdehnung?
+114. Welche der nachfolgenden Wolkenarten erreicht die grÃ¶ÃŸte vertikale Ausdehnung?
 x  Nimbostratus
 Altocumulus
 Stratocumulus
@@ -688,8 +688,8 @@ Altocirrus, Cumulocirrus
 Nibostratus, Altostratus
 Cumulus, Stratus
 
-116. Landung bei starkem Wind (25 km/h) auf einem Landeplatz, der luvseitig von einer 10 Meter hohen Gebäude- und Baumreihe begrenzt wird. Welche Aussagen sind richtig?
-Hindernisse an der Luvseite haben keinen Einfluss auf die Strömung des Windes
-x  Starke Turbulenzen sind leeseitig der Hindernisse bis zu einem Abstand des 10-fachen der Hindernishöhe zu erwarten
-Starke Turbulenzen sind luvseitig der Hindernisse bis zu einem Abstand des 10-fachen der Hindernishöhe zu erwarten
+116. Landung bei starkem Wind (25 km/h) auf einem Landeplatz, der luvseitig von einer 10 Meter hohen GebÃ¤ude- und Baumreihe begrenzt wird. Welche Aussagen sind richtig?
+Hindernisse an der Luvseite haben keinen Einfluss auf die StrÃ¶mung des Windes
+x  Starke Turbulenzen sind leeseitig der Hindernisse bis zu einem Abstand des 10-fachen der HindernishÃ¶he zu erwarten
+Starke Turbulenzen sind luvseitig der Hindernisse bis zu einem Abstand des 10-fachen der HindernishÃ¶he zu erwarten
 Starke Turbulenzen sind unmittelbar hinter den Hindernissen zu erwarten

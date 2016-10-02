@@ -1,1 +1,8 @@
 /* CSS declarations go here */
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}

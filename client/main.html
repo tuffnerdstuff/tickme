@@ -2,15 +2,27 @@
 <title>Fragen über Fragen</title>
 </head>
 
-<body>
-{{> questions}}
-</body>
+    <body>
+    {{> root }}
+    </body>
+
+<template name ="root">
+
+    {{> Template.dynamic template=state_template}}
+
+</template>
+
+<template name ="loading">
+    <h1>Loading...</h1>
+</template>
 
 <template name ="questions">
-	<p>
-	{{#each questions}}
-		{{> question}}
-	{{/each}}
+	<p>Correct:{{correct_questions}}</p>
+    <p>
+        {{> question q=get_question currQuestion=curr_question maxQuestion=max_question }}
 	</p>
+    
+    <span id="btnNext" class="hidden">Next</span>
+    <span id="btnFinish" class="hidden">Finish</span>
 </template>
 

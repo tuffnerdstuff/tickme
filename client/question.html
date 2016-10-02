@@ -1,13 +1,15 @@
 <template name ="question">
-	<h1>{{description}}</h1>
+    <h1>{{q.question}}</h1>
 	<img src="{{question.img}}"/>
+    <fieldset>
 	<ul>
-	{{#each answers}}
-		{{> answer}}
+	{{#each a in q.answers}}
+		{{> answer answer=a currQuestion=currQuestion maxQuestion=maxQuestion}}
 	{{/each}}
 	</ul>
+    </fieldset>
 </template>
 
 <template name ="answer">
-	<li><input type="button" class="answer"/>{{answer}}</li>
+	<li><input type="radio" name="answer" class="answer"/>{{answer.answer}}</li>
 </template>

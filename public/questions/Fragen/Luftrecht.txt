@@ -1,17 +1,17 @@
-001. Das Bundesministerium für Verkehr
-verwaltet die Hängegleiter und Gleitschirme selbst
-x ist die oberste Luftfahrtbehörde
-ist keine Behörde
+001. Das Bundesministerium fÃ¼r Verkehr
+verwaltet die HÃ¤ngegleiter und Gleitschirme selbst
+x ist die oberste LuftfahrtbehÃ¶rde
+ist keine BehÃ¶rde
 ist der Beauftragte des Luftfahrt-Bundesamtes (LBA)
 
-002. Zu den Diensten der Austro Control GmbH (ACG) zählen:
+002. Zu den Diensten der Austro Control GmbH (ACG) zÃ¤hlen:
 Der Such- und Rettungsdienst
 Die Wetterberatung
 Der Fluginformationsdienst
 x Alle Antworten sind richtig
 
-003. Wer ist für die Kontrolle des Luftverkehrs in Deutschland zuständig?
-Die Landesluftfahrtbehörden
+003. Wer ist fÃ¼r die Kontrolle des Luftverkehrs in Deutschland zustÃ¤ndig?
+Die LandesluftfahrtbehÃ¶rden
 x Die Deutsche Flugsicherung GmbH
 Das BMVBW
 Das LBA
@@ -22,469 +22,469 @@ Die Flugunfallmeldungen
 Die Flugwetterberatung
 x Alle Antworten sind richtig
 
-005. In Deutschland ist der DHV der Beauftragte des Bundesverkehrsministeriums für:
+005. In Deutschland ist der DHV der Beauftragte des Bundesverkehrsministeriums fÃ¼r:
 Ultraleichtfliegen
 Drachen- Gleitschirm- und Segelfliegen
 x Drachen- und Gleitschirmfliegen
 Fallschirmspringen, Drachen- und Gleitschirmfliegen
 
-006. Dem österreichischen Aeroclub (ÖAeC ) wurden u.a. folgende behördlichen Zuständigkeiten übertragen:
-Ausstellung und Erweiterung von Zivilluftfahrerscheinen für Hänge- und Paragleiter
-Zulassungen von Schul- und Übungsgeländen für Hänge- und Paragleiter
+006. Dem Ã¶sterreichischen Aeroclub (Ã–AeC ) wurden u.a. folgende behÃ¶rdlichen ZustÃ¤ndigkeiten Ã¼bertragen:
+Ausstellung und Erweiterung von Zivilluftfahrerscheinen fÃ¼r HÃ¤nge- und Paragleiter
+Zulassungen von Schul- und ÃœbungsgelÃ¤nden fÃ¼r HÃ¤nge- und Paragleiter
 Flugschul-Angelegenheiten
 x Alle Antworten sind richtig
 
-007. Die gesetzliche Grundlage für die Benutzung des Luftraums mit Luftfahrzeugen ist
-x das LFG in Österreich und das LuftVG in Deutschland
-die LuftPersV in Österreich und ZLPV in Deutschland
-die LVR in Österreich und die LuftVO in Deutschland
-die Bundesverfassung der einzelnen Bundesländer
+007. Die gesetzliche Grundlage fÃ¼r die Benutzung des Luftraums mit Luftfahrzeugen ist
+x das LFG in Ã–sterreich und das LuftVG in Deutschland
+die LuftPersV in Ã–sterreich und ZLPV in Deutschland
+die LVR in Ã–sterreich und die LuftVO in Deutschland
+die Bundesverfassung der einzelnen BundeslÃ¤nder
 
-008. Luftsportgeräte im Sinne des LuftVG sind in Deutschland
-Hängegleiter und Gleitschirme
+008. LuftsportgerÃ¤te im Sinne des LuftVG sind in Deutschland
+HÃ¤ngegleiter und Gleitschirme
 Fallschirme
 Ultraleichtflugzeuge und ultraleichte Segelflugzeuge
 x Alle sind richtig
 
-009. Hänge- und Paragleiter sind im Sinne des LFG in Österreich
+009. HÃ¤nge- und Paragleiter sind im Sinne des LFG in Ã–sterreich
 x Luftfahrzeuge
-Luftsportgeräte
+LuftsportgerÃ¤te
 Leichtflugzeuge
-Sonstige zulassungspflichtige Fluggeräte
+Sonstige zulassungspflichtige FluggerÃ¤te
 
 010. Die Flugbetriebsregeln sind geregelt in
-der LuftPersV in Deutschland und der ZLPV in Österreich
-der ZLLV in Deutschland und der LuftBO in Österreich
-x der LuftVO und der FBO in Deutschland und den LVR in Österreich
-der LuftVZO in Deutschland und im Erlass für Hänge- und Paragleiter in Österreich
+der LuftPersV in Deutschland und der ZLPV in Ã–sterreich
+der ZLLV in Deutschland und der LuftBO in Ã–sterreich
+x der LuftVO und der FBO in Deutschland und den LVR in Ã–sterreich
+der LuftVZO in Deutschland und im Erlass fÃ¼r HÃ¤nge- und Paragleiter in Ã–sterreich
 
-011. Hängegleiter und Gleitschirme (Paragleiter)
+011. HÃ¤ngegleiter und Gleitschirme (Paragleiter)
 sind in Deutschland von der Musterzulassungspflicht befreit
-müssen in Deutschland einer Musterprüfung durch eine LBA- anerkannte Prüfstelle unterzogen werden
-unterliegen in Österreich keiner Prüf- oder Zulassungspflicht
+mÃ¼ssen in Deutschland einer MusterprÃ¼fung durch eine LBA- anerkannte PrÃ¼fstelle unterzogen werden
+unterliegen in Ã–sterreich keiner PrÃ¼f- oder Zulassungspflicht
 x Alle sind richtig
 
-012. Stückprüfungen für Hängegleiter und Gleitschirme in Deutschland
-werden von DHV durchgeführt und durch die Anbringung einer Musterprüfplakette dokumentiert
-x werden vom Hersteller durchgeführt und durch die Anbringung einer Musterprüfplakette dokumentiert
-werden vom Fachhändler durchgeführt und durch die Anbringung einer Musterprüfplakette dokumentiert
-werden vom Piloten durchgeführt und durch die Anbringung einer Musterprüfplakette dokumentiert
+012. StÃ¼ckprÃ¼fungen fÃ¼r HÃ¤ngegleiter und Gleitschirme in Deutschland
+werden von DHV durchgefÃ¼hrt und durch die Anbringung einer MusterprÃ¼fplakette dokumentiert
+x werden vom Hersteller durchgefÃ¼hrt und durch die Anbringung einer MusterprÃ¼fplakette dokumentiert
+werden vom FachhÃ¤ndler durchgefÃ¼hrt und durch die Anbringung einer MusterprÃ¼fplakette dokumentiert
+werden vom Piloten durchgefÃ¼hrt und durch die Anbringung einer MusterprÃ¼fplakette dokumentiert
 
-013. Bei der Stückprüfung
-werden Belastungstest, Flugtest und Detailprüfung durchgeführt
-werden einzelne Stücke (Stichproben) hinsichtlich ihrer Festigkeit bis zum Bruch belastet
-werden Weiterreißfestigkeit und Luftdurchlässigkeit des Tuches bei jedem neuen Gerät getestet
-x wird die Übereinstimmung jedes Gerätes mit dem von der LBA-anerkannten Prüfstelle getesteten Muster überprüft und bestätigt
+013. Bei der StÃ¼ckprÃ¼fung
+werden Belastungstest, Flugtest und DetailprÃ¼fung durchgefÃ¼hrt
+werden einzelne StÃ¼cke (Stichproben) hinsichtlich ihrer Festigkeit bis zum Bruch belastet
+werden WeiterreiÃŸfestigkeit und LuftdurchlÃ¤ssigkeit des Tuches bei jedem neuen GerÃ¤t getestet
+x wird die Ãœbereinstimmung jedes GerÃ¤tes mit dem von der LBA-anerkannten PrÃ¼fstelle getesteten Muster Ã¼berprÃ¼ft und bestÃ¤tigt
 
-014. Wird in Deutschland mit einem Gleitschirm geflogen, auf welchem keine ordnungsgemäße Musterprüfplakette angebracht ist, so
+014. Wird in Deutschland mit einem Gleitschirm geflogen, auf welchem keine ordnungsgemÃ¤ÃŸe MusterprÃ¼fplakette angebracht ist, so
 ist dies eine Straftat
-ist dies nur dann ein Verstoß gegen luftrechtliche Vorschriften, wenn der Gerätetyp tatsächlich nicht mustergeprüft, bzw. musterzugelassen ist
+ist dies nur dann ein VerstoÃŸ gegen luftrechtliche Vorschriften, wenn der GerÃ¤tetyp tatsÃ¤chlich nicht mustergeprÃ¼ft, bzw. musterzugelassen ist
 x ist dies eine Ordnungswidrigkeit
-ist dies kein Verstoß gegen luftrechtliche Vorschriften
+ist dies kein VerstoÃŸ gegen luftrechtliche Vorschriften
 
 015. Der Erstflug (Einfliegen) eines fabrikneuen Gleitschirms
-x ist Bestandteil der Stückprüfung und wird vom Hersteller durchgeführt oder an den Verkäufer (Fachhändler) delegiert
-ist nicht Bestandteil der Stückprüfung und kann vom Piloten selbst durchgeführt werden
+x ist Bestandteil der StÃ¼ckprÃ¼fung und wird vom Hersteller durchgefÃ¼hrt oder an den VerkÃ¤ufer (FachhÃ¤ndler) delegiert
+ist nicht Bestandteil der StÃ¼ckprÃ¼fung und kann vom Piloten selbst durchgefÃ¼hrt werden
 ist nur Fluglehrern erlaubt
 ist nur Piloten mit einer Prototypengenehmigung erlaubt
 
-016. Der Zeitabstand für die turnusgemäße Nachprüfung von Gleitschirmen in Deutschland
-beträgt 36 Monate
-beträgt 24 Monate
-beträgt 150 Flugstunden
-x wird vom Hersteller in der Betriebsanweisung des Gerätes vorgegeben
+016. Der Zeitabstand fÃ¼r die turnusgemÃ¤ÃŸe NachprÃ¼fung von Gleitschirmen in Deutschland
+betrÃ¤gt 36 Monate
+betrÃ¤gt 24 Monate
+betrÃ¤gt 150 Flugstunden
+x wird vom Hersteller in der Betriebsanweisung des GerÃ¤tes vorgegeben
 
-017. Wer darf Nachprüfungen von Gleitschirmen in Deutschland durchführen?
-Vom Hersteller anerkannte Nachprüfbetriebe
-Der Hersteller des Gerätes
-Bei eigengenutzten Geräten der Halter selbst, sofern er die in der Betriebsanweisung des Gerätes aufgeführten Vorgaben des Herstellers erfüllt.
+017. Wer darf NachprÃ¼fungen von Gleitschirmen in Deutschland durchfÃ¼hren?
+Vom Hersteller anerkannte NachprÃ¼fbetriebe
+Der Hersteller des GerÃ¤tes
+Bei eigengenutzten GerÃ¤ten der Halter selbst, sofern er die in der Betriebsanweisung des GerÃ¤tes aufgefÃ¼hrten Vorgaben des Herstellers erfÃ¼llt.
 x Alle sind richtig
 
-018. Der Zeitabstand für die turnusgemäße Nachprüfung von Gleitschirmen (Paragleitern) in Österreich
-beträgt 36 Monate
-beträgt 24 Monate
-beträgt 150 Flugstunden
-x wird vom Hersteller in der Betriebsanweisung des Gerätes vorgegeben
+018. Der Zeitabstand fÃ¼r die turnusgemÃ¤ÃŸe NachprÃ¼fung von Gleitschirmen (Paragleitern) in Ã–sterreich
+betrÃ¤gt 36 Monate
+betrÃ¤gt 24 Monate
+betrÃ¤gt 150 Flugstunden
+x wird vom Hersteller in der Betriebsanweisung des GerÃ¤tes vorgegeben
 
-019. Wer darf Nachprüfungen von Gleitschirmen (Paragleitern) in Österreich durchführen?
-x Personen, die vom Hersteller autorisiert sind oder die besondere Kenntnisse mit der Tätigkeit nachweisen können
-Ausschließlich der Hersteller des Gerätes
-Bei eigengenutzten Geräten der Halter selbst, sofern er die in der Betriebsanweisung des Gerätes aufgeführten Vorgaben des Herstellers erfüllt
+019. Wer darf NachprÃ¼fungen von Gleitschirmen (Paragleitern) in Ã–sterreich durchfÃ¼hren?
+x Personen, die vom Hersteller autorisiert sind oder die besondere Kenntnisse mit der TÃ¤tigkeit nachweisen kÃ¶nnen
+AusschlieÃŸlich der Hersteller des GerÃ¤tes
+Bei eigengenutzten GerÃ¤ten der Halter selbst, sofern er die in der Betriebsanweisung des GerÃ¤tes aufgefÃ¼hrten Vorgaben des Herstellers erfÃ¼llt
 Alle sind richtig
 
-020. Alle Angaben zur Durchführung der Nachprüfung bei einem Gleitschirm und zur dafür erforderlichen technischen Ausstattung,
-sind auf Antrag beim DHV erhältlich
-sind Betriebsgeheimnisse und nicht erhältlich
-sind den erhältlichen Lehrbüchern über das Gleitschirmfliegen zu entnehmen
-x sind der Nachprüfanweisung zu entnehmen, die Bestandteil jeder Betriebsanleitung ist
+020. Alle Angaben zur DurchfÃ¼hrung der NachprÃ¼fung bei einem Gleitschirm und zur dafÃ¼r erforderlichen technischen Ausstattung,
+sind auf Antrag beim DHV erhÃ¤ltlich
+sind Betriebsgeheimnisse und nicht erhÃ¤ltlich
+sind den erhÃ¤ltlichen LehrbÃ¼chern Ã¼ber das Gleitschirmfliegen zu entnehmen
+x sind der NachprÃ¼fanweisung zu entnehmen, die Bestandteil jeder Betriebsanleitung ist
 
-021. Von der Musterprüfung abweichende bauliche Veränderungen
-sind zulässig, wenn das Gerät ausschließlich vom Halter selbst genutzt wird
-sind zulässig, wenn sie von einem Fluglehrer vorgenommen werden
-sind zulässig, wenn das Gerät dadurch sicherer wird
-x sind unzulässig
+021. Von der MusterprÃ¼fung abweichende bauliche VerÃ¤nderungen
+sind zulÃ¤ssig, wenn das GerÃ¤t ausschlieÃŸlich vom Halter selbst genutzt wird
+sind zulÃ¤ssig, wenn sie von einem Fluglehrer vorgenommen werden
+sind zulÃ¤ssig, wenn das GerÃ¤t dadurch sicherer wird
+x sind unzulÃ¤ssig
 
 022. Sicherheitsmitteilungen zu einem Gleitschirm (Paragleiter)
 x werden vom Hersteller erlassen, ihre Befolgung ist verbindlich
 werden vom Hersteller erlassen, ihre Befolgung ist freiwillig
-werden vom DHV bzw. vom ÖAeC erlassen, ihre Befolgung ist verbindlich
-werden vom DHV bzw. vom ÖAeC erlassen, ihre Befolgung ist freiwillig
+werden vom DHV bzw. vom Ã–AeC erlassen, ihre Befolgung ist verbindlich
+werden vom DHV bzw. vom Ã–AeC erlassen, ihre Befolgung ist freiwillig
 
-023. Die Erklärung der Luftuntüchtigkeit für einen Gleitschirm
+023. Die ErklÃ¤rung der LuftuntÃ¼chtigkeit fÃ¼r einen Gleitschirm
 wird vom DHV erlassen, ihre Befolgung ist freiwillig
 x wird vom DHV erlassen, ihre Befolgung ist verbindlich
 wird vom Hersteller erlassen, ihre Befolgung ist freiwillig
 wird vom Hersteller erlassen, ihre Befolgung ist verbindlich
 
-024. Wo werden "Erklärungen der Luftuntüchtigkeit" und Sicherheitsmitteilungen veröffentlicht?
-In den Betriebsanleitungen des Gerätes
-In den Luftfahrthandbüchern
+024. Wo werden "ErklÃ¤rungen der LuftuntÃ¼chtigkeit" und Sicherheitsmitteilungen verÃ¶ffentlicht?
+In den Betriebsanleitungen des GerÃ¤tes
+In den LuftfahrthandbÃ¼chern
 x In den Informationsschriften der Beauftragten (NfGH)
 In der Fachpresse
 
-025. Wer ist verantwortlich für die Lufttüchtigkeit des Gerätes?
+025. Wer ist verantwortlich fÃ¼r die LufttÃ¼chtigkeit des GerÃ¤tes?
 x Der Halter bzw. der Pilot
 Der Hersteller
-Der DHV bzw. ÖAeC
-Immer nur der Pilot, der das Gerät benutzt
+Der DHV bzw. Ã–AeC
+Immer nur der Pilot, der das GerÃ¤t benutzt
 
-026. Welche Versicherungen sind Pflichtversicherungen für das Gleitschirmfliegen in Deutschland?
+026. Welche Versicherungen sind Pflichtversicherungen fÃ¼r das Gleitschirmfliegen in Deutschland?
 Halterhaftpflichtversicherung, Flugunfalluntersuchungsversicherung, Bergekostenversicherung
 Halterhaftpflichtversicherung , Flugunfalluntersuchungsversicherung
 x Nur Halterhaftpflichtversicherung
 Nur Unfallversicherung
 
-027. Welche Versicherungen sind Pflichtversicherungen für das Gleitschirmfliegen (Paragleiten) in Österreich?
+027. Welche Versicherungen sind Pflichtversicherungen fÃ¼r das Gleitschirmfliegen (Paragleiten) in Ã–sterreich?
 Halterhaftpflichtversicherung, Flugunfalluntersuchungsversicherung, Bergekostenversicherung
 x Halterhaftpflichtversicherung, Flugunfalluntersuchungsversicherung
 Nur Halterhaftpflichtversicherung
 Nur Unfallversicherung
 
-028. Bis zu welcher Summe haftet der Pilot, wenn er beim Gleitschirmfliegen in Deutschland oder Österreich einen Personen- oder Sachschaden schuldhaft verursacht?
+028. Bis zu welcher Summe haftet der Pilot, wenn er beim Gleitschirmfliegen in Deutschland oder Ã–sterreich einen Personen- oder Sachschaden schuldhaft verursacht?
 1,5 Millionen Euro
 150.000 Euro
 15.000 Euro
 x Der Pilot haftet unbegrenzt
 
-029. Das regelmäßige Einholen von Informationen, ob ein Fluggerät von einer Erklärung der Luftuntüchtigkeit, Sicherheitsmitteilung oder angeordneten Nachprüfung betroffen ist,
-gehört zu den Pflichten der Beauftragten (DHV bzw. ÖAeC )
-gehört zu den Pflichten des Herstellers
-x gehört zu den Pflichten des Piloten bzw. des Halters
+029. Das regelmÃ¤ÃŸige Einholen von Informationen, ob ein FluggerÃ¤t von einer ErklÃ¤rung der LuftuntÃ¼chtigkeit, Sicherheitsmitteilung oder angeordneten NachprÃ¼fung betroffen ist,
+gehÃ¶rt zu den Pflichten der Beauftragten (DHV bzw. Ã–AeC )
+gehÃ¶rt zu den Pflichten des Herstellers
+x gehÃ¶rt zu den Pflichten des Piloten bzw. des Halters
 Alle Antworten sind richtig
 
-030. Wer mit einem Gleitschirm fliegt ohne eine bestehende Sicherheitsmitteilung oder "Erklärung der Luftuntüchtigkeit" zu beachten,
+030. Wer mit einem Gleitschirm fliegt ohne eine bestehende Sicherheitsmitteilung oder "ErklÃ¤rung der LuftuntÃ¼chtigkeit" zu beachten,
 riskiert den Versicherungsschutz
 macht sich einer Ordnungswidrigkeit schuldig
-kann mit Bußgeld bestraft werden
+kann mit BuÃŸgeld bestraft werden
 x Alle sind richtig
 
 031. Bis zu weicher Summe haftet der Pilot, wenn er beim Gleitschirmfliegen in Deutschland ohne eigenes Verschulden einen Personen- oder Sachschaden verursacht?
 Der Pilot haftet in diesem Fall nicht, weil er schuldlos ist.
-x Der Pilot haftet aufgrund der Gefährdungshaftung bis 750.000 SZR (Sonderziehungsrechte)
+x Der Pilot haftet aufgrund der GefÃ¤hrdungshaftung bis 750.000 SZR (Sonderziehungsrechte)
 150.000 Euro
 15 Millionen Euro
 
-032. Bis zu welcher Summe haftet der Pilot, wenn er beim Gleitschirmfliegen (Paragleiten) in Österreich ohne eigenes Verschulden einen Personen- oder Sachschaden verursacht?
+032. Bis zu welcher Summe haftet der Pilot, wenn er beim Gleitschirmfliegen (Paragleiten) in Ã–sterreich ohne eigenes Verschulden einen Personen- oder Sachschaden verursacht?
 Der Pilot haftet in diesem Fall nicht, weil er schuldlos ist.
-x Der Pilot haftet aufgrund der Gefährdungshaftung bis 500.000 SZR (Sonderziehungsrechte)
+x Der Pilot haftet aufgrund der GefÃ¤hrdungshaftung bis 500.000 SZR (Sonderziehungsrechte)
 120.000 Euro
 12 Millionen Euro
 
-033. Wer in der BRD einen nach § 5 LuftVO bzw. in Österreich nach § 136 LFG meldepflichtigen Unfall beim Gleitschirmfliegen nicht an den DHV bzw. an die ACG meldet,
-x begeht eine Ordnungswidrigkeit/Verwaltungsübertretung
-begeht eine Straftat und muss damit rechnen, dass Ansprüche an die Haftpflichtversicherung erlöschen
+033. Wer in der BRD einen nach Â§ 5 LuftVO bzw. in Ã–sterreich nach Â§ 136 LFG meldepflichtigen Unfall beim Gleitschirmfliegen nicht an den DHV bzw. an die ACG meldet,
+x begeht eine Ordnungswidrigkeit/VerwaltungsÃ¼bertretung
+begeht eine Straftat und muss damit rechnen, dass AnsprÃ¼che an die Haftpflichtversicherung erlÃ¶schen
 muss mit dem Entzug der Lizenz rechnen
-verstößt nicht gegen bestehende Vorschriften
+verstÃ¶ÃŸt nicht gegen bestehende Vorschriften
 
-034. Welche Dokumente muss ein Pilot beim Gleitschirmfliegen in Österreich und Deutschland mitführen?
-Fluglizenz, Versicherungsnachweis, fliegerärztliches Tauglichkeitszeugnis
+034. Welche Dokumente muss ein Pilot beim Gleitschirmfliegen in Ã–sterreich und Deutschland mitfÃ¼hren?
+Fluglizenz, Versicherungsnachweis, fliegerÃ¤rztliches Tauglichkeitszeugnis
 Nur die Fluglizenz
 x Fluglizenz, Versicherungsnachweis, Personalausweis, ggf. Flugbuch
 Fluglizenz, Reisepass
 
-035. Bei Gleitschirmflügen im Ausland
-gelten für österreichische Piloten die heimischen luftrechtlichen Bestimmungen
-gelten für deutsche Piloten die heimischen luftrechtlichen Bestimmungen
-gelten für Piloten aus allen EU-Ländern die gleichen luftrechtlichen Bestimmungen
+035. Bei GleitschirmflÃ¼gen im Ausland
+gelten fÃ¼r Ã¶sterreichische Piloten die heimischen luftrechtlichen Bestimmungen
+gelten fÃ¼r deutsche Piloten die heimischen luftrechtlichen Bestimmungen
+gelten fÃ¼r Piloten aus allen EU-LÃ¤ndern die gleichen luftrechtlichen Bestimmungen
 x gelten stets die luftrechtlichen Bestimmungen des jeweiligen Landes
 
 036. Die Ausbildung zum Gleitschirmpiloten (Paragleiterpiloten)
-wird vom DHV bzw. ÖAeC durchgeführt
-wird von den Fliegerclubs durchgeführt
+wird vom DHV bzw. Ã–AeC durchgefÃ¼hrt
+wird von den Fliegerclubs durchgefÃ¼hrt
 kann durch routinierte Piloten in Form einer Einweisung stattfinden
 x darf nur in einer zugelassenen Flugschule erfolgen
 
-037. Praktische Gleitschirm-Flugausbildung darf in Österreich und in Deutschland
-nur von geeigneten Personen durchgeführt werden
-x nur von Personen mit einer Lehrberechtigung für Gleitschirmfliegen/Paragleiten durchgeführt werden
-auch von Segelflug- Ultraleicht- und Motorfluglehrern durchgeführt werden
-auch von Berg- und Skiführern durchgeführt werden
+037. Praktische Gleitschirm-Flugausbildung darf in Ã–sterreich und in Deutschland
+nur von geeigneten Personen durchgefÃ¼hrt werden
+x nur von Personen mit einer Lehrberechtigung fÃ¼r Gleitschirmfliegen/Paragleiten durchgefÃ¼hrt werden
+auch von Segelflug- Ultraleicht- und Motorfluglehrern durchgefÃ¼hrt werden
+auch von Berg- und SkifÃ¼hrern durchgefÃ¼hrt werden
 
-038. Welche Staaten erkennen die Gleitschirm-Lizenzen des jeweils anderen Landes gegenseitig ohne Einschränkung an?
-Alle EU-Länder
-Die EU-Länder, die das Schengen-Abkommen unterzeichnet haben
-Österreich, Deutschland, Schweiz
-x Österreich und Deutschland
+038. Welche Staaten erkennen die Gleitschirm-Lizenzen des jeweils anderen Landes gegenseitig ohne EinschrÃ¤nkung an?
+Alle EU-LÃ¤nder
+Die EU-LÃ¤nder, die das Schengen-Abkommen unterzeichnet haben
+Ã–sterreich, Deutschland, Schweiz
+x Ã–sterreich und Deutschland
 
 039. Der Pilot ist im Rahmen der Flugvorbereitung dazu verpflichtet,
-sich mit den zur Verfügung stehenden Luftfahrtinformationen vertraut zu machen
+sich mit den zur VerfÃ¼gung stehenden Luftfahrtinformationen vertraut zu machen
 die neuesten Wettermeldungen und Wettervorhersagen zu studieren
-Ausweichmaßnahmen für den Fall zu planen, dass ein Flug nicht in vorgesehener Weise zu Ende geführt werden kann
+AusweichmaÃŸnahmen fÃ¼r den Fall zu planen, dass ein Flug nicht in vorgesehener Weise zu Ende gefÃ¼hrt werden kann
 x Alle sind richtig
 
-040. Welche Aussagen zur Schulungsbestätigung in Österreich sind richtig?
+040. Welche Aussagen zur SchulungsbestÃ¤tigung in Ã–sterreich sind richtig?
 Sie wird nach abgeschlossener Grundausbildung ausgestellt
-Sie erlaubt Flüge in den zugelassenen Schul- und Übungsbereichen, sofern der jeweilige Ausbildungsleiter zustimmt
-Sie verliert nach 36 Monaten ihre Gültigkeit
+Sie erlaubt FlÃ¼ge in den zugelassenen Schul- und Ãœbungsbereichen, sofern der jeweilige Ausbildungsleiter zustimmt
+Sie verliert nach 36 Monaten ihre GÃ¼ltigkeit
 x Alle sind richtig
 
 041. Welche Aussagen zum Lernausweis in Deutschland sind richtig?
-Er kann nach abgeschlossener Grundausbildung für maximal 36 Monate ausgestellt werden
-Er erlaubt Flüge in dem Gelände, in welchem die Grundausbildung stattgefunden hat
+Er kann nach abgeschlossener Grundausbildung fÃ¼r maximal 36 Monate ausgestellt werden
+Er erlaubt FlÃ¼ge in dem GelÃ¤nde, in welchem die Grundausbildung stattgefunden hat
 Die Flugschule kann ihn mit Auflagen versehen
 x Alle sind richtig
 
-042. Deutsche Lernausweise und Höhenflugausweise
+042. Deutsche Lernausweise und HÃ¶henflugausweise
 sind Lizenzen im Sinne der LuftPersV
-x sind schriftliche, geländebezogene Flugaufträge des Ausbildungsleiters der Flugschule
+x sind schriftliche, gelÃ¤ndebezogene FlugauftrÃ¤ge des Ausbildungsleiters der Flugschule
 werden in den Luftfahrerschein eingetragen
-berechtigen auch zu Flügen im Ausland
+berechtigen auch zu FlÃ¼gen im Ausland
 
-043. Eine Lizenz für Gleitsegelführer/Paragleiter kann von der Erlaubnisbehörde widerrufen und eingezogen werden, wenn
+043. Eine Lizenz fÃ¼r GleitsegelfÃ¼hrer/Paragleiter kann von der ErlaubnisbehÃ¶rde widerrufen und eingezogen werden, wenn
 der Lizenzinhaber einen Verkehrsunfall verursacht hat
-der Lizenzinhaber länger als 2 Jahre keine praktische Tätigkeit als Gleitschirmpilot ausgeübt hat
-x Zweifel an dem ausreichenden fachlichen Wissen des Lizenzinhabers bestehen und eine angeordnete Überprüfung verweigert wurde
+der Lizenzinhaber lÃ¤nger als 2 Jahre keine praktische TÃ¤tigkeit als Gleitschirmpilot ausgeÃ¼bt hat
+x Zweifel an dem ausreichenden fachlichen Wissen des Lizenzinhabers bestehen und eine angeordnete ÃœberprÃ¼fung verweigert wurde
 Alle Antworten sind richtig
 
-044. Eine Lizenz für Gleitsegelführer/Paragleiter kann von der Erlaubnisbehörde widerrufen und eingezogen werden, wenn
-dem Lizenzinhaber nachgewiesen wird, dass er ständig im Straßenverkehr auffällt
-x diese berechtigten Zweifel am ausreichenden praktischen Können des Lizenzinhaber hat und eine Überprüfung verweigert oder nicht bestanden wird
-Die Club-Kameraden das fliegerische Können des Lizenzinhabers bezweifeln
-Der Lizenzinhaber mehrmals den Rettungsschirm auslösen musste
+044. Eine Lizenz fÃ¼r GleitsegelfÃ¼hrer/Paragleiter kann von der ErlaubnisbehÃ¶rde widerrufen und eingezogen werden, wenn
+dem Lizenzinhaber nachgewiesen wird, dass er stÃ¤ndig im StraÃŸenverkehr auffÃ¤llt
+x diese berechtigten Zweifel am ausreichenden praktischen KÃ¶nnen des Lizenzinhaber hat und eine ÃœberprÃ¼fung verweigert oder nicht bestanden wird
+Die Club-Kameraden das fliegerische KÃ¶nnen des Lizenzinhabers bezweifeln
+Der Lizenzinhaber mehrmals den Rettungsschirm auslÃ¶sen musste
 
-045. Der österreichische Paragleiterschein gilt in Deutschland wie
-die unbeschränkte Lizenz für Gleitsegelführer
+045. Der Ã¶sterreichische Paragleiterschein gilt in Deutschland wie
+die unbeschrÃ¤nkte Lizenz fÃ¼r GleitsegelfÃ¼hrer
 der Lernausweis
-der Höhenflugausweis
-x die beschränkte Lizenz für Gleitsegelführer
+der HÃ¶henflugausweis
+x die beschrÃ¤nkte Lizenz fÃ¼r GleitsegelfÃ¼hrer
 
-046. Die deutsche unbeschränkte Lizenz für Gleitsegelführer gilt in Österreich
+046. Die deutsche unbeschrÃ¤nkte Lizenz fÃ¼r GleitsegelfÃ¼hrer gilt in Ã–sterreich
 wie der Paragleiterschein
-x wie der Paragleiterschein mit Überlandberechtigung
-wie die Schulungsbestätigung
+x wie der Paragleiterschein mit Ãœberlandberechtigung
+wie die SchulungsbestÃ¤tigung
 nicht
 
-047. Die beschränkte Lizenz für Gleitsegelführer bzw. der Paragleiterschein berechtigt in Deutschland und Österreich
-auch zu Flügen bei Nacht
-auch zu Flügen mit Hängegleitern
-zu Überlandflügen
-x zu Flügen in der Umgebung des Fluggeländes
+047. Die beschrÃ¤nkte Lizenz fÃ¼r GleitsegelfÃ¼hrer bzw. der Paragleiterschein berechtigt in Deutschland und Ã–sterreich
+auch zu FlÃ¼gen bei Nacht
+auch zu FlÃ¼gen mit HÃ¤ngegleitern
+zu ÃœberlandflÃ¼gen
+x zu FlÃ¼gen in der Umgebung des FluggelÃ¤ndes
 
-048. Der Nachweis der fliegerischen Übung gemäß LuftPersV muss in Deutschland
+048. Der Nachweis der fliegerischen Ãœbung gemÃ¤ÃŸ LuftPersV muss in Deutschland
 nicht erbracht werden
-x nur dann erbracht werden, wenn die zuständige Stelle (DHV) Zweifel an der ausreichenden fliegerischen Übung hat
+x nur dann erbracht werden, wenn die zustÃ¤ndige Stelle (DHV) Zweifel an der ausreichenden fliegerischen Ãœbung hat
 in Form eines Auszuges aus dem Flugbuch alle 3 Jahre erbracht werden
 nur von Doppelsitzerpiloten erbracht werden
 
-049. Der Nachweis der Verlängerung des Paragleiterscheines
+049. Der Nachweis der VerlÃ¤ngerung des Paragleiterscheines
 x ist nicht erforderlich
-muss in Form eines Überprüfungsfluges alle 3 Jahre erbracht werden
+muss in Form eines ÃœberprÃ¼fungsfluges alle 3 Jahre erbracht werden
 muss in Form eines Auszuges aus dem Flugbuch alle 3 Jahre erbracht werden
 muss nur von Doppelsitzerpiloten erbracht werden
 
-050. Wer ist in Deutschland berechtigt, Überprüfungsflüge für doppelsitzige Gleitschirme abzunehmen und zu bestätigen?
-x Fluglehrer und DHV-Prüfer
+050. Wer ist in Deutschland berechtigt, ÃœberprÃ¼fungsflÃ¼ge fÃ¼r doppelsitzige Gleitschirme abzunehmen und zu bestÃ¤tigen?
+x Fluglehrer und DHV-PrÃ¼fer
 Nur der DHV
 Die Vorsitzenden der DHV-Mitgliedsvereine
 Nur Fluglehrer
 
-051. Wer ist in Österreich berechtigt, Überprüfungsflüge für doppelsitzige Paragleiter abzunehmen und zu bestätigen?
-Fluglehrer und ÖAeC-Prüfer
-Nur der ÖAeC
-Die Vorsitzenden der ÖAeC-Mitgliedsvereine
+051. Wer ist in Ã–sterreich berechtigt, ÃœberprÃ¼fungsflÃ¼ge fÃ¼r doppelsitzige Paragleiter abzunehmen und zu bestÃ¤tigen?
+Fluglehrer und Ã–AeC-PrÃ¼fer
+Nur der Ã–AeC
+Die Vorsitzenden der Ã–AeC-Mitgliedsvereine
 x Nur zugelassene Flugschulen
 
-052. Das Mindestalter für den Beginn der Gleitschirmausbildung in Österreich ist
+052. Das Mindestalter fÃ¼r den Beginn der Gleitschirmausbildung in Ã–sterreich ist
 14 Jahre
 x 15 Jahre
 16 Jahre
 nicht vorgeschrieben
 
-053. Wann muss ein Überprüfungsflug absolviert werden?
-x Nur wenn die zuständige Stelle (DHV, ÖAeC) dies anordnet, weil sich, aufgrund von Vorfällen, Zweifel am praktischen Können des Lizenzinhabers ergeben haben
+053. Wann muss ein ÃœberprÃ¼fungsflug absolviert werden?
+x Nur wenn die zustÃ¤ndige Stelle (DHV, Ã–AeC) dies anordnet, weil sich, aufgrund von VorfÃ¤llen, Zweifel am praktischen KÃ¶nnen des Lizenzinhabers ergeben haben
 24 Monate nach dem Ausstellungsdatum der Lizenz
-In den letzten 12 Monaten der 36-monatigen Gültigkeit der Lizenz
-In den letzten 12 Monaten der 24-monatigen Gültigkeit der Lizenz
+In den letzten 12 Monaten der 36-monatigen GÃ¼ltigkeit der Lizenz
+In den letzten 12 Monaten der 24-monatigen GÃ¼ltigkeit der Lizenz
 
-054. Das Mindestalter für die Erteilung der Lizenz in Österreich ist
+054. Das Mindestalter fÃ¼r die Erteilung der Lizenz in Ã–sterreich ist
 14 Jahre
 x 15 Jahre
 16 Jahre
 nicht vorgeschrieben
 
 055. Die IPPI-Card
-ist ein internationaler Anerkennungsschein der CIVL/FAI und bestätigt dem Inhaber den Besitz einer nationalen Lizenz
-wird vom nationalen Verband (DHV, ÖAeC etc.) ausgestellt
-sollte stets mitgeführt werden, wenn man im Ausland Flüge macht
+ist ein internationaler Anerkennungsschein der CIVL/FAI und bestÃ¤tigt dem Inhaber den Besitz einer nationalen Lizenz
+wird vom nationalen Verband (DHV, Ã–AeC etc.) ausgestellt
+sollte stets mitgefÃ¼hrt werden, wenn man im Ausland FlÃ¼ge macht
 x Alle sind richtig
 
-056. Viele Mitgliedsverbände der FAI schreiben für ausländische Piloten mindestens Stufe 4 der IPPI-Card vor. Das ist
-x die beschränkte Lizenz bzw. der Paragleiterschein
-die unbeschränkte Lizenz bzw. der Paragleiterschein mit Überlandberechtigung
-der Höhenflugausweis bzw. die Schulungsbestätigung
+056. Viele MitgliedsverbÃ¤nde der FAI schreiben fÃ¼r auslÃ¤ndische Piloten mindestens Stufe 4 der IPPI-Card vor. Das ist
+x die beschrÃ¤nkte Lizenz bzw. der Paragleiterschein
+die unbeschrÃ¤nkte Lizenz bzw. der Paragleiterschein mit Ãœberlandberechtigung
+der HÃ¶henflugausweis bzw. die SchulungsbestÃ¤tigung
 von Land zu Land unterschiedlich
 
-057. Die Verantwortung über die Führung eines Luftfahrzeuges hat immer der
+057. Die Verantwortung Ã¼ber die FÃ¼hrung eines Luftfahrzeuges hat immer der
 Halter
-Eigentümer
+EigentÃ¼mer
 Versicherer
 x Pilot
 
-058. Das Mindestalter für den Beginn der Gleitschirmausbildung in Deutschland ist
+058. Das Mindestalter fÃ¼r den Beginn der Gleitschirmausbildung in Deutschland ist
 x 14 Jahre
 16 Jahre
 18 Jahre
 nicht vorgeschrieben
 
-059. Das Mindestalter für die Erteilung der Lizenz in Deutschland ist
+059. Das Mindestalter fÃ¼r die Erteilung der Lizenz in Deutschland ist
 14 Jahre
 x 16 Jahre
 18 Jahre
 nicht vorgeschrieben
 
-060. Pilot A kreist in einem Thermikbart linksherum. Später fliegt 100 Meter unterhalb Pilot B in die Thermik ein. Wie muss sich dieser verhalten?
+060. Pilot A kreist in einem Thermikbart linksherum. SpÃ¤ter fliegt 100 Meter unterhalb Pilot B in die Thermik ein. Wie muss sich dieser verhalten?
 Er muss die Thermik sofort wieder verlassen, weil stets nur ein Pilot in einem Thermikbart kreisen darf
-x Er muss die gleiche Drehrichtung wählen wie Pilot A
-Er muss rechtsherum in der Thermik kreisen, weil sich so beide Piloten besser beobachten können
-Für diese Situation gibt es keine Regel
+x Er muss die gleiche Drehrichtung wÃ¤hlen wie Pilot A
+Er muss rechtsherum in der Thermik kreisen, weil sich so beide Piloten besser beobachten kÃ¶nnen
+FÃ¼r diese Situation gibt es keine Regel
 
-061. Wer ist für die Überprüfung des Luftfahrzeuges vor dem Flug verantwortlich?
+061. Wer ist fÃ¼r die ÃœberprÃ¼fung des Luftfahrzeuges vor dem Flug verantwortlich?
 x Der Pilot
 Der Halter
-Der Eigentümer
+Der EigentÃ¼mer
 Der Startleiter
 
-062. Fluggelände für Gleitschirme in Deutschland
-müssen nicht zugelassen werden
-x müssen vom DHV oder der zuständigen Landesluftfahrtbehörde zugelassen werden
-müssen vom LBA zugelassen sein
-müssen immer nach § 6 LuftVG zugelassen sein
+062. FluggelÃ¤nde fÃ¼r Gleitschirme in Deutschland
+mÃ¼ssen nicht zugelassen werden
+x mÃ¼ssen vom DHV oder der zustÃ¤ndigen LandesluftfahrtbehÃ¶rde zugelassen werden
+mÃ¼ssen vom LBA zugelassen sein
+mÃ¼ssen immer nach Â§ 6 LuftVG zugelassen sein
 
-063. Fluggelände für Gleitschirme (Paragleiter) in Österreich
-müssen nicht bewilligt werden, wenn der Grundstückseigentümer dem Fliegen zustimmt
-müssen vom BMVIT oder der zuständigen Landesluftfahrtbehörde bewilligt werden
-unterliegen der Bewilligungspflicht durch den ÖAeC, wenn sie von einer Flugschule als Schul- und Übungsgelände beantragt werden
-x müssen nicht bewilligt werden, wenn der Grundstückseigentümer dem Fliegen zustimmt und unterliegen der Bewilligungspflicht durch den ÖAeC, wenn sie von einer Flugschule als Schul- und Übungsgelände beantragt werden
+063. FluggelÃ¤nde fÃ¼r Gleitschirme (Paragleiter) in Ã–sterreich
+mÃ¼ssen nicht bewilligt werden, wenn der GrundstÃ¼ckseigentÃ¼mer dem Fliegen zustimmt
+mÃ¼ssen vom BMVIT oder der zustÃ¤ndigen LandesluftfahrtbehÃ¶rde bewilligt werden
+unterliegen der Bewilligungspflicht durch den Ã–AeC, wenn sie von einer Flugschule als Schul- und ÃœbungsgelÃ¤nde beantragt werden
+x mÃ¼ssen nicht bewilligt werden, wenn der GrundstÃ¼ckseigentÃ¼mer dem Fliegen zustimmt und unterliegen der Bewilligungspflicht durch den Ã–AeC, wenn sie von einer Flugschule als Schul- und ÃœbungsgelÃ¤nde beantragt werden
 
-064. Die oberste Zivilluftfahrtbehörde in Österreich ist
-der ÖAeC
+064. Die oberste ZivilluftfahrtbehÃ¶rde in Ã–sterreich ist
+der Ã–AeC
 die Austro Control GmbH (ACG)
-x das Ministerium für Verkehr, Innovation und Technik (BMVIT)
+x das Ministerium fÃ¼r Verkehr, Innovation und Technik (BMVIT)
 die jeweilig Landesregierung
 
-065. Ein Pilot führt aus Sicherheitsgründen eine Außenlandung mit geringem Flurschaden durch. Der Pilot muss
-unverzüglich die nächstgelegene Polizeidienststelle unterrichten
-innerhalb von 7 Tagen eine Störungsmeldung an den DHV bzw. ÖAeC senden
-x dem Grundstückseigentümer/Nutzungsberechtigten Name und Adresse von Halter und Versicherer geben oder den Schaden an Ort und Stelle bezahlen
-dem Grundstückseigentümer/Nutzungsberechtigten das Fluggerät als Pfand aushändigen
+065. Ein Pilot fÃ¼hrt aus SicherheitsgrÃ¼nden eine AuÃŸenlandung mit geringem Flurschaden durch. Der Pilot muss
+unverzÃ¼glich die nÃ¤chstgelegene Polizeidienststelle unterrichten
+innerhalb von 7 Tagen eine StÃ¶rungsmeldung an den DHV bzw. Ã–AeC senden
+x dem GrundstÃ¼ckseigentÃ¼mer/Nutzungsberechtigten Name und Adresse von Halter und Versicherer geben oder den Schaden an Ort und Stelle bezahlen
+dem GrundstÃ¼ckseigentÃ¼mer/Nutzungsberechtigten das FluggerÃ¤t als Pfand aushÃ¤ndigen
 
-066. <Abbildung24.jpg> Die Abbildung zeigt die Begegnung zweier Fluggeräte im freien Luftraum. Wie haben sich die Piloten zu verhalten?
+066. <Abbildung24.jpg> Die Abbildung zeigt die Begegnung zweier FluggerÃ¤te im freien Luftraum. Wie haben sich die Piloten zu verhalten?
 Beide weichen nach links aus
 Der Gleitschirm muss nach links, der Drachen nach rechts ausweichen
-Für diese Situation gibt es keine Ausweichregel
+FÃ¼r diese Situation gibt es keine Ausweichregel
 x Beide weichen nach rechts aus
 
-067. <Abbildung25.jpg> Die Abbildung zeigt die Begegnung zweier Fluggeräte am Hang. Wie haben sich die Piloten zu verhalten?
+067. <Abbildung25.jpg> Die Abbildung zeigt die Begegnung zweier FluggerÃ¤te am Hang. Wie haben sich die Piloten zu verhalten?
 Beide weichen nach links aus
 x Der Pilot, der den Hang an seiner linken Seite hat muss nach rechts ausweichen
 Der Pilot, der den Hang an seiner rechten Seite hat muss nach links ausweichen
 Der Pilot, der den Hang an seiner linken Seite hat muss nach links ausweiche
 
-068. <Abbildung26.jpg> Die Abbildung zeigt zwei Fluggeräte im freien Luftraum auf sich kreuzenden Kursen in annähernd gleicher Höhe. Wie haben sich die Piloten zu verhalten?
+068. <Abbildung26.jpg> Die Abbildung zeigt zwei FluggerÃ¤te im freien Luftraum auf sich kreuzenden Kursen in annÃ¤hernd gleicher HÃ¶he. Wie haben sich die Piloten zu verhalten?
 x Der von links kommende muss ausweichen. Die Ausweichrichtung ist nicht vorgeschrieben
 Der von rechts kommende muss ausweichen. Die Ausweichrichtung ist nicht vorgeschrieben
 Der von rechts kommende muss nach links ausweichen
 Der von links kommende muss nach rechts ausweichen
 
-069. <Abbildung29.jpg> Die Abbildung zeigt zwei unterschiedlich schnelle Fluggeräte in annähernd gleicher Höhe hintereinander im Geradeausflug. Wie muss der Schnellere den Langsameren überholen?
+069. <Abbildung29.jpg> Die Abbildung zeigt zwei unterschiedlich schnelle FluggerÃ¤te in annÃ¤hernd gleicher HÃ¶he hintereinander im Geradeausflug. Wie muss der Schnellere den Langsameren Ã¼berholen?
 x Rechts an ihm vorbeifliegen
 Links an ihm vorbeifliegen
-Für diese Situation gibt es keine Ausweichregel
-Überholen ist nicht erlaubt
+FÃ¼r diese Situation gibt es keine Ausweichregel
+Ãœberholen ist nicht erlaubt
 
 070. Beim Kreisen in der Thermik
-müssen alle Piloten in die Richtung kreisen, die der höchste in der Thermik befindliche Pilot gewählt hat
-müssen alle Piloten rechtsherum kreisen
-müssen alle Piloten linksherum kreisen
-x müssen alle Piloten in die Richtung kreisen, die der erste Pilot der in die Thermik eingeflogen ist gewählt hat
+mÃ¼ssen alle Piloten in die Richtung kreisen, die der hÃ¶chste in der Thermik befindliche Pilot gewÃ¤hlt hat
+mÃ¼ssen alle Piloten rechtsherum kreisen
+mÃ¼ssen alle Piloten linksherum kreisen
+x mÃ¼ssen alle Piloten in die Richtung kreisen, die der erste Pilot der in die Thermik eingeflogen ist gewÃ¤hlt hat
 
 071. Wer muss beim Thermikflug ausweichen?
-Das schneller steigende Luftfahrzeug gegenüber dem langsamer steigenden Luftfahrzeug
-x Das langsamer steigende Luftfahrzeug gegenüber dem schneller steigenden Luftfahrzeug
-Der Gleitschirm gegenüber dem Hängegleiter
-Gleitschirme und Hängegleiter gegenüber den Segelflugzeugen
+Das schneller steigende Luftfahrzeug gegenÃ¼ber dem langsamer steigenden Luftfahrzeug
+x Das langsamer steigende Luftfahrzeug gegenÃ¼ber dem schneller steigenden Luftfahrzeug
+Der Gleitschirm gegenÃ¼ber dem HÃ¤ngegleiter
+Gleitschirme und HÃ¤ngegleiter gegenÃ¼ber den Segelflugzeugen
 
-072. In einem österreichischen Fluggebiet kreuzen sich die Kurse eines Gleitschirmes und eines Segelflugzeuges auf etwa gleicher Höhe. Welche Ausweichregel gilt für diesen Fall?
+072. In einem Ã¶sterreichischen Fluggebiet kreuzen sich die Kurse eines Gleitschirmes und eines Segelflugzeuges auf etwa gleicher HÃ¶he. Welche Ausweichregel gilt fÃ¼r diesen Fall?
 Beide weichen nach rechts aus
 Das von links kommende Luftfahrzeug ist ausweichpflichtig
 Das von rechts kommende Luftfahrzeug ist ausweichpflichtig
 x Das Segelflugzeug muss dem Gleitschirm ausweichen
 
-073. In einem deutschen Fluggebiet kreuzen sich die Kurse eines Gleitschirmes und eines Segelflugzeuges auf etwa gleicher Höhe. Welche Ausweichregel gilt für diesen Fall?
+073. In einem deutschen Fluggebiet kreuzen sich die Kurse eines Gleitschirmes und eines Segelflugzeuges auf etwa gleicher HÃ¶he. Welche Ausweichregel gilt fÃ¼r diesen Fall?
 Beide weichen nach rechts aus
 Das von rechts kommende Luftfahrzeug ist ausweichpflichtig
 x Das von links kommende Luftfahrzeug ist ausweichpflichtig
 Das Segelflugzeug muss dem Gleitschirm ausweichen
 
-074. Ein Ultraleichtflugzeug und ein Gleitschirm nähern sich auf kreuzendem Kurs in annähernd gleicher Höhe. Welches Luftfahrzeug muss ausweichen?
+074. Ein Ultraleichtflugzeug und ein Gleitschirm nÃ¤hern sich auf kreuzendem Kurs in annÃ¤hernd gleicher HÃ¶he. Welches Luftfahrzeug muss ausweichen?
 x Das motorgetriebene Luftfahrzeug, auch wenn es von rechts kommt
 Der Gleitschirm, wenn er von links kommt
-Beide müssen nach rechts ausweichen
-Beide müssen nach links ausweichen
+Beide mÃ¼ssen nach rechts ausweichen
+Beide mÃ¼ssen nach links ausweichen
 
 075. Im Landeanflug
-x hat das höher fliegende Luftfahrzeug dem tiefer fliegenden Luftfahrzeug auszuweichen
-hat das tiefer fliegende Luftfahrzeug dem höher fliegenden Luftfahrzeug auszuweichen
+x hat das hÃ¶her fliegende Luftfahrzeug dem tiefer fliegenden Luftfahrzeug auszuweichen
+hat das tiefer fliegende Luftfahrzeug dem hÃ¶her fliegenden Luftfahrzeug auszuweichen
 hat das langsamer fliegende Luftfahrzeug dem schneller fliegenden Luftfahrzeug auszuweichen
 hat das schneller fliegende Luftfahrzeug dem langsamer fliegenden Luftfahrzeug auszuweichen
 
 076. Unmittelbar vor dem Einleiten einer Kurve
-muss der Pilot einen Blick in den Rückspiegel werfen
-muss der Pilot laut rufen, um andere auf sein bevorstehendes Kurvenmanöver aufmerksam zu machen
-x muss sich der Pilot davon überzeugen, dass der geplante Flugweg frei ist und keine Kollisionsgefahr besteht
-muss der Pilot durch Handzeichen sein Vorhaben anderen Piloten ankündigen
+muss der Pilot einen Blick in den RÃ¼ckspiegel werfen
+muss der Pilot laut rufen, um andere auf sein bevorstehendes KurvenmanÃ¶ver aufmerksam zu machen
+x muss sich der Pilot davon Ã¼berzeugen, dass der geplante Flugweg frei ist und keine Kollisionsgefahr besteht
+muss der Pilot durch Handzeichen sein Vorhaben anderen Piloten ankÃ¼ndigen
 
-077. Ein Pilot führt einen Schnellabstieg mit einer Steilspirale durch. Im Luftraum unterhalb befinden sich mehrere Piloten. Welche Aussagen sind hinsichtlich der Ausweichpflicht korrekt?
-Die unterhalb fliegenden Piloten sind ausweichpflichtig, weil der Pilot im Schnellabstieg "erkennbar in seiner Manövrierfähigkeit behindert ist"
+077. Ein Pilot fÃ¼hrt einen Schnellabstieg mit einer Steilspirale durch. Im Luftraum unterhalb befinden sich mehrere Piloten. Welche Aussagen sind hinsichtlich der Ausweichpflicht korrekt?
+Die unterhalb fliegenden Piloten sind ausweichpflichtig, weil der Pilot im Schnellabstieg "erkennbar in seiner ManÃ¶vrierfÃ¤higkeit behindert ist"
 Hier gilt "rechts vor links"
-x Der Pilot im Schnellabstieg ist verpflichtet, während der Steilspirale jede Kollisionsgefahr auszuschließen
+x Der Pilot im Schnellabstieg ist verpflichtet, wÃ¤hrend der Steilspirale jede Kollisionsgefahr auszuschlieÃŸen
 Das von oben kommende Luftfahrzeug ist stets vorflugberechtigt
 
-078. Der Sicherheits-Mindestabstand von 50 Meter bei Flügen in Deutschland gilt für
-Straßen mit Fahrverkehr, Eisenbahnlinien
+078. Der Sicherheits-Mindestabstand von 50 Meter bei FlÃ¼gen in Deutschland gilt fÃ¼r
+StraÃŸen mit Fahrverkehr, Eisenbahnlinien
 Skipisten in Betrieb, Lifte und Seilbahnen in Betrieb
 Bergbahnen
 x Alle sind richtig
 
-079. Der Sicherheits-Mindestabstand von 100 Meter bei Flügen in Deutschland gilt für
+079. Der Sicherheits-Mindestabstand von 100 Meter bei FlÃ¼gen in Deutschland gilt fÃ¼r
 x Autobahnen
-Straßen mit Fahrverkehr, Eisenbahnlinien
+StraÃŸen mit Fahrverkehr, Eisenbahnlinien
 Skipisten in Betrieb, Lifte und Seilbahnen in Betrieb
 Bergbahnen
 
 080. Der Sicherheits-Mindestabstand zu anderen Luftfahrzeugen muss
 mindestens 50 Meter betragen
-x ausreichend groß sein
+x ausreichend groÃŸ sein
 mindestens 100 Meter betragen
-zu Gleitschirmen 50 Meter, zu Hängegleitern 100 Meter betragen
+zu Gleitschirmen 50 Meter, zu HÃ¤ngegleitern 100 Meter betragen
 
-081. Das Überfliegen von Personen, Gebäuden und Freileitungen ist in Österreich
+081. Das Ãœberfliegen von Personen, GebÃ¤uden und Freileitungen ist in Ã–sterreich
 mit ausreichendem Abstand erlaubt
 mit einem Mindestabstand von 100 Meter erlaubt
 x mit einem Mindestabstand von 50 Meter erlaubt
-eine Verwaltungsübertretung
+eine VerwaltungsÃ¼bertretung
 
-082. Gegenüber befahrenen Skipisten, Seilbahnen und Skiliften ist in Österreich
+082. GegenÃ¼ber befahrenen Skipisten, Seilbahnen und Skiliften ist in Ã–sterreich
 x ein Mindestabstand von 50 Meter einzuhalten
 ein Mindestabstand von 100 Meter einzuhalten
 ein ausreichender Abstand einzuhalten
@@ -497,67 +497,67 @@ mit ausreichendem Abstand unterfliegen
 x nicht unterfliegen
 
 084. In Deutschland ist Kunstflug definiert als
-x Flugzustände mit einer Neigung von mehr als 135 Grad um die Längs- oder Querachse
-Flugzustände mit einer Neigung von mehr als 90 Grad um die Längs- oder Querachse oder mit gegenläufiger Flügelanströmung
-Flugzustände mit einer Neigung von mehr als 180 Grad um die Längs- oder Querachse
-Flugzustände die außerhalb des stationären Geradeaus- und Kurvenflugs liegen
+x FlugzustÃ¤nde mit einer Neigung von mehr als 135 Grad um die LÃ¤ngs- oder Querachse
+FlugzustÃ¤nde mit einer Neigung von mehr als 90 Grad um die LÃ¤ngs- oder Querachse oder mit gegenlÃ¤ufiger FlÃ¼gelanstrÃ¶mung
+FlugzustÃ¤nde mit einer Neigung von mehr als 180 Grad um die LÃ¤ngs- oder Querachse
+FlugzustÃ¤nde die auÃŸerhalb des stationÃ¤ren Geradeaus- und Kurvenflugs liegen
 
 085. Kunstflug ist
-für Inhaber der unbeschränkten Lizenz bzw. des Paragleiterscheines mit Überlandberechtigung erlaubt
-über Wasser erlaubt
-erlaubt, wenn die Betriebsgrenzen nicht überschritten werden
+fÃ¼r Inhaber der unbeschrÃ¤nkten Lizenz bzw. des Paragleiterscheines mit Ãœberlandberechtigung erlaubt
+Ã¼ber Wasser erlaubt
+erlaubt, wenn die Betriebsgrenzen nicht Ã¼berschritten werden
 x in Deutschland verboten
 
-086. Passagierflüge mit Gleitschirmen
-dürfen ausschließlich von Fluglehrern durchgeführt werden
-x dürfen nur von Piloten durchgeführt werden, die eine Passagierflugberechtigung besitzen
-Dürfen von besonders erfahrenen Piloten mit unbeschränkter Lizenz bzw. Paragleiterschein mit Überlandberechtigung durchgeführt werden
+086. PassagierflÃ¼ge mit Gleitschirmen
+dÃ¼rfen ausschlieÃŸlich von Fluglehrern durchgefÃ¼hrt werden
+x dÃ¼rfen nur von Piloten durchgefÃ¼hrt werden, die eine Passagierflugberechtigung besitzen
+DÃ¼rfen von besonders erfahrenen Piloten mit unbeschrÃ¤nkter Lizenz bzw. Paragleiterschein mit Ãœberlandberechtigung durchgefÃ¼hrt werden
 sind verboten
 
 087. Zum Passagierfliegen
-x dürfen nur Gleitschirme verwendet werden die für doppelsitziges Fliegen mustergeprüft sind
-dürfen auch einsitzig mustergeprüfte Gleitschirme verwendet werden, vorausgesetzt die Betriebsgrenzen (Startgewicht) stimmen
-dürfen Gleitschirme grundsätzlich nicht verwendet werden
-dürfen nur Gleitschirme der LTF-Klasse A (1) verwendet werden
+x dÃ¼rfen nur Gleitschirme verwendet werden die fÃ¼r doppelsitziges Fliegen mustergeprÃ¼ft sind
+dÃ¼rfen auch einsitzig mustergeprÃ¼fte Gleitschirme verwendet werden, vorausgesetzt die Betriebsgrenzen (Startgewicht) stimmen
+dÃ¼rfen Gleitschirme grundsÃ¤tzlich nicht verwendet werden
+dÃ¼rfen nur Gleitschirme der LTF-Klasse A (1) verwendet werden
 
-088. Gewerbsmäßiges Passagierfliegen ist in Österreich
-x nur im Rahmen eines Luftbeförderungsunternehmens erlaubt
+088. GewerbsmÃ¤ÃŸiges Passagierfliegen ist in Ã–sterreich
+x nur im Rahmen eines LuftbefÃ¶rderungsunternehmens erlaubt
 nur im Rahmen einer zugelassenen Flugschule erlaubt
 verboten
-grundsätzlich erlaubt
+grundsÃ¤tzlich erlaubt
 
-089. Die Voraussetzung für den Ausbildungsbeginn zur Passagierberechtigung in Österreich sind:
-Unbeschränkte Lizenz bzw. Paragleiterschein mit Überlandberechtigung, 300 Flüge, polizeiliches Führungszeugnis
-Unbeschränkte Lizenz bzw. Paragleiterschein mit Überlandberechtigung, 200 Flüge
-x Beschränkte Lizenz bzw. Paragleiterschein, 100 Höhenflüge, Auswahlprüfung, in Österreich zusätzlich fliegerärztlicher Befund
-Beschränkte Lizenz bzw. Paragleiterschein, Auswahlprüfung, fliegerärztlicher Befund
+089. Die Voraussetzung fÃ¼r den Ausbildungsbeginn zur Passagierberechtigung in Ã–sterreich sind:
+UnbeschrÃ¤nkte Lizenz bzw. Paragleiterschein mit Ãœberlandberechtigung, 300 FlÃ¼ge, polizeiliches FÃ¼hrungszeugnis
+UnbeschrÃ¤nkte Lizenz bzw. Paragleiterschein mit Ãœberlandberechtigung, 200 FlÃ¼ge
+x BeschrÃ¤nkte Lizenz bzw. Paragleiterschein, 100 HÃ¶henflÃ¼ge, AuswahlprÃ¼fung, in Ã–sterreich zusÃ¤tzlich fliegerÃ¤rztlicher Befund
+BeschrÃ¤nkte Lizenz bzw. Paragleiterschein, AuswahlprÃ¼fung, fliegerÃ¤rztlicher Befund
 
 090. Das alpine Notsignal
 darf jeder Pilot in einer Notlage abgeben
-bedeutet, dass schwere Verletzungen oder unmittelbare Gefahr besteht und dass Hilfe benötigt wird
+bedeutet, dass schwere Verletzungen oder unmittelbare Gefahr besteht und dass Hilfe benÃ¶tigt wird
 Kann sowohl optisch als auch akustisch gegeben werden
 x Alle sind richtig
 
 091. Wer bei einem Unfall anwesend ist und keine Hilfe leistet bzw. die Hilfe verweigert
-macht sich einer Ordnungswidrigkeit/Verwaltungsübertretung schuldig
+macht sich einer Ordnungswidrigkeit/VerwaltungsÃ¼bertretung schuldig
 x macht sich einer Straftat schuldig
-verstößt grob gegen die Menschenwürde
-kann nur belangt werden, wenn er beruflich (z.B. Arzt, Sanitäter) zur Hilfeleistung verpflichtet wäre
+verstÃ¶ÃŸt grob gegen die MenschenwÃ¼rde
+kann nur belangt werden, wenn er beruflich (z.B. Arzt, SanitÃ¤ter) zur Hilfeleistung verpflichtet wÃ¤re
 
-092. Flugunfälle von deutschen Piloten im In- und Ausland
-x müssen dem DHV gemeldet werden
-müssen dem LBA gemeldet werden
-müssen dem BMVBW gemeldet werden
+092. FlugunfÃ¤lle von deutschen Piloten im In- und Ausland
+x mÃ¼ssen dem DHV gemeldet werden
+mÃ¼ssen dem LBA gemeldet werden
+mÃ¼ssen dem BMVBW gemeldet werden
 Alle sind richtig
 
-093. Ein Flugunfall, der sich im Schul- und Übungsbereich einer österreichischen Flugschule ereignet, muss gemeldet werden:
+093. Ein Flugunfall, der sich im Schul- und Ãœbungsbereich einer Ã¶sterreichischen Flugschule ereignet, muss gemeldet werden:
 Der Polizei
 Der Flugschule
 Der Austro Control GmbH
 x Alle sind richtig
 
 094. Wer mit dem Gleitschirm fliegt, obwohl er infolge Alkoholgenusses in der Wahrnehmung seiner Aufgaben behindert ist, handelt
-leicht fahrlässig aber nicht strafbar
+leicht fahrlÃ¤ssig aber nicht strafbar
 leichtsinnig aber nicht strafbar
 x strafbar
 nicht gegen luftrechtliche Vorschriften
@@ -565,56 +565,56 @@ nicht gegen luftrechtliche Vorschriften
 095. Welche Haftungsregel trifft zu?
 Bei schuldhafter Schadensverursachung ist der Pilot zum Schadenersatz verpflichtet
 Auch ohne Verschulden kann der Halter bzw. der Versicherer zum Schadenersatz verpflichtet sein
-In der Luftfahrt gibt es sowohl Verschuldens- als auch Gefährdungshaftung
+In der Luftfahrt gibt es sowohl Verschuldens- als auch GefÃ¤hrdungshaftung
 x Alle sind richtig
 
 096. Die Halterhaftpflichtversicherung dient zur Deckung von Schadenersatzforderungen aus der Haftung
-für Personen und Sachen die im Luftfahrzeug befördert werden
-x für Personen und Sachen die nicht im Luftfahrzeug befördert werden
-für Personen und Sachen die im Luftfahrzeug zu Schaden kommen
-nur für Personen, die nicht im Luftfahrzeug befördert werden
+fÃ¼r Personen und Sachen die im Luftfahrzeug befÃ¶rdert werden
+x fÃ¼r Personen und Sachen die nicht im Luftfahrzeug befÃ¶rdert werden
+fÃ¼r Personen und Sachen die im Luftfahrzeug zu Schaden kommen
+nur fÃ¼r Personen, die nicht im Luftfahrzeug befÃ¶rdert werden
 
-097. Welche Sicherheitsausrüstung ist für Flüge in Deutschland vorgeschrieben?
+097. Welche SicherheitsausrÃ¼stung ist fÃ¼r FlÃ¼ge in Deutschland vorgeschrieben?
 Rettungsschirm und Helm
 Rettungsschirm, Helm, Rettungsschnur
-x Rettungsschirm, Helm, Rettungsschnur, geprüfter Rückenschutz
-Rettungsschirm, Helm, Rettungsschnur, geprüfter Rückenschutz, Signalraketen
+x Rettungsschirm, Helm, Rettungsschnur, geprÃ¼fter RÃ¼ckenschutz
+Rettungsschirm, Helm, Rettungsschnur, geprÃ¼fter RÃ¼ckenschutz, Signalraketen
 
-098. Für Höhenflüge in Österreich sind unter anderem vorgeschrieben:
+098. FÃ¼r HÃ¶henflÃ¼ge in Ã–sterreich sind unter anderem vorgeschrieben:
 Helm, Rettungsschirm, Geschwindigkeitsmesser
-Helm, Rettungsschirm, Höhenmesser
-x Helm, Rettungsschirm, geeigneter Rückenschutz
-Nur ein Rettungsgerät
+Helm, Rettungsschirm, HÃ¶henmesser
+x Helm, Rettungsschirm, geeigneter RÃ¼ckenschutz
+Nur ein RettungsgerÃ¤t
 
-099. Für Flüge mit Windenschleppstart in Deutschland und Österreich
-ist eine Zusatzausbildung in einer Flugschule und eine Prüfung vor dem DHV bzw. ÖAeC erforderlich
+099. FÃ¼r FlÃ¼ge mit Windenschleppstart in Deutschland und Ã–sterreich
+ist eine Zusatzausbildung in einer Flugschule und eine PrÃ¼fung vor dem DHV bzw. Ã–AeC erforderlich
 ist eine Einweisung durch einen erfahrenen Piloten erforderlich
 x ist eine Einweisung in einer Flugschule und die Eintragung der Startart in die Lizenz erforderlich
-ist die normale Lizenz ebenfalls gültig
+ist die normale Lizenz ebenfalls gÃ¼ltig
 
-100. Wofür steht die Abkürzung ICAO?
+100. WofÃ¼r steht die AbkÃ¼rzung ICAO?
 Internationaler Aeroclub
 x International Civil Aviation Organisation
 Federation Aeronautique International
 Internationaler Pilotenverband
 
-101. Zur Luftraumgliederung über Deutschland und Österreich ist folgende Aussage richtig:
+101. Zur Luftraumgliederung Ã¼ber Deutschland und Ã–sterreich ist folgende Aussage richtig:
 Luftraum E und Luftraum G sind kontrolliert
 x Luftraum G ist unkontrolliert
 Luftraum D und E sind unkontrolliert
-Sie hat für das Gleitschirmfliegen keine Bedeutung
+Sie hat fÃ¼r das Gleitschirmfliegen keine Bedeutung
 
-102. Kontrollierte Lufträume sind generell
+102. Kontrollierte LuftrÃ¤ume sind generell
 der Luftraum E
 der Luftraum C
 der Luftraum D
 x Alle sind richtig
 
 103. Die ICAO-Luftfahrtkarte
-x gibt die wichtigsten Lufträume und Flugbeschränkungsgebiete bekannt
-ist nicht für Gleitschirmflieger bestimmt
-ist nur für die Verkehrsluftfahrt von Belang
-ist auch als Straßenkarte gut verwendbar
+x gibt die wichtigsten LuftrÃ¤ume und FlugbeschrÃ¤nkungsgebiete bekannt
+ist nicht fÃ¼r Gleitschirmflieger bestimmt
+ist nur fÃ¼r die Verkehrsluftfahrt von Belang
+ist auch als StraÃŸenkarte gut verwendbar
 
 104. Der Luftraum G in Deutschland
 beginnt bei GND
@@ -622,54 +622,54 @@ reicht bis zum Luftraum E
 ist unkontrollierter Luftraum
 x Alle sind richtig
 
-105. Ständige Erdsicht, 1,5 km Flugsicht und frei von Wolken, sind die Sichtflugminima
-für den Luftraum E in Deutschland
-für den Luftraum E in Österreich
-x für den Luftraum G in Deutschland und den Luftraum G unterhalb von 900 m MSL bzw. 300 m GND in Österreich
-für alle Flüge nach Sichtflugregeln
+105. StÃ¤ndige Erdsicht, 1,5 km Flugsicht und frei von Wolken, sind die Sichtflugminima
+fÃ¼r den Luftraum E in Deutschland
+fÃ¼r den Luftraum E in Ã–sterreich
+x fÃ¼r den Luftraum G in Deutschland und den Luftraum G unterhalb von 900 m MSL bzw. 300 m GND in Ã–sterreich
+fÃ¼r alle FlÃ¼ge nach Sichtflugregeln
 
 106. Flugsicht 5 km, horizontaler Wolkenabstand von 1500 Meter, vertikaler Wolkenabstand von 300
 Meter sind die Sichtflugminima
-für den Luftraum G in Deutschland
-für den gesamten Luftraum G in Österreich
-für den Luftraum G in Deutschland und den Luftraum G unterhalb von 900 m MSL bzw. 300 m GND in Österreich
-x für den Luftraum G zwischen 900 m MSL und 3050 MSL, bzw. 300 m GND und 3050 m MSL in Österreich
+fÃ¼r den Luftraum G in Deutschland
+fÃ¼r den gesamten Luftraum G in Ã–sterreich
+fÃ¼r den Luftraum G in Deutschland und den Luftraum G unterhalb von 900 m MSL bzw. 300 m GND in Ã–sterreich
+x fÃ¼r den Luftraum G zwischen 900 m MSL und 3050 MSL, bzw. 300 m GND und 3050 m MSL in Ã–sterreich
 
 107. Flugsicht 8 km, horizontaler Wolkenabstand von 1500 Meter, vertikaler Wolkenabstand von 300 Meter sind die Sichtflugminima
-x für den Luftraum E in Deutschland und den Luftraum G oberhalb von 10.000 ft MSL in Österreich
-für den gesamten Luftraum G in Österreich
-für den gesamten Luftraum G in Deutschland
-für den Luftraum G in Deutschland und den Luftraum G unterhalb von 900 m MSL bzw. 300 m GND in Österreich
+x fÃ¼r den Luftraum E in Deutschland und den Luftraum G oberhalb von 10.000 ft MSL in Ã–sterreich
+fÃ¼r den gesamten Luftraum G in Ã–sterreich
+fÃ¼r den gesamten Luftraum G in Deutschland
+fÃ¼r den Luftraum G in Deutschland und den Luftraum G unterhalb von 900 m MSL bzw. 300 m GND in Ã–sterreich
 
 108. Welche Aussagen zum Luftraum E in Deutschland sind richtig?
 Luftraum E ist kontrollierter Luftraum
 Luftraum E beginnt oberhalb des Luftraumes G (1000-1700-2500 ft GND)
-Für Gleitschirme besteht Einflugmöglichkeit wenn die Sichtflugminima für kontrollierten Luftraum gegeben sind
+FÃ¼r Gleitschirme besteht EinflugmÃ¶glichkeit wenn die Sichtflugminima fÃ¼r kontrollierten Luftraum gegeben sind
 x Alle sind richtig
 
-109. Welche Aussagen zum Luftraum E in Österreich sind richtig?
-In Österreich dürfen Gleitschirme nicht in den Luftraum E einfliegen
+109. Welche Aussagen zum Luftraum E in Ã–sterreich sind richtig?
+In Ã–sterreich dÃ¼rfen Gleitschirme nicht in den Luftraum E einfliegen
 x In Luftraum E darf unter Beachtung der erforderlichen Sichtflugminima und der Spezial Rules Aera eingeflogen werden
-In Österreich gibt es keinen Luftraum E
-Für den Einflug in den Luftraum E bedarf es ständigen Funkkontakt und einer Freigabe der Flugverkehrskontrolle
+In Ã–sterreich gibt es keinen Luftraum E
+FÃ¼r den Einflug in den Luftraum E bedarf es stÃ¤ndigen Funkkontakt und einer Freigabe der Flugverkehrskontrolle
 
 110. Im Luftraum D (CTR)
-darf grundsätzlich nicht eingeflogen werden
+darf grundsÃ¤tzlich nicht eingeflogen werden
 x darf nur nach Freigabe durch die jeweilige Flugsicherungsstelle eingeflogen werden
 darf eingeflogen werden, denn es handelt sich um unkontrollierten Luftraum
 darf nur nach Instrumentenflugregeln eingeflogen werden
 
-111. ED-R (Deutschland) bzw. LO-R (Österreich)
-x sind Flugbeschränkungszonen, Gleitschirme dürfen in den Aktivitätszeiten nicht einfliegen
-sind Kontrollzonen, Gleitschirme dürfen nicht einfliegen
-sind Gebiete mit Transponderpflicht, Gleitschirme dürfen nicht einfliegen
-sind unkontrollierter Luftraum, Gleitschirme dürfen einfliegen
+111. ED-R (Deutschland) bzw. LO-R (Ã–sterreich)
+x sind FlugbeschrÃ¤nkungszonen, Gleitschirme dÃ¼rfen in den AktivitÃ¤tszeiten nicht einfliegen
+sind Kontrollzonen, Gleitschirme dÃ¼rfen nicht einfliegen
+sind Gebiete mit Transponderpflicht, Gleitschirme dÃ¼rfen nicht einfliegen
+sind unkontrollierter Luftraum, Gleitschirme dÃ¼rfen einfliegen
 
-112. ED-D (Deutschland) und LO-D (Österreich)
-sind Beschränkungs- und Sperrgebiete, Gleitschirme dürfen nicht einfliegen
-sind Kontrollzonen, Gleitschirme dürfen nicht einfliegen
-sind Gebiete mit Transponderpflicht, Gleitschirme dürfen nicht einfliegen
-x sind Gefahrengebiete, Gleitschirmpiloten können auf eigenes Risiko einfliegen
+112. ED-D (Deutschland) und LO-D (Ã–sterreich)
+sind BeschrÃ¤nkungs- und Sperrgebiete, Gleitschirme dÃ¼rfen nicht einfliegen
+sind Kontrollzonen, Gleitschirme dÃ¼rfen nicht einfliegen
+sind Gebiete mit Transponderpflicht, Gleitschirme dÃ¼rfen nicht einfliegen
+x sind Gefahrengebiete, Gleitschirmpiloten kÃ¶nnen auf eigenes Risiko einfliegen
 
 113. Erdsicht ist die Sicht
 x vom Luftfahrzeug zum Boden
@@ -683,8 +683,8 @@ in Richtung der Start- und Landebahn
 vom Luftfahrzeug zum Boden
 x aus dem Luftfahrzeug in Flugrichtung
 
-115. Nach einer Notlandung versäumt es der Pilot, Polizei oder Bergrettung davon zu informieren, dass er unverletzt geblieben ist. Die Kosten für die eingeleitete Such- und Bergeaktion
-können dem Piloten nicht berechnet werden
+115. Nach einer Notlandung versÃ¤umt es der Pilot, Polizei oder Bergrettung davon zu informieren, dass er unverletzt geblieben ist. Die Kosten fÃ¼r die eingeleitete Such- und Bergeaktion
+kÃ¶nnen dem Piloten nicht berechnet werden
 x muss der Pilot voll bezahlen
 zahlt der Staat
-zahlt der DHV bzw. der ÖAeC
+zahlt der DHV bzw. der Ã–AeC
