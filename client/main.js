@@ -18,8 +18,8 @@ Meteor.startup(function () {
 
     
     function questionsLoaded(data){
-        // Set Question data
-        Session.set( "questions", data);
+        // Set Question data (select random questions)
+        Session.set( "questions", selectQuestions(data,10));
         // Switch to question state
         Session.set( "state", "questions" );
         
@@ -73,17 +73,17 @@ Template.questions.helpers({
 
     get_question() {
         var currQuestion = Session.get("currQuestion");
-        var questions = selectQuestions(Session.get( "questions" ),1);
+        var questions = Session.get( "questions" );
         Session.set( "maxQuestion", questions.length-1);
         return questions[currQuestion];
     },
     
     curr_question() {
-        return Session.get("currQuestion");
+        return Session.get("currQuestion")+1;
     },
     
     max_question() {
-        return Session.get("maxQuestion");
+        return Session.get("maxQuestion")+1;
     },
     
     correct_questions() {

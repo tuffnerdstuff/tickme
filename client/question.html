@@ -1,6 +1,7 @@
 <template name ="question">
     <h1>{{q.topic}}</h1>
-    <h2>{{q.id}}. {{q.question}}</h2>
+    <h2>[{{currQuestion}}/{{maxQuestion}}]</h2>
+    <p>{{q.id}}. {{q.question}}</p>
     {{#if q.image}}
 	<img src="questions/Bilder/{{q.image}}"/>
     {{/if}}
