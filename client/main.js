@@ -111,5 +111,17 @@ Template.questions.events({
         // Hide myself
         $('#btnNext').addClass('hidden');
     },
+    
+    'click #btnFinish'(){
+        
+        // Increment correct answers
+        if (Session.get( "currQuestionCorrect"))
+        {
+            Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
+        }
+        
+        // App state: Finished
+        Session.set( "state", "finished" );
+    },
 
 });
