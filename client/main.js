@@ -7,6 +7,7 @@ Session.set( "state", "loading" );
 
 // Questions (loaded via ajax)
 Session.set( "questions", undefined);
+Session.set( "selectedQuestions", undefined);
 Session.set( "currQuestion", 0);
 Session.set( "maxQuestion", 0);
 Session.set( "correctQuestions", 0);
@@ -35,11 +36,44 @@ Template.root.helpers({
     },
 });
 
+function selectQuestions(topics, questionsPerTopic) {
+    var selectedQuestions = []
+    
+    // Iterate over topics
+    topics.forEach(function(topic){
+        var topicQuestions = selectTopicQuestions(topic.questions, questionsPerTopic);
+        topicQuestions.forEach(function(q){
+            // add topic name
+            q.topic = topic.topic;
+            selectedQuestions.push(q);
+        });
+    });
+    
+    return selectedQuestions;
+};
+
+function selectTopicQuestions(list, count) {
+    var selElems = [];
+    elemsLeft = list.length;
+    list.forEach(function(e){
+        var p = count / elemsLeft;
+        console.log(p);
+        if (p >= Math.random())
+        {
+            selElems.push(e);
+            count--;
+        }
+        elemsLeft--;
+    });
+    return selElems;
+}
+
+
 Template.questions.helpers({
 
     get_question() {
         var currQuestion = Session.get("currQuestion");
-        var questions = Session.get( "questions" )[0].questions;
+        var questions = selectQuestions(Session.get( "questions" ),1);
         Session.set( "maxQuestion", questions.length-1);
         return questions[currQuestion];
     },
