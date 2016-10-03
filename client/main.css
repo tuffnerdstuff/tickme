@@ -6,3 +6,16 @@
 .visible {
     visibility: visible;
 }
+
+.correct {
+    color: green;
+    font-weight: bold;
+}
+
+.wrong, .wrong_given {
+    color: red;
+}
+
+.wrong_given {
+    font-weight: bold;
+}

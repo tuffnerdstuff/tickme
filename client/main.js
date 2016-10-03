@@ -7,10 +7,11 @@ Session.set( "state", "loading" );
 
 // Questions (loaded via ajax)
 Session.set( "questions", undefined);
-Session.set( "selectedQuestions", undefined);
 Session.set( "currQuestion", 0);
 Session.set( "maxQuestion", 0);
 Session.set( "correctQuestions", 0);
+Session.set( "incorrectQuestions", []);
+Session.set( "currentIncorrectAnswer", undefined);
 Session.set( "currQuestionCorrect", false);
 
 Meteor.startup(function () {
@@ -98,6 +99,17 @@ function approveAnswer(){
     {
         Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
     }
+    
+    // Append current incorrect answer
+    var currentIncorrectAnswer = Session.get("currentIncorrectAnswer");
+    if (currentIncorrectAnswer)
+    {
+        var incorrectQuestions = Session.get('incorrectQuestions');
+        incorrectQuestions.push(currentIncorrectAnswer);
+        Session.set( "incorrectQuestions", incorrectQuestions);
+    }
+    
+    
 }
 
 Template.questions.events({

@@ -7,14 +7,21 @@ Template.question.events({
 		
 		if (this.answer.correct == "true")
 		{
-			//alert("Stimmt!");
+			// Correct Answer
             Session.set( "currQuestionCorrect", true);
-            //Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
+            
+            // Reset current incorrect question data
+            Session.set("currentIncorrectAnswer",undefined);
+            
 		}
 		else
 		{
+            // Wrong answer
             Session.set( "currQuestionCorrect", false);
-			//alert("Quatsch!");
+            
+            // Set current incorrect question data
+            Session.set("currentIncorrectAnswer",{"question":Session.get( "currQuestion"),"answer":this.questionIndex});
+            
 		}
         
         

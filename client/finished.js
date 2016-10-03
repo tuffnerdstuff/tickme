@@ -14,5 +14,17 @@ Template.finished.helpers({
     correct_rel() {
         return Math.round((Session.get("correctQuestions")/(Session.get("maxQuestion")+1)) * 100) ;
     },
+    
+    questions_incorrect() {
+        var questions = Session.get( "questions" );
+        var incorrectQuestions = Session.get("incorrectQuestions");
+        var completeIncorrectQuestions = [];
+        incorrectQuestions.forEach(function(q){
+            var compQ = questions[q.question];
+            compQ.answers[q.answer].given = "true";
+            completeIncorrectQuestions.push(compQ);
+        });
+        return completeIncorrectQuestions;
+    },
 
 });

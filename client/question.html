@@ -8,7 +8,7 @@
     <fieldset>
 	<ul>
 	{{#each a in q.answers}}
-		{{> answer answer=a currQuestion=currQuestion maxQuestion=maxQuestion}}
+		{{> answer answer=a currQuestion=currQuestion maxQuestion=maxQuestion questionIndex=@index}}
 	{{/each}}
 	</ul>
     </fieldset>
