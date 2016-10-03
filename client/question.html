@@ -1,19 +1,45 @@
 <template name ="question">
-    <h1>{{q.topic}}</h1>
-    <h2>[{{currQuestion}}/{{maxQuestion}}]</h2>
-    <p>{{q.id}}. {{q.question}}</p>
-    {{#if q.image}}
-	<img class="question_image" src="questions/Bilder/{{q.image}}"/>
-    {{/if}}
-    <fieldset>
-	<ul>
-	{{#each a in q.answers}}
-		{{> answer answer=a currQuestion=currQuestion maxQuestion=maxQuestion questionIndex=@index}}
-	{{/each}}
-	</ul>
-    </fieldset>
+    
+    <div class="ui indicating progress" data-value="1" data-total="{{maxQuestion}}" id="progress">
+      <div class="bar">
+        <div class="progress"></div>
+      </div>
+      <div class="label">{{currQuestion}}/{{maxQuestion}}</div>
+    </div>
+    
+    <div class="ui items segment" id="question_container">
+        
+    <div class="item">
+        
+        {{#if q.image}}
+        <div class="image"><img class="question_image" src="questions/Bilder/{{q.image}}"/></div>
+        {{/if}}
+        
+        <div class="content">
+        <h1 class="header">{{q.topic}}</h1>
+        <p class="description">{{q.id}}. {{q.question}}</p>
+
+        <div class="extra content">
+        <div class="ui form">
+        {{#each a in q.answers}}
+            {{> answer answer=a currQuestion=currQuestion maxQuestion=maxQuestion questionIndex=@index}}
+        {{/each}}
+        </div>
+        </div>
+        
+        </div>
+    </div>
+    
+    </div>
 </template>
 
 <template name ="answer">
-	<li><input type="radio" name="answer" class="answer"/>{{answer.answer}}</li>
+
+        <div class="field">
+            <div class="ui radio checkbox">
+                
+                <input type="radio" name="answer" id="answer{{questionIndex}}" class="answer"/>
+                <label for="answer{{questionIndex}}">{{answer.answer}}</label>
+            </div>
+        </div>
 </template>

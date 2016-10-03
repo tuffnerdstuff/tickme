@@ -1,24 +1,24 @@
 <template name ="finished">
     <h1>Ergebnis: {{correct_abs}} von {{questions_total}} richtig ({{correct_rel}}%)</h1>
     {{#if questions_incorrect}}
-        <ul>
+        <div class="ui list">
             {{#each q in questions_incorrect}}
-            <li> {{q.topic}}: {{q.question}}
-                <ul>
+            <div class="item"> {{q.topic}}: {{q.question}}
+                <div class="list">
                     {{#each a in q.answers}}
                         {{#if $eq a.correct "true" }}
-                            <li class="correct">Richtig: {{a.answer}}</li>
+                            <div class="item correct">Richtig: {{a.answer}}</div>
                         {{else}}
                             {{#if a.given}}
-                                <li class="wrong_given">Falsch: {{a.answer}} (Deine Antwort)</li>
+                                <div class="item wrong_given">Falsch: {{a.answer}} (Deine Antwort)</div>
                             {{else}}
-                                <li class="wrong">Falsch: {{a.answer}}</li>
+                                <div class="item wrong">Falsch: {{a.answer}}</div>
                             {{/if}}
                         {{/if}}
                     {{/each}}
-                </ul>
-            </li>
+                </div>
+            </div>
             {{/each}}
-        </ul>
+        </div>
     {{/if}}
 </template>

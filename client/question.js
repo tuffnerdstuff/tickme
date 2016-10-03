@@ -1,6 +1,9 @@
 import { Template } from 'meteor/templating';
 import './question.html';
 
+Template.question.onRendered(function() {
+    $('#progress').progress({showActivity: false});
+});
 
 Template.question.events({
 	'click .answer'(event, template) {

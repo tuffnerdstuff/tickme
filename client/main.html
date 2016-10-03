@@ -1,5 +1,6 @@
 <head>
 <title>Fragen über Fragen</title>
+<meta name="viewport" content="width=device-width, maximum-scale=1, user-scalable=yes" />
 </head>
 
     <body>
@@ -8,20 +9,22 @@
 
 <template name ="root">
 
-    {{> Template.dynamic template=state_template}}
+    <div class="ui container" id="root_container">
+        {{> Template.dynamic template=state_template}}
+    </div>
 
 </template>
 
 <template name ="loading">
-    <h1>Loading...</h1>
+    <div class="ui active dimmer">
+    <div class="ui text loader">Loading</div>
+    </div>
 </template>
 
 <template name ="questions">
-    <p>
-        {{> question q=get_question currQuestion=curr_question maxQuestion=max_question }}
-	</p>
+    {{> question q=get_question currQuestion=curr_question maxQuestion=max_question }}
     
-    <span id="btnNext" class="hidden"><a href="#">OK</a></span>
-    <span id="btnFinish" class="hidden"><a href="#">Auswertung</a></span>
+    <div id="btnNext" class="hidden"><button class="fluid ui primary button">OK</button></div>
+    <div id="btnFinish" class="hidden"><button class="fluid ui primary button">Auswertung</button></div>
 </template>
 

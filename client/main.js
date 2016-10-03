@@ -94,20 +94,32 @@ Template.questions.helpers({
 });
 
 function approveAnswer(){
-    // Increment correct answers
-    if (Session.get( "currQuestionCorrect"))
-    {
-        Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
-    }
     
-    // Append current incorrect answer
-    var currentIncorrectAnswer = Session.get("currentIncorrectAnswer");
-    if (currentIncorrectAnswer)
-    {
-        var incorrectQuestions = Session.get('incorrectQuestions');
-        incorrectQuestions.push(currentIncorrectAnswer);
-        Session.set( "incorrectQuestions", incorrectQuestions);
-    }
+    
+    // fade out
+    $('#question_container').transition({animation: 'fade up', onComplete: function(){
+         
+         // Increment correct answers
+        if (Session.get( "currQuestionCorrect"))
+        {
+            Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
+        }
+        
+        // Append current incorrect answer
+        var currentIncorrectAnswer = Session.get("currentIncorrectAnswer");
+        if (currentIncorrectAnswer)
+        {
+            var incorrectQuestions = Session.get('incorrectQuestions');
+            incorrectQuestions.push(currentIncorrectAnswer);
+            Session.set( "incorrectQuestions", incorrectQuestions);
+        }
+        
+        // update progress
+        $('#progress').progress('increment');
+         
+        // fade in 
+        $('#question_container').transition('fade up'); 
+    }});
     
     
 }
