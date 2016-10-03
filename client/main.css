@@ -15,3 +15,8 @@
 .wrong_given {
     font-weight: bold;
 }
+
+img.question_image {
+
+    max-width: 100%;
+}

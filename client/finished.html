@@ -3,7 +3,7 @@
     {{#if questions_incorrect}}
         <ul>
             {{#each q in questions_incorrect}}
-            <li> Frage: {{q.question}}
+            <li> {{q.topic}}: {{q.question}}
                 <ul>
                     {{#each a in q.answers}}
                         {{#if $eq a.correct "true" }}
