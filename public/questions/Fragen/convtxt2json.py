@@ -18,7 +18,7 @@ def parse_questions(topic):
             answers = []
         else:
             q_match = re.match("(\d*)\.(.*)",line)
-            if q_match is not None and len(q_match.groups()) == 2:
+            if len(q) == 0 and q_match is not None and len(q_match.groups()) == 2:
                 q["id"]=int(q_match.group(1))
                 question=q_match.group(2)
                 q["question"]= re.sub(r"<.*?>", "", question).strip()
