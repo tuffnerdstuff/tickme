@@ -1,10 +1,10 @@
-import json,re
+import json,re, codecs
 
 
 
 def parse_questions(topic):
     
-    f = open(topic + ".txt")
+    f = codecs.open(topic + ".txt", encoding="latin1")
     questions=[]
     q = {}
     answers = []
@@ -27,9 +27,9 @@ def parse_questions(topic):
                     q["image"]= image_match.group(1)
             else:
                 if line[:2] == "x ":
-                    answers.append({"correct":"true","answer":line[2:]})
+                    answers.append({"correct":"true","answer":line[2:].strip()})
                 else:
-                    answers.append({"correct":"false","answer":line})
+                    answers.append({"correct":"false","answer":line.strip()})
     return {"topic":topic, "questions":questions}
     
 
