@@ -6,6 +6,7 @@ import { Meteor } from 'meteor/meteor'
 Session.set( "state", "loading" );
 
 // Questions (loaded via ajax)
+Session.set( "questionsDatabase", undefined);
 Session.set( "questions", undefined);
 Session.set( "currQuestion", 0);
 Session.set( "incorrectQuestions", []);
@@ -16,10 +17,11 @@ Meteor.startup(function () {
 
     
     function questionsLoaded(data){
-        // Set Question data (select random questions)
-        Session.set( "questions", selectQuestions(data,1));
+        // Set question database
+        Session.set( "questionsDatabase", data);
+        
         // Switch to question state
-        Session.set( "state", "questions" );
+        Session.set( "state", "config" );
         
     };
     
@@ -35,36 +37,7 @@ Template.root.helpers({
     },
 });
 
-function selectQuestions(topics, questionsPerTopic) {
-    var selectedQuestions = []
-    
-    // Iterate over topics
-    topics.forEach(function(topic){
-        var topicQuestions = selectTopicQuestions(topic.questions, questionsPerTopic);
-        topicQuestions.forEach(function(q){
-            // add topic name
-            q.topic = topic.topic;
-            selectedQuestions.push(q);
-        });
-    });
-    
-    return selectedQuestions;
-};
 
-function selectTopicQuestions(list, count) {
-    var selElems = [];
-    elemsLeft = list.length;
-    list.forEach(function(e){
-        var p = count / elemsLeft;
-        if (p >= Math.random())
-        {
-            selElems.push(e);
-            count--;
-        }
-        elemsLeft--;
-    });
-    return selElems;
-}
 
 
 Template.questions.helpers({

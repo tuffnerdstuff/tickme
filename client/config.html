@@ -1,0 +1,58 @@
+<template name="config">
+    
+    <div class="ui items segment">
+        
+        <div class="item">
+    
+            <div class="image"><img src="para.jpg"/></div>
+            
+            <div class="content">
+            
+            <div class="header">Einstellungen</div>
+            
+            <div class="ui form">
+            
+                
+                
+                <!-- Topics -->
+                <div class="field">
+                    <label>Themengebiete</label>
+                    
+                    {{#each topic in topics}}
+                    <div class="field">
+                        <div class="ui checkbox">
+                            <input type="checkbox" checked="checked" data-topic="{{topic}}" id="topic{{@index}}"/>
+                            <label for="topic{{@index}}">{{topic}}</label>
+                        </div>
+                    </div>
+                    {{/each}}
+                </div>
+                
+                
+                <!-- Questions per topic -->
+                <div class="field">
+                  <label>Anzahl Fragen</label>
+                  <div class="ui selection dropdown" id="question_count">
+                      <input name="question_count" type="hidden">
+                      <i class="dropdown icon"></i>
+                      <div class="default text">Anzahl Fragen pro Themengebiet</div>
+                      <div class="menu">
+                          <div class="item" data-value="5">5</div>
+                          <div class="item" data-value="10">10</div>
+                          <div class="item" data-value="15">15</div>
+                          <div class="item" data-value="20">20</div>
+                          <div class="item" data-value="25">25</div>
+                          <div class="item" data-value="30">30</div>
+                      </div>
+                  </div>
+                </div>
+            
+            </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Submit -->
+    <div id="btnStart"><div class="ui fluid primary button" >Start!</div></div>
+    
+</template>
