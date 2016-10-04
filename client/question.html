@@ -16,10 +16,10 @@
         {{/if}}
         
         <div class="content">
-        <h1 class="header">{{q.topic}}</h1>
-        <p class="description">{{q.id}}. {{q.question}}</p>
+        <div class="header">{{q.topic}}</div>
+        <div class="meta">{{q.id}}. {{q.question}}</div>
 
-        <div class="extra content">
+        <div class="description">
         <div class="ui form">
         {{#each a in q.answers}}
             {{> answer answer=a currQuestion=currQuestion maxQuestion=maxQuestion questionIndex=@index}}
