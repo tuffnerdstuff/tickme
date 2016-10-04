@@ -10,8 +10,6 @@ Template.question.events({
 		
 		if (this.answer.correct == "true")
 		{
-			// Correct Answer
-            Session.set( "currQuestionCorrect", true);
             
             // Reset current incorrect question data
             Session.set("currentIncorrectAnswer",undefined);
@@ -19,8 +17,6 @@ Template.question.events({
 		}
 		else
 		{
-            // Wrong answer
-            Session.set( "currQuestionCorrect", false);
             
             // Set current incorrect question data
             Session.set("currentIncorrectAnswer",{"question":Session.get( "currQuestion"),"answer":this.questionIndex});

@@ -12,7 +12,6 @@ Session.set( "maxQuestion", 0);
 Session.set( "correctQuestions", 0);
 Session.set( "incorrectQuestions", []);
 Session.set( "currentIncorrectAnswer", undefined);
-Session.set( "currQuestionCorrect", false);
 
 Meteor.startup(function () {
     
@@ -20,7 +19,7 @@ Meteor.startup(function () {
     
     function questionsLoaded(data){
         // Set Question data (select random questions)
-        Session.set( "questions", selectQuestions(data,10));
+        Session.set( "questions", selectQuestions(data,1));
         // Switch to question state
         Session.set( "state", "questions" );
         
@@ -100,7 +99,7 @@ function approveAnswer(){
     $('#question_container').transition({animation: 'fade up', onComplete: function(){
          
          // Increment correct answers
-        if (Session.get( "currQuestionCorrect"))
+        if (Session.get( "currentIncorrectAnswer"))
         {
             Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
         }
