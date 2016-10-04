@@ -4,15 +4,15 @@ import './finished.html';
 Template.finished.helpers({
     
     questions_total() {
-        return Session.get("maxQuestion")+1;
+        return Session.get("questions").length;
     },
     
     correct_abs() {
-        return Session.get("correctQuestions");
+        return (Session.get("questions").length-Session.get("incorrectQuestions").length);
     },
     
     correct_rel() {
-        return Math.round((Session.get("correctQuestions")/(Session.get("maxQuestion")+1)) * 100) ;
+        return 100 - Math.round((Session.get("incorrectQuestions").length/(Session.get("questions").length)) * 100) ;
     },
     
     questions_incorrect() {

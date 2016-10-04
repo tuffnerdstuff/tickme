@@ -8,8 +8,6 @@ Session.set( "state", "loading" );
 // Questions (loaded via ajax)
 Session.set( "questions", undefined);
 Session.set( "currQuestion", 0);
-Session.set( "maxQuestion", 0);
-Session.set( "correctQuestions", 0);
 Session.set( "incorrectQuestions", []);
 Session.set( "currentIncorrectAnswer", undefined);
 
@@ -74,7 +72,6 @@ Template.questions.helpers({
     get_question() {
         var currQuestion = Session.get("currQuestion");
         var questions = Session.get( "questions" );
-        Session.set( "maxQuestion", questions.length-1);
         return questions[currQuestion];
     },
     
@@ -83,26 +80,12 @@ Template.questions.helpers({
     },
     
     max_question() {
-        return Session.get("maxQuestion")+1;
-    },
-    
-    correct_questions() {
-        return Session.get("correctQuestions");
+        return Session.get("questions").length;
     },
 
 });
 
 function approveAnswer(){
-    
-    
-    // fade out
-    $('#question_container').transition({animation: 'fade up', onComplete: function(){
-         
-         // Increment correct answers
-        if (Session.get( "currentIncorrectAnswer"))
-        {
-            Session.set( "correctQuestions", Session.get( "correctQuestions")+1);
-        }
         
         // Append current incorrect answer
         var currentIncorrectAnswer = Session.get("currentIncorrectAnswer");
@@ -115,11 +98,7 @@ function approveAnswer(){
         
         // update progress
         $('#progress').progress('increment');
-         
-        // fade in 
-        $('#question_container').transition('fade up'); 
-    }});
-    
+
     
 }
 
@@ -127,17 +106,26 @@ Template.questions.events({
 
     'click #btnNext'(){
         
-        approveAnswer();
+        // fade out
+        $('#question_container').transition({animation: 'fade up', onComplete: function(){
+            
+            approveAnswer();
         
-        // Increment current question index
-        var currQuestion = Session.get( "currQuestion");
-        Session.set("currQuestion", currQuestion + 1);
+            // Increment current question index
+            var currQuestion = Session.get( "currQuestion");
+            Session.set("currQuestion", currQuestion + 1);
+            
+            // Clear answers
+            $(".answer").attr('checked',false);
+            
+            // Hide myself
+            $('#btnNext').addClass('hidden');
+            
+            // fade in
+            $('#question_container').transition('fade up'); 
+        }});
         
-        // Clear answers
-        $(".answer").attr('checked',false);
         
-        // Hide myself
-        $('#btnNext').addClass('hidden');
     },
     
     'click #btnFinish'(){
