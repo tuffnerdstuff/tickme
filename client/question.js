@@ -1,9 +1,9 @@
 import { Template } from 'meteor/templating';
 import './question.html';
 
-Template.question.onRendered(function() {
+Template.question.rendered = function() {
     $('#progress').progress({showActivity: false});
-});
+};
 
 Template.question.events({
 	'click .answer'(event, template) {
@@ -36,5 +36,16 @@ Template.question.events({
         }
         
         
-	}
+	},
+    
+    'click .question_image': function (e) {
+        var imgPath = $(e.currentTarget).attr("src");
+        if (imgPath) {
+            sImageBox.open(imgPath);
+        }
+    },
+    
+    'click .s-image-box-image': function(e) {
+        sImageBox.close();
+    }
 });
