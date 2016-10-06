@@ -628,8 +628,7 @@ für den Luftraum E in Österreich
 x für den Luftraum G in Deutschland und den Luftraum G unterhalb von 900 m MSL bzw. 300 m GND in Österreich
 für alle Flüge nach Sichtflugregeln
 
-106. Flugsicht 5 km, horizontaler Wolkenabstand von 1500 Meter, vertikaler Wolkenabstand von 300
-Meter sind die Sichtflugminima
+106. Flugsicht 5 km, horizontaler Wolkenabstand von 1500 Meter, vertikaler Wolkenabstand von 300 Meter sind die Sichtflugminima
 für den Luftraum G in Deutschland
 für den gesamten Luftraum G in Österreich
 für den Luftraum G in Deutschland und den Luftraum G unterhalb von 900 m MSL bzw. 300 m GND in Österreich

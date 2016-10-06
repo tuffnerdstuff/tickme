@@ -964,8 +964,7 @@ Bremse auf der eingeklappten Seite betätigen
 Gewichtsverlagerung zur eingeklappten Seite
 x Beschleunigen sofort beenden
 
-162. Nach der Auslösung des Rettungsgerätes verfängt sich dieses in den Fangleinen des Gleitschirms.
-Was sollte der Pilot tun?
+162. Nach der Auslösung des Rettungsgerätes verfängt sich dieses in den Fangleinen des Gleitschirms. Was sollte der Pilot tun?
 Den Gleitschirm stallen
 Nichts, die Verhängung löst sich immer nach kurzer Zeit selbständig
 Den zweiten Rettungsschirm auslösen
@@ -983,8 +982,7 @@ Den Verhänger durch einen Fullstall lösen
 x Den Verhänger durch Ziehen an der Stabiloleine oder aktives Einklappen der betroffenen Seite zu lösen versuchen
 Mit dem stabilisierten Schirm schnellstmöglich einen Landeplatz anfliegen 
 
-165. Bei einem Gleitschirm ist die Strömung einseitig abgerissen, er trudelt über mehrere Umdrehungen.
-Die Ausleitung dieses Flugzustandes erfolgt bei ausreichender Höhe,
+165. Bei einem Gleitschirm ist die Strömung einseitig abgerissen, er trudelt über mehrere Umdrehungen. Die Ausleitung dieses Flugzustandes erfolgt bei ausreichender Höhe,
 indem das Trudeln über einen Fullstall ausgeleitet wird
 indem der Rettungsschirm ausgelöst wird
 x durch Freigeben der heruntergezogenen Bremse, wenn die Kappe vor dem Piloten ist

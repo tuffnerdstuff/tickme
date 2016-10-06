@@ -12,8 +12,12 @@ def parse_questions(topic):
         line=line.strip()
         line=line.replace('\\"','"')
         if line == "":
+            
             q["answers"] = answers
             questions.append(q)
+            if (len(answers) != 4):
+                print ("WARNING: question with more/less than 4 answers")
+                print(q)
             q = {}
             answers = []
         else:
@@ -39,6 +43,6 @@ topics.append(parse_questions("Luftrecht"))
 topics.append(parse_questions("Meteorologie"))
 topics.append(parse_questions("Technik"))    
 questions_json = json.dumps(topics, indent=2, ensure_ascii=False)
-print(questions_json)
-outfile = open("questions.json","w")
+
+outfile = codecs.open("questions.json", "w", encoding="utf8")
 outfile.write(questions_json)
