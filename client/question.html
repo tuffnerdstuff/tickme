@@ -1,3 +1,8 @@
+<template name ="questions">
+    {{> question q=get_question currQuestion=curr_question maxQuestion=max_question isConfPreview=is_preview}}
+    
+</template>
+
 <template name ="question">
     
     <div class="ui indicating progress" data-value="1" data-total="{{maxQuestion}}" id="progress">
@@ -22,7 +27,7 @@
         <div class="description">
         <div class="ui form">
         {{#each a in q.answers}}
-            {{> answer answer=a currQuestion=currQuestion maxQuestion=maxQuestion questionIndex=@index}}
+            {{> answer answer=a currQuestion=currQuestion maxQuestion=maxQuestion questionIndex=@index isConfPreview=isConfPreview}}
         {{/each}}
         </div>
         </div>
@@ -31,11 +36,16 @@
     </div>
     
     </div>
+    
+    <!-- Next Button -->
+    <div id="btnAccept" class="hidden"><button class="fluid ui primary button">Bestätigen</button></div>
+    <div id="btnNext" class="hidden"><button class="fluid ui primary button">OK</button></div>
+    <div id="btnFinish" class="hidden"><button class="fluid ui primary button">Auswertung</button></div>
 </template>
 
 <template name ="answer">
 
-        <div class="field">
+        <div class="field {{#if is_answer_correct answer}}correct{{else}}wrong{{/if}}">
             <div class="ui radio checkbox">
                 
                 <input type="radio" name="answer" id="answer{{questionIndex}}" class="answer"/>

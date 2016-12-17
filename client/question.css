@@ -1,0 +1,7 @@
+.preview .correct {
+    background-color: #b8f7ad;
+}
+
+.preview .wrong.given {
+    background-color: #f9acac;
+}

@@ -1,0 +1,12 @@
+#statistics .correct {
+    color: green;
+    font-weight: bold;
+}
+
+#statistics .wrong,#statistics .wrong_given {
+    color: red;
+}
+
+#statistics .wrong_given {
+    font-weight: bold;
+}

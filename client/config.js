@@ -40,8 +40,10 @@ Template.config.events({
         // Switch to question state
         Session.set( "state", "questions" );
     },
-    'click .checkbox'() {
-        if ($('.checkbox>input:checked').length > 0 )
+    
+    // At least one topic must be selected 
+    'click .topic.checkbox'() {
+        if ($('.topic.checkbox>input:checked').length > 0 )
         {
             $('#btnStart').removeClass('hidden');
         }
@@ -49,6 +51,11 @@ Template.config.events({
         {
             $('#btnStart').addClass('hidden');
         }
+    },
+    
+    // Option: Preview correct answer
+    'change #chkPreview'(event, instance) {
+        Session.set( "confPreviewAnswer", event.target.checked);
     },
 
 });

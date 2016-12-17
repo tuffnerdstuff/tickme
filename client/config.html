@@ -20,7 +20,7 @@
                     
                     {{#each topic in topics}}
                     <div class="field">
-                        <div class="ui checkbox">
+                        <div class="ui checkbox topic">
                             <input type="checkbox" checked="checked" data-topic="{{topic}}" id="topic{{@index}}"/>
                             <label for="topic{{@index}}">{{topic}}</label>
                         </div>
@@ -31,7 +31,7 @@
                 
                 <!-- Questions per topic -->
                 <div class="field">
-                  <label>Anzahl Fragen</label>
+                  <label>Fragen pro Themengebiet</label>
                   <div class="ui selection dropdown" id="question_count">
                       <input name="question_count" type="hidden">
                       <i class="dropdown icon"></i>
@@ -46,7 +46,18 @@
                       </div>
                   </div>
                 </div>
-            
+                
+                <!-- Preview correct answer -->
+                <div class="field">
+                    <label>Verschiedenes</label>
+                    <div class="field">
+                        <div class="ui checkbox">
+                            <input type="checkbox" id="chkPreview"/>
+                            <label for="chkPreview">Auswertung nach jeder Anwort</label>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
             </div>
         </div>
