@@ -8,6 +8,8 @@ Session.set( "state", "loading" );
 // Questions (loaded via ajax)
 Session.set( "questionsDatabase", undefined);
 Session.set( "questions", undefined);
+Session.set( "currTopic", 0);
+Session.set( "currTopicQuestion", 0);
 Session.set( "currQuestion", 0);
 Session.set( "incorrectQuestions", []);
 Session.set( "currentIncorrectAnswer", undefined);

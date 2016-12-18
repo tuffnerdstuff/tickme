@@ -1,5 +1,5 @@
 <template name ="questions">
-    {{> question q=get_question currQuestion=curr_question maxQuestion=max_question isConfPreview=is_preview}}
+    {{> question q=get_question topic=get_topic topicQuestionNr=topic_question_nr topicQuestionCount=topic_question_count currQuestion=curr_question_nr maxQuestion=question_count isConfPreview=is_preview}}
     
 </template>
 
@@ -21,7 +21,7 @@
         {{/if}}
         
         <div class="content">
-        <div class="header">{{q.topic}}</div>
+        <div class="header">{{topic.topic}} [{{topicQuestionNr}}/{{topicQuestionCount}}]</div>
         <div class="meta">{{q.id}}. {{q.question}}</div>
 
         <div class="description">

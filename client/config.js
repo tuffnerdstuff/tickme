@@ -69,12 +69,8 @@ function selectQuestions(questions, topics, questionsPerTopic) {
         // Only select topic if it is in topics array
         if ($.inArray(topic.topic, topics) != -1){
         
-            var topicQuestions = selectTopicQuestions(topic.questions, questionsPerTopic);
-            topicQuestions.forEach(function(q){
-                // add topic name
-                q.topic = topic.topic;
-                selectedQuestions.push(q);
-            });
+            var q = {"topic":topic.topic,"questions":selectTopicQuestions(topic.questions, questionsPerTopic)};
+            selectedQuestions.push(q);
         }
     });
     

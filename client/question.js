@@ -1,21 +1,48 @@
 import { Template } from 'meteor/templating';
 import './question.html';
 
+function getCurrentTopic()
+{
+    var currTopic = Session.get( "currTopic");
+    var questions = Session.get( "questions" );
+    return questions[currTopic];
+}
+
 
 Template.questions.helpers({
 
     get_question() {
-        var currQuestion = Session.get("currQuestion");
-        var questions = Session.get( "questions" );
-        return questions[currQuestion];
+        var currTopicQuestionIndex = Session.get( "currTopicQuestion");
+        var currTopic = getCurrentTopic();
+        return currTopic.questions[currTopicQuestionIndex];
     },
     
-    curr_question() {
+    get_topic() {
+        
+        return getCurrentTopic();
+    },
+    
+    topic_question_nr() {
+        return Session.get( "currTopicQuestion") + 1;
+    },
+    
+    topic_question_count() {
+        return getCurrentTopic().questions.length;
+    },
+    
+    curr_question_nr() {
         return Session.get("currQuestion")+1;
     },
     
-    max_question() {
-        return Session.get("questions").length;
+    question_count() {
+        var questionCount = 0;
+        var questions = Session.get( "questions" );
+        questions.forEach(function(topic){
+            
+            questionCount += topic.questions.length;
+            
+        });
+        return questionCount;
     },
     
     is_preview() {
@@ -107,8 +134,21 @@ Template.question.events({
             approveAnswer();
         
             // Increment current question index
+            var questions = Session.get( "questions");
             var currQuestion = Session.get( "currQuestion");
             Session.set("currQuestion", currQuestion + 1);
+            var currTopic = Session.get("currTopic");
+            var currTopicQuestion = Session.get( "currTopicQuestion");
+            if ((questions[currTopic].questions.length-1) > currTopicQuestion)
+            {
+                Session.set("currTopicQuestion", currTopicQuestion + 1);
+            }
+            else
+            {
+                Session.set("currTopic", currTopic + 1);
+                Session.set("currTopicQuestion", 0);
+            }
+            
             
             // Clear preview
             $('.preview').removeClass('preview');
