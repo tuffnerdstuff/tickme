@@ -17,12 +17,27 @@
                                     <div class="list">
                                         {{#each a in q.answers}}
                                             {{#if $eq a.correct "true" }}
-                                                <div class="item correct">Richtig: {{a.answer}}</div>
+                                                <div class="item">
+                                                    <i class="checkmark box icon"></i>
+                                                    <div class="content">
+                                                        <div class="item description correct">{{a.answer}}</div>
+                                                    </div>
+                                                </div>
                                             {{else}}
                                                 {{#if a.given}}
-                                                    <div class="item wrong_given">Falsch: {{a.answer}} (Deine Antwort)</div>
+                                                    <div class="item">
+                                                        <i class="square icon"></i>
+                                                        <div class="content">
+                                                            <div class="description wrong given">{{a.answer}} (Deine Antwort)</div>
+                                                        </div>
+                                                    </div>
                                                 {{else}}
-                                                    <div class="item wrong">Falsch: {{a.answer}}</div>
+                                                    <div class="item">
+                                                        <i class="square outline icon"></i>
+                                                        <div class="content">
+                                                            <div class="item description">{{a.answer}}</div>
+                                                        </div>
+                                                    </div>
                                                 {{/if}}
                                             {{/if}}
                                         {{/each}}
