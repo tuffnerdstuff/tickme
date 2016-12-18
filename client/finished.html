@@ -3,21 +3,35 @@
         <h1>Ergebnis: {{correct_abs}} von {{questions_total}} richtig ({{correct_rel}}%)</h1>
         {{#if questions_incorrect}}
             <div class="ui list">
-                {{#each q in questions_incorrect}}
-                <div class="item"> {{q.topic}}: {{q.question}}
-                    <div class="list">
-                        {{#each a in q.answers}}
-                            {{#if $eq a.correct "true" }}
-                                <div class="item correct">Richtig: {{a.answer}}</div>
-                            {{else}}
-                                {{#if a.given}}
-                                    <div class="item wrong_given">Falsch: {{a.answer}} (Deine Antwort)</div>
-                                {{else}}
-                                    <div class="item wrong">Falsch: {{a.answer}}</div>
-                                {{/if}}
-                            {{/if}}
-                        {{/each}}
-                    </div>
+                {{#each topic in questions_incorrect}}
+                <div class="item"> 
+                    <i class="folder icon"></i>
+                    <div class="content"> <!-- content -->
+                        <div class="header">{{topic.topic}} [{{minus topic.questionsTotal topic.questionsWrong}}/{{topic.questionsTotal}} = {{inverted_percentage topic.questionsWrong topic.questionsTotal}}%]</div>
+                        <div class="list">
+                            {{#each q in topic.questions}}
+                            <div class="item"> 
+                                <i class="talk icon"></i>
+                                <div class="content"> <!-- content -->
+                                    <div class="header">{{q.question}}</div>
+                                    <div class="list">
+                                        {{#each a in q.answers}}
+                                            {{#if $eq a.correct "true" }}
+                                                <div class="item correct">Richtig: {{a.answer}}</div>
+                                            {{else}}
+                                                {{#if a.given}}
+                                                    <div class="item wrong_given">Falsch: {{a.answer}} (Deine Antwort)</div>
+                                                {{else}}
+                                                    <div class="item wrong">Falsch: {{a.answer}}</div>
+                                                {{/if}}
+                                            {{/if}}
+                                        {{/each}}
+                                    </div>
+                                </div> <!-- content -->
+                            </div>
+                            {{/each}}
+                        </div>
+                    </div> <!-- content -->
                 </div>
                 {{/each}}
             </div>

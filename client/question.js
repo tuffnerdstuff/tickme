@@ -8,13 +8,18 @@ function getCurrentTopic()
     return questions[currTopic];
 }
 
+function getCurrentQuestion()
+{
+    var currTopicQuestionIndex = Session.get( "currTopicQuestion");
+    var currTopic = getCurrentTopic();
+    return currTopic.questions[currTopicQuestionIndex];
+}
+
 
 Template.questions.helpers({
 
     get_question() {
-        var currTopicQuestionIndex = Session.get( "currTopicQuestion");
-        var currTopic = getCurrentTopic();
-        return currTopic.questions[currTopicQuestionIndex];
+        return getCurrentQuestion();
     },
     
     get_topic() {
@@ -58,8 +63,23 @@ function approveAnswer(){
         if (currentIncorrectAnswer)
         {
             var incorrectQuestions = Session.get('incorrectQuestions');
-            incorrectQuestions.push(currentIncorrectAnswer);
+            var currentTopic = getCurrentTopic();
+            if (!(currentTopic.topic in incorrectQuestions))
+            {
+                var newTopic = {topic:currentTopic.topic};
+                newTopic.questionsTotal = currentTopic.questions.length;
+                newTopic.questionsWrong = 0;
+                newTopic.questions = [];
+                incorrectQuestions[currentTopic.topic] = newTopic;
+            }
+            var incorrectAnswer = {};
+            incorrectAnswer.question = currentIncorrectAnswer.question.question;
+            incorrectAnswer.answers =  currentIncorrectAnswer.question.answers.slice();
+            incorrectAnswer.answers[currentIncorrectAnswer.givenAnswerIndex].given = true;
+            incorrectQuestions[currentTopic.topic].questionsWrong++;
+            incorrectQuestions[currentTopic.topic].questions.push(incorrectAnswer);
             Session.set( "incorrectQuestions", incorrectQuestions);
+            Session.set( "totalIncorrectAnswers", Session.get( "totalIncorrectAnswers") + 1);
         }
         
         // update progress
@@ -91,7 +111,11 @@ Template.question.events({
 		{
             
             // Set current incorrect question data
-            Session.set("currentIncorrectAnswer",{"question":Session.get( "currQuestion"),"answer":this.questionIndex});
+            var currTopic = getCurrentTopic();
+            var incorrectAnswer = {};
+            incorrectAnswer.question = getCurrentQuestion();
+            incorrectAnswer.givenAnswerIndex = this.questionIndex;
+            Session.set("currentIncorrectAnswer",incorrectAnswer);
             
 		}
         

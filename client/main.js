@@ -11,8 +11,9 @@ Session.set( "questions", undefined);
 Session.set( "currTopic", 0);
 Session.set( "currTopicQuestion", 0);
 Session.set( "currQuestion", 0);
-Session.set( "incorrectQuestions", []);
+Session.set( "incorrectQuestions", {});
 Session.set( "currentIncorrectAnswer", undefined);
+Session.set( "totalIncorrectAnswers", 0);
 
 // Config
 Session.set( "confPreviewAnswer", false);
