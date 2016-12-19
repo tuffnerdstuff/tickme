@@ -64,14 +64,7 @@ function approveAnswer(){
         {
             var incorrectQuestions = Session.get('incorrectQuestions');
             var currentTopic = getCurrentTopic();
-            if (!(currentTopic.topic in incorrectQuestions))
-            {
-                var newTopic = {topic:currentTopic.topic};
-                newTopic.questionsTotal = currentTopic.questions.length;
-                newTopic.questionsWrong = 0;
-                newTopic.questions = [];
-                incorrectQuestions[currentTopic.topic] = newTopic;
-            }
+            
             var incorrectAnswer = {};
             incorrectAnswer.question = currentIncorrectAnswer.question.question;
             incorrectAnswer.answers =  currentIncorrectAnswer.question.answers.slice();

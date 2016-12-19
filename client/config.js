@@ -36,6 +36,18 @@ Template.config.events({
         // Set Question data (select random questions)
         var selectedQuestions = selectQuestions(Session.get("questionsDatabase"), topics, questionCount);
         Session.set( "questions", selectedQuestions);
+		
+		// initialize Incorrect Answer data
+		var incorrectQuestions = Session.get('incorrectQuestions');
+		selectedQuestions.forEach(function(topic){
+			var newTopic = {topic:topic.topic};
+			newTopic.questionsTotal = topic.questions.length;
+			newTopic.questionsWrong = 0;
+			newTopic.questions = [];
+			incorrectQuestions[topic.topic] = newTopic;
+		});
+		Session.set('incorrectQuestions', incorrectQuestions);
+		
         
         // Switch to question state
         Session.set( "state", "questions" );
