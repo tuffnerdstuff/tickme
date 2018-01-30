@@ -1,0 +1,17 @@
+Here are some tools to help import questions and pictures into the native format for this application.
+
+convtxt2json.py
+---------------
+This python script converts paragliding questions of the old Flugschule Nürnberg format to the native format of the application.
+
+onlearning.at
+-------------
+The most recent DHV questions are available on onlearning.at and can be exported as PDF files (one for the questions and one for the pictures). To convert them one can use the following approach:
+
+1. Convert text: pdftotext -nopgbrk -layout -r 72 -x 0 -y 30 -H 770 -W 595 Lernstoff.pdf 
+2. Convert images: 
+2.1 Extract images: pdfimages -png Bilder.pdf gs
+2.2 Remove Duplicates (onlearning.at logo): 
+2.2.1 fdupes -dI .
+2.2.2 remove remaining onlearning.at logos
+2.3 Rename images: i=1; for f in *.png; do mv "$f" "gs-$i.png"; let "i++"; done
